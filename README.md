@@ -2,9 +2,9 @@
 
 ## Description - Descripción  
 
-Spanish translation of HavlockV's Call of Cthulhu 7th module for Foundry VTT.
+* Spanish translation of HavlockV's Call of Cthulhu 7th module for Foundry VTT.
 ----
-Traducción al español del módulo de La Llamada de Cthulhu 7a creado por HavlockV para Foundry VTT.
+* Traducción al español del módulo de La Llamada de Cthulhu 7a creado por HavlockV para Foundry VTT.
 
 ## Installation - Instalación  
 
@@ -20,9 +20,9 @@ Traducción al español del módulo de La Llamada de Cthulhu 7a creado por Havlo
 
 ## Notificación de errores - Feedback  
 
-Please any suggestion or feedback is greatly appreciated. Use the issue system.
+* Please any suggestion or feedback is greatly appreciated. Use the issue system.
 ----
-Cualquier sugerencia o comentario es bienvenido. Usad el sistema de notificación de errores de github.
+* Cualquier sugerencia o comentario es bienvenido. Usad el sistema de notificación de errores de github.
 
 ## Créditos  
 
