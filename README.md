@@ -12,7 +12,7 @@ Traducción al español del módulo de La Llamada de Cthulhu 7a creado por Havlo
 [Module Url](https://gitlab.com/riccisi/foundryvtt-babele)
 * Install call-of-cthulhu-7th-babele-es from this url:
 [Module Url](https://raw.githubusercontent.com/lozalojo/call-of-cthulhu-7th-babele-es/master/module.json)
-  
+\
 * Instala babele desde el gestor de módulos de Foundry.
 [Module Url](https://gitlab.com/riccisi/foundryvtt-babele)
 * Instala call-of-cthulhu-7th-babele-es desde esta url:
