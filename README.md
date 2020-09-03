@@ -1,12 +1,11 @@
 # La Llamada de Cthulhu 7a para FoundryVTT
 
-## Description / Descripción
+## Description / Descripción  
 Spanish translation of HavlockV's Call of Cthulhu 7th module for Foundry VTT.
 ----
 Traducción al español del módulo de La Llamada de Cthulhu 7a creado por HavlockV para Foundry VTT.
 
-## Installation / Instalación
-----
+## Installation / Instalación  
 * Install babele from the Foundry module manager.
 [Module Url](https://gitlab.com/riccisi/foundryvtt-babele)
 * Install call-of-cthulhu-7th-babele-es from this url:
@@ -17,7 +16,7 @@ Traducción al español del módulo de La Llamada de Cthulhu 7a creado por Havlo
 * Instala call-of-cthulhu-7th-babele-es desde esta url:
 [Module Url](https://raw.githubusercontent.com/lozalojo/call-of-cthulhu-7th-babele-es/master/module.json)
 
-## Notificación de errores/Feedback
+## Notificación de errores/Feedback  
 Please any suggestion or feedback is greatly appreciated. Use the issue system.
 ----
 Cualquier sugerencia o comentario es bienvenido. Usad el sistema de notificación de errores de github.
