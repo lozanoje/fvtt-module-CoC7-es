@@ -1,0 +1,20 @@
+{
+	"label": "Armas",
+	"entries": [
+		{
+			"id": "Death ray (prototype)",
+			"name": "Rayo de muerte (prototipo)",
+			"description": ""
+		},
+		{
+			"id": "Experimental weapon",
+			"name": "Arma experimental",
+			"description": "<p>Description of the weapon</p>\n<p>selecting 'Area of effect' will enable 3 different damage and range</p>\n<p>selecting 'Full-auto' will allow 2 different skilss to be selected for the weapon</p>\n<p>selecting 'Special' will activate the special input field</p>\n<p>In the combat tab, if the icons are with a red background, it means that no skill have been selected for that weapon</p>\n<p>Edit the weapon and select the correct skill.</p>"
+		},
+		{
+			"id": "Punch",
+			"name": "Puñetazo",
+			"description": ""
+		}
+	]
+}
