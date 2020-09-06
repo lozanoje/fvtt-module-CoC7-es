@@ -9,7 +9,7 @@
 		{
 			"id": "Experimental weapon",
 			"name": "Arma experimental",
-			"description": "<p>Description of the weapon</p>\n<p>selecting 'Area of effect' will enable 3 different damage and range</p>\n<p>selecting 'Full-auto' will allow 2 different skilss to be selected for the weapon</p>\n<p>selecting 'Special' will activate the special input field</p>\n<p>In the combat tab, if the icons are with a red background, it means that no skill have been selected for that weapon</p>\n<p>Edit the weapon and select the correct skill.</p>"
+			"description": "<p>Descripción del arma</p>\n<p>si seleccionas un 'Área de efecto' se habilitarán 3 daños y alcances distintos</p>\n<p>si seleccionas 'Full-auto' solo se permitirá elegir 2 habilidades diferentes para el arma</p>\n<p>si seleccionas 'Especial' se activará un campo manual especial</p>\n<p>En la pestaña de combate si los iconos tienen un fondo rojo significa que no se ha seleccionado ninguna habilidad para el arma</p>\n<p>Edita el arma y selecciona la habilidad correcta.</p>"
 		},
 		{
 			"id": "Punch",

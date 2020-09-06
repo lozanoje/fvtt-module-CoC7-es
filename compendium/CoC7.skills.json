@@ -8,7 +8,7 @@
 		},
 		{
 			"id": "Acting",
-			"name": "Arte/Artesanía (Interpretación)",
+			"name": "Interpretación",
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		},
 		{
@@ -38,37 +38,37 @@
 		},
 		{
 			"id": "Astronomy",
-			"name": "Ciencia (Astronomía)",
+			"name": "Astronomía",
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		},
 		{
 			"id": "Axe",
-			"name": "Combatir (Hacha)",
+			"name": "Hacha",
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		},
 		{
 			"id": "Biology",
-			"name": "Ciencia (Biología)",
+			"name": "Biología",
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		},
 		{
 			"id": "Botany",
-			"name": "Ciencia (Botánica)",
+			"name": "Botánica",
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		},
 		{
 			"id": "Bow",
-			"name": "Armas de fuego (Arco)",
+			"name": "Arco",
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		},
 		{
 			"id": "Brawl",
-			"name": "Combatir (Pelea)",
+			"name": "Pelea",
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		},
 		{
 			"id": "Chainsaw",
-			"name": "Combatir (Motosierra)",
+			"name": "Motosierra",
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		},
 		{
@@ -78,7 +78,7 @@
 		},
 		{
 			"id": "Chemistry",
-			"name": "Ciencia (Química)",
+			"name": "Química",
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		},
 		{
@@ -98,7 +98,7 @@
 		},
 		{
 			"id": "Cryptography",
-			"name": "Ciencia (Criptografía)",
+			"name": "Criptografía",
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		},
 		{
@@ -148,7 +148,7 @@
 		},
 		{
 			"id": "Fine Art",
-			"name": "Arte/Artesanía (Pintura)",
+			"name": "Pintura",
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		},
 		{
@@ -158,42 +158,42 @@
 		},
 		{
 			"id": "Flail",
-			"name": "Combatir (Mayal)",
+			"name": "Mayal",
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		},
 		{
 			"id": "Flamethrower",
-			"name": "Armas de fuego (Lanzallamas)",
+			"name": "Lanzallamas",
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		},
 		{
 			"id": "Forensics",
-			"name": "Ciencia (Medicina forense)",
+			"name": "Medicina forense",
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		},
 		{
 			"id": "Forgery",
-			"name": "Arte/Artesanía (Falsificación)",
+			"name": "Falsificación",
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		},
 		{
 			"id": "Garrote",
-			"name": "Combatir (Cable)",
+			"name": "Cable",
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		},
 		{
 			"id": "Geology",
-			"name": "Ciencia (Geología)",
+			"name": "Geología",
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		},
 		{
 			"id": "Handgun",
-			"name": "Armas de fuego (Arma corta)",
+			"name": "Arma corta",
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		},
 		{
 			"id": "Heavy Weapons",
-			"name": "Armas de fuego (Armamento pesado)",
+			"name": "Armamento pesado",
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		},
 		{
@@ -243,12 +243,12 @@
 		},
 		{
 			"id": "Machine Gun",
-			"name": "Armas de fuego (Ametralladora)",
+			"name": "Ametralladora",
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		},
 		{
 			"id": "Mathematics",
-			"name": "Ciencia (Matemáticas)",
+			"name": "Matemáticas",
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		},
 		{
@@ -263,7 +263,7 @@
 		},
 		{
 			"id": "Meteorology",
-			"name": "Ciencia (Meteorología)",
+			"name": "Meteorología",
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		},
 		{
@@ -293,17 +293,17 @@
 		},
 		{
 			"id": "Pharmacy",
-			"name": "Ciencia (Farmacología)",
+			"name": "Farmacología",
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		},
 		{
 			"id": "Photography",
-			"name": "Arte/Artesanía (Fotografía)",
+			"name": "Fotografía",
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		},
 		{
 			"id": "Physics",
-			"name": "Ciencia (Física)",
+			"name": "Física",
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		},
 		{
@@ -333,12 +333,12 @@
 		},
 		{
 			"id": "Rifle",
-			"name": "Armas de fuego (Fusil)",
+			"name": "Fusil",
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		},
 		{
 			"id": "Shotgun",
-			"name": "Armas de fuego (Escopeta)",
+			"name": "Escopeta",
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		},
 		{
@@ -348,7 +348,7 @@
 		},
 		{
 			"id": "Spear",
-			"name": "Combatir (Lanza)",
+			"name": "Lanza",
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		},
 		{
@@ -363,7 +363,7 @@
 		},
 		{
 			"id": "Submachine Gun",
-			"name": "Armas de fuego (Subfusil)",
+			"name": "Subfusil",
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		},
 		{
@@ -378,7 +378,7 @@
 		},
 		{
 			"id": "Sword",
-			"name": "Combatir (Espada)",
+			"name": "Espada",
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		},
 		{
@@ -393,12 +393,12 @@
 		},
 		{
 			"id": "Whip",
-			"name": "Combatir (Látigo)",
+			"name": "Látigo",
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		},
 		{
 			"id": "Zoology",
-			"name": "Ciencia (Zoología)",
+			"name": "Zoología",
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		}
 	]

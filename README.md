@@ -29,3 +29,14 @@
 * La traducción es obra de *José E. Lozano* (Viriato139ac) y *Gerbek*.
 * Se ha usado como plantilla la traducción de *Dungeon World* de *patoarayas*.
 * *Babele* es un módulo de *Simone Ricciardi*.
+
+## Versiones
+
+version 0.2 :
+
+* Updated to HavlockV/CoC7-FoundryVTT 0.3.3
+
+version 0.1 :
+
+* First working version.
+* Translated from HavlockV/CoC7-FoundryVTT 0.3.2 
