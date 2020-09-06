@@ -101,6 +101,7 @@
 "CoC7.check.DecreaseSuccessLevel": "Disminuir nivel de éxito",
 
 "CoC7.BonusSelectionWindow": "Seleccionar dificultad y bonificación",
+"CoC7.SkillDetailsWindow" : "Ventana de detalles de la habilidad",
 "CoC7.RegularDifficulty": "normal",
 "CoC7.HardDifficulty": "difícil",
 "CoC7.ExtremeDifficulty": "extrema",
@@ -296,6 +297,11 @@
 "CoC7.OccultBook": "Libro de Ocultismo",
 "CoC7.Unidentified": "Sin identificar",
 
+"CoC7.Items": "Objetos",
+"CoC7.Books": "Tomos",
+
+"CoC7.PutGunAway": "Bajar el arma",
+"CoC7.DrawGun": "Desenfundar el arma",
 
 "SETTINGS.DefaultDifficulty": "Dificultad por defecto",
 "SETTINGS.DefaultDifficultyHint": "Puedes indicar la dificultad por defecto de las tiradas. Desconocida lanzará tiradas sin que el jugador conozca la dificultad.",
@@ -304,5 +310,13 @@
 "SETTINGS.UseToken": "Usar imagen del icono",
 "SETTINGS.UseTokenHint": "Usar la imagen del icono en lugar de los retratos en las cartas del chat",
 "SETTINGS.DisplayActorOnCard": "Mostrar actor en carta",
-"SETTINGS.DisplayActorOnCardHint": "Mostrar la imagen/icono del actor en las cartas de chat de combate"
+"SETTINGS.DisplayActorOnCardHint": "Mostrar la imagen/icono del actor en las cartas de chat de combate",
+"SETTINGS.InitiativeRule": "Mecánica de cálculo de iniciativa",
+"SETTINGS.InitiativeRuleHint": "Puedes elegir entre la iniciativa básica (valores de DES) o la regla opcional (tirada de DES)",
+"SETTINGS.InitiativeRuleBasic": "Básica",
+"SETTINGS.InitiativeRuleOptional": "Opcional",
+"SETTINGS.displayInitDices": "Mostrar dado de iniciativa",
+"SETTINGS.displayInitDicesHint": "Mostrar los dados cuando se tire iniciativa (solo cuando se usa la regla opcional)",
+"SETTINGS.PulpRules" : "PV Pulp",
+"SETTINGS.PulpRulesHint" : "Usar las reglas de Pulp para el cálculo de los PV"
 }

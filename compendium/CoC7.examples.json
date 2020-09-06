@@ -274,7 +274,7 @@
 							"chat": ""
 						},
 						"base": "1/2 @DEX",
-						"value": "1/2 @DEX",
+						"value": "@DEX/2",
 						"attributes": {},
 						"properties": {
 							"special": false,
