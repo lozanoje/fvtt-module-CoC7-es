@@ -137,6 +137,10 @@
 "CoC7.TitleOutNumbered": "Añadir 1 dado de bonificación por objetivo en inferioridad numérica",
 "CoC7.TitleSurprised": "Añadir 1 dado de bonificación por objetivo sorprendido",
 "CoC7.TitleAutoSuccess": "El ataque impacta automáticamente",
+"CoC7.WinnerRollDamage": "{name} ha ganado. Tirar daño.",
+"CoC7.NoWinner": "Ambas partes han fallado.",
+"CoC7.DodgeSuccess": "{name} ha esquivado!",
+"CoC7.ManeuverSuccess": "La maniobra de {name} ha tenido éxito.",
 
 "CoC7.combatCard.dive4cover": "Ponerse a Cubierto",
 
@@ -250,6 +254,7 @@
 "CoC7.WeaponName": "Nombre",
 "CoC7.WeaponSkill": "Habilidad",
 "CoC7.WeaponSkillAlt": "Hab. alternativa",
+"CoC7.Inventory": "Inventario",
 
 
 "CoC7.ManualCreditValues": "Crédito manual",
