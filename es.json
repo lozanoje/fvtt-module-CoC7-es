@@ -19,12 +19,14 @@
 "CHARAC.Education": "Educación",
 
 "CoC7.Name": "Nombre",
+"CoC7.Archetype": "Arquetipo",							  
 "CoC7.Occupation": "Ocupación",
 "CoC7.Age": "Edad",
 "CoC7.Sex": "Género",
 "CoC7.Residence": "Residencia",
 "CoC7.Birthplace": "Nacimiento",
-"CoC7.HitPoints": "Puntos de vida",
+"CoC7.Organization": "Organización",
+"CoC7.HitPoints": "Puntos de vida",							   
 "CoC7.HP": "PV",
 "CoC7.MagicPoints": "Puntos de magia",
 "CoC7.MP": "PM",
@@ -44,6 +46,7 @@
 "CoC7.Background": "Trasfondo",
 "CoC7.Notes": "Notas",
 "CoC7.DailySanIconOver": "Reiniciar",
+"CoC7.Prone": "Caído",
 "CoC7.Unconsious": "Inconsciente",
 "CoC7.CriticalWounds": "Herida grave",
 "CoC7.Dying": "Moribundo",
@@ -159,6 +162,7 @@
 "CoC7.rangeCombatCard.FastMovingTarget": "Objetivo rápido",
 "CoC7.rangeCombatCard.InMelee": "En combate cuerpo a cuerpo",
 "CoC7.rangeCombatCard.aiming": "Apuntando",
+"CoC7.rangeCombatDamage" : "{name} recibe {total} puntos de daño",
 
 "CoC7.DropZone": "DropZone",
 
@@ -199,6 +203,7 @@
 "CoC7.SkillFirearm": "Armas de fuego",
 
 "CoC7.WeaponRngd": "Alcance",
+"CoC7.WeaponProperyManeuver": "Maniobra",
 "CoC7.WeaponTouch": "Toque",
 "CoC7.WeaponImpl": "Empala",
 "CoC7.WeaponRare": "Rara",
@@ -217,6 +222,7 @@
 "CoC7.Weapon.Property.Thrown": "Arrojadiza",
 "CoC7.Weapon.Property.Burn": "Fuego",
 "CoC7.Weapon.Property.Shotgun": "Arma de fuego",
+
 
 "CoC7.ErrorItem": "No se pudo localizar el ítem",
 "CoC7.ErrorActor": "No se pudo localizar al actor",
@@ -302,6 +308,16 @@
 "CoC7.OccultBook": "Libro de Ocultismo",
 "CoC7.Unidentified": "Sin identificar",
 
+"CoC7.PulpTalents": "Talentos Pulp",
+"CoC7.TalentType": "Tipo de talento",
+"CoC7.PhysicalTalent": "Físicos",
+"CoC7.MentalTalent": "Mentales",
+"CoC7.CombatTalent": "De combate",
+"CoC7.MiscellaneousTalent": "Varios",
+"CoC7.BasicTalent": "Básicos",
+"CoC7.InsaneTalent": "De locura",
+"CoC7.OtherTalent": "Otros",
+
 "CoC7.Items": "Objetos",
 "CoC7.Books": "Tomos",
 
@@ -323,5 +339,9 @@
 "SETTINGS.displayInitDices": "Mostrar dado de iniciativa",
 "SETTINGS.displayInitDicesHint": "Mostrar los dados cuando se tire iniciativa (solo cuando se usa la regla opcional)",
 "SETTINGS.PulpRules" : "PV Pulp",
-"SETTINGS.PulpRulesHint" : "Usar las reglas de Pulp para el cálculo de los PV"
+"SETTINGS.PulpRulesHint" : "Usar las reglas de Pulp para el cálculo de los PV",
+"SETTINGS.DisregardAmmo": "Ignorar la munición.",
+"SETTINGS.DisregardAmmoHint": "Al activar esta opción no se tendrán en cuenta la munición cargada en el arma a la hora de disparar.",
+"SETTINGS.DisregardUsePerRound": "Ignorar el número de usos por asalto.",
+"SETTINGS.DisregardUsePerRoundHint": "Al activar esta opción, se podrá disparar sin restricciones, ignorando el número de disparos que un arma puede realizar por asalto."
 }
