@@ -338,10 +338,12 @@
 "SETTINGS.InitiativeRuleOptional": "Opcional",
 "SETTINGS.displayInitDices": "Mostrar dado de iniciativa",
 "SETTINGS.displayInitDicesHint": "Mostrar los dados cuando se tire iniciativa (solo cuando se usa la regla opcional)",
-"SETTINGS.PulpRules" : "PV Pulp",
-"SETTINGS.PulpRulesHint" : "Usar las reglas de Pulp para el cálculo de los PV",
+"SETTINGS.PulpRules" : "Reglas Pulp",
+"SETTINGS.PulpRulesHint" : "Permite usar las reglas de Pulp Cthulhu (Arquetipos, Talentos, PV), ¡en fase de desarrollo!",
 "SETTINGS.DisregardAmmo": "Ignorar la munición.",
 "SETTINGS.DisregardAmmoHint": "Al activar esta opción no se tendrán en cuenta la munición cargada en el arma a la hora de disparar.",
 "SETTINGS.DisregardUsePerRound": "Ignorar el número de usos por asalto.",
-"SETTINGS.DisregardUsePerRoundHint": "Al activar esta opción, se podrá disparar sin restricciones, ignorando el número de disparos que un arma puede realizar por asalto."
+"SETTINGS.DisregardUsePerRoundHint": "Al activar esta opción, se podrá disparar sin restricciones, ignorando el número de disparos que un arma puede realizar por asalto.",
+"SETTINGS.RestrictGridSpaces": "Medir usando espacios de rejilla",
+"SETTINGS.RestrictGridSpacesHint": "En el combate a distancia, si se selecciona esta opción las distancias se medirán usando espacios de rejilla (cuadrados o hexágonos) en lugar de la distancia 'real' (euclidiana)."
 }
