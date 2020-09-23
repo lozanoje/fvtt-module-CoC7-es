@@ -168,6 +168,15 @@
 
 "CoC7.SkillValue": "Valor",
 "CoC7.SkillBase": "Base",
+"CoC7.SkillExperience": "Experiencia",
+"CoC7.SkillArchetype": "Arquetipo",
+"CoC7.SkillOccupation": "Ocupacion",
+"CoC7.SkillPersonal": "Particulares",
+
+"CoC7.SkillTotalExperience": "Puntos de experiencia",
+"CoC7.SkillTotalArchetype": "Puntos de arquetipo",
+"CoC7.SkillTotalOccupation": "Puntos de ocupación",
+"CoC7.SkillTotalPersonal": "Intereses particulares",
 
 "CoC7.ItemQuantity": "Cantidad",
 "CoC7.ItemWeight": "Peso",
@@ -194,6 +203,7 @@
 "CoC7.EraPulp": "Pulp Cthulhu",
 "CoC7.EraMdrn": "Época Actual",
 
+"CoC7.SkillNoAdjustments": "Sin ajustes",
 "CoC7.SkillNoXpGain": "Sin ganancia de EXP",
 "CoC7.SkillSpecial": "Especialización",
 "CoC7.SkillRarity": "Infrecuente",
@@ -239,7 +249,7 @@
 "CoC7.NewSkillName": "nueva habilidad",
 "CoC7.AddSkill": "Añadir habilidad",
 "CoC7.DevelopemmentPhase": "Fase de Desarrollo",
-"CoC7.SkillCantGainXp": "Esta habilidad no se puede marcar para desarrollo",
+"CoC7.SkillCantGainXp": "Esta habilidad no puede ganar XP automáticamente",
 "CoC7.SkillUnflagForDevelopement": "Desmarcar para desarrollo",
 "CoC7.SkillFlagForDevelopement": "Marcar para desarrollo",
 "CoC7.SkillDetail": "Detalles",
@@ -261,6 +271,9 @@
 "CoC7.WeaponSkill": "Habilidad",
 "CoC7.WeaponSkillAlt": "Hab. alternativa",
 "CoC7.Inventory": "Inventario",
+"CoC7.CharacterDevelopment": "Desarrollo",
+"CoC7.OccupationSkill": "Habilidad de ocupación",
+"CoC7.ArchetypeSkill": "Habilidad de arquetipo",
 
 
 "CoC7.ManualCreditValues": "Crédito manual",
