@@ -8,15 +8,27 @@
 
 ## Installation - Instalación  
 
-* Install babele from the Foundry module manager.
-[Module Url](https://gitlab.com/riccisi/foundryvtt-babele)
-* Install call-of-cthulhu-7th-babele-es from this url:
-[Module Url](https://raw.githubusercontent.com/lozalojo/call-of-cthulhu-7th-babele-es/master/module.json)
+* Install/Update _Call of Cthulhu 7th edition_ system, by HavlockV, from Foundry's system manager.
+[Module Url](https://foundryvtt.com/packages/CoC7/)
+* Install/Update _Babele_ module from Foundry's module manager.
+[Module Url](https://foundryvtt.com/packages/babele/)
+* (Optional) Install/Update _Translation: Spanish [Core]_ module from Foundry's module manager:
+[Module Url](https://foundryvtt.com/packages/FoundryVTT-ES/)
+* Install/Update _Translation: Spanish (Call of Cthulhu 7th)_ module from Foundry's module manager:
+[Module Url](https://foundryvtt.com/packages/call-of-cthulhu-7th-babele-es/)
+* Inside the Game World, _Configuration/Manage Modules_ activate Babele y both translations.
+* En _Configuration/Setup_ change language to Spanish.
 ----
-* Instala babele desde el gestor de módulos de Foundry.
-[Module Url](https://gitlab.com/riccisi/foundryvtt-babele)
-* Instala call-of-cthulhu-7th-babele-es desde esta url:
-[Module Url](https://raw.githubusercontent.com/lozalojo/call-of-cthulhu-7th-babele-es/master/module.json)
+* Instale/Actualice el sistema _Call of Cthulhu 7th edition_, de HavlockV, desde el gestor de sistemas de Foundry.
+[Module Url](https://foundryvtt.com/packages/CoC7/)
+* Instale/Actualice el módulo _Babele_ desde el gestor de módulos de Foundry.
+[Module Url](https://foundryvtt.com/packages/babele/)
+* (Opcional) Instale/Actualice el módulo _Translation: Spanish [Core]_ desde el gestor de módulos de Foundry:
+[Module Url](https://foundryvtt.com/packages/FoundryVTT-ES/)
+* Instale/Actualice el módulo _Translation: Spanish (Call of Cthulhu 7th)_ desde el gestor de módulos de Foundry:
+[Module Url](https://foundryvtt.com/packages/call-of-cthulhu-7th-babele-es/)
+* Entre en el Mundo de Juego, _Configuración/Administrar Módulos_ active Babele y las dos traducciones.
+* En _Configuración/Configurar Ajustes_ cambie el idioma a Spanish.
 
 ## Notificación de errores - Feedback  
 
@@ -31,6 +43,10 @@
 * *Babele* es un módulo de *Simone Ricciardi*.
 
 ## Versiones
+
+version 0.3.9 :
+
+* Updated to HavlockV/CoC7-FoundryVTT 0.3.9
 
 version 0.3.8 :
 
