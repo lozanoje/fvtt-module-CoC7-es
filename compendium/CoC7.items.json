@@ -1,6 +1,11 @@
 {
-	"label": "Armas",
+	"label": "Objetos de ejemplo",
 	"entries": [
+		{
+			"id": "1920's Setup Example",
+			"name": "Ejemplo Configuración PJ 1920",
+			"description": "<p>Configuración por defecto para un personaje de 1920.</p>\n<p>&nbsp;</p>"
+		},
 		{
 			"id": "Death ray (prototype)",
 			"name": "Rayo de muerte (prototipo)",
