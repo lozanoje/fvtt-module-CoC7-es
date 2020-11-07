@@ -153,7 +153,7 @@
 "CoC7.NoWinner": "Ambas partes han fallado.",
 "CoC7.DodgeSuccess": "{name} ha esquivado!",
 "CoC7.ManeuverSuccess": "La maniobra {name} ha tenido éxito.",
-"CoC7.InflictPain": "Infligir dolor",
+"CoC7.InflictPain": "Aplicar daño",
 
 "CoC7.combatCard.dive4cover": "Ponerse a Cubierto",
 
@@ -442,6 +442,8 @@
 "SETTINGS.InitiativeRuleOptional": "Opcional",
 "SETTINGS.displayInitDices": "Mostrar dado de iniciativa",
 "SETTINGS.displayInitDicesHint": "Mostrar los dados cuando se tire iniciativa (solo cuando se usa la regla opcional)",
+"SETTINGS.displayInitAsText": "Mostrar iniciativa como texto",
+"SETTINGS.displayInitAsTextHint": "Mostrar la iniciativa como texto en lugar de un número (solo en las reglas opcionales)",
 "SETTINGS.PulpRules": "Reglas Pulp",
 "SETTINGS.PulpRulesHint": "Permite usar las reglas de Pulp Cthulhu (Arquetipos, Talentos, PV), ¡en fase de desarrollo!",
 "SETTINGS.DisregardAmmo": "Ignorar la munición.",

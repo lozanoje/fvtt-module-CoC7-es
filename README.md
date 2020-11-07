@@ -44,6 +44,10 @@
 
 ## Versiones
 
+version 0.4.4 :
+
+* Updated to HavlockV/CoC7-FoundryVTT 0.4.4
+
 version 0.4.2 :
 
 * Updated to HavlockV/CoC7-FoundryVTT 0.4.2
