@@ -442,6 +442,8 @@
 "SETTINGS.InitiativeRuleOptional": "Opcional",
 "SETTINGS.displayInitDices": "Mostrar dado de iniciativa",
 "SETTINGS.displayInitDicesHint": "Mostrar los dados cuando se tire iniciativa (solo cuando se usa la regla opcional)",
+"SETTINGS.displayInitAsText": "Mostrar iniciativa como texto",
+"SETTINGS.displayInitAsTextHint": "Mostrar la iniciativa como texto en lugar de un número (solo en las reglas opcionales)",
 "SETTINGS.PulpRules": "Reglas Pulp",
 "SETTINGS.PulpRulesHint": "Permite usar las reglas de Pulp Cthulhu (Arquetipos, Talentos, PV), ¡en fase de desarrollo!",
 "SETTINGS.DisregardAmmo": "Ignorar la munición.",
