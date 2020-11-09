@@ -2,22 +2,28 @@
   "name": "call-of-cthulhu-7th-babele-es",
   "title": "Call of Cthulhu 7th Babele Spanish",
   "description": "Traducción de la implementación de Call of Cthulhu 7th de HavlockV/CoC7-FoundryVTT al español mediante babele -  Call of Cthulhu 7th (HavlockV/CoC7-FoundryVTT) spanish translation using Babele",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "minimumCoreVersion" : "0.7.0",
   "compatibleCoreVersion":"0.7.6",
   "author": "José E. Lozano (Viriato139ac), Geike",
   "esmodules": ["babele-register.js"],
   "scripts": [],
   "styles": [],
+  "dependencies": [
+    {
+      "name": "babele",
+      "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+      "version": "1.20"
+    }
+  ],
   "packs": [],
-
-  "languages": [{
-  	"lang": "es",
-    "name": "Español",
-    "path": "es.json"
-  }],
-
-
+  "languages": [
+    {
+      "lang": "es",
+      "name": "Español",
+      "path": "es.json"
+    }
+  ],
   "url": "https://github.com/lozalojo/call-of-cthulhu-7th-babele-es",
   "manifest": "https://raw.githubusercontent.com/lozalojo/call-of-cthulhu-7th-babele-es/master/module.json",
   "download": "https://github.com/lozalojo/call-of-cthulhu-7th-babele-es/archive/master.zip"
