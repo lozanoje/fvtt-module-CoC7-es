@@ -32,6 +32,11 @@
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		},
 		{
+			"id": "Art/Craft (Any)",
+			"name": "Arte/Artesanía (Genérica)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		{
 			"id": "Artillery",
 			"name": "Artillería",
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
@@ -217,6 +222,16 @@
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		},
 		{
+			"id": "Language (Any)",
+			"name": "Otras lenguas (Genérica)",
+			"description": ""
+		},
+		{
+			"id": "Language (Other)",
+			"name": ">>>Language (Other)",
+			"description": "<p><span style=\"color: #191813; font-size: 13px;\">See the Call of Cthulhu - 7th Ed Core Rulebook</span></p>"
+		},
+		{
 			"id": "Language (Own)",
 			"name": "Lengua propia",
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
@@ -307,8 +322,8 @@
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		},
 		{
-			"id": "Pilot",
-			"name": "Pilotar",
+			"id": "Pilot (Any)",
+			"name": "Pilotar (Genérica)",
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		},
 		{
@@ -332,14 +347,14 @@
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		},
 		{
-			"id": "Rifle",
-			"name": "Fusil",
+			"id": "Rifle/Shotgun",
+			"name": "Fusil/Escopeta",
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		},
 		{
-			"id": "Shotgun",
-			"name": "Escopeta",
-			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
+			"id": "Science (Any)",
+			"name": "Ciencia (Genérica)",
+			"description": "<p><span style=\"color: #191813; font-size: 13px;\">See the Call of Cthulhu - 7th Ed Core Rulebook</span></p>"
 		},
 		{
 			"id": "Sleight of Hand",
@@ -367,8 +382,8 @@
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		},
 		{
-			"id": "Survival",
-			"name": "Supervivencia",
+			"id": "Survival (Any)",
+			"name": "Supervivencia (Genérica)",
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
 		},
 		{
@@ -390,6 +405,11 @@
 			"id": "Track",
 			"name": "Seguir rastros",
 			"description": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>"
+		},
+		{
+			"id": "Track (Any)",
+			"name": ">>>Track (Any)",
+			"description": ""
 		},
 		{
 			"id": "Whip",
