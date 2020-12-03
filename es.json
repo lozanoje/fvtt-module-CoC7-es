@@ -95,7 +95,7 @@
 "CoC7.TensDice": "dado(s) de decenas",
 "CoC7.SuccessRequired": "se requiere un éxito {successRequired}.",
 "CoC7.Roll": "Tirar dados",
-"CoC7.Pushing": "Forzando",
+"CoC7.Pushing": "Forzando... ",
 "CoC7.PushSkill": "Forzar tirada",
 "CoC7.PushedRoll": "(tirada forzada)",
 "CoC7.SpendLuck": "Gastar {luckNeededValue} puntos de Suerte para superar la tirada",
@@ -253,7 +253,7 @@
 "CoC7.Weapon.Property.Melee": "Cuerpo a cuerpo",
 "CoC7.Weapon.Property.Thrown": "Arrojadiza",
 "CoC7.Weapon.Property.Burn": "Fuego",
-"CoC7.Weapon.Property.Shotgun": "Arma de fuego",
+"CoC7.Weapon.Property.Shotgun": "Escopeta",
 
 
 "CoC7.ErrorItem": "No se pudo localizar el ítem",
