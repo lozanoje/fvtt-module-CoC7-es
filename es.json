@@ -515,7 +515,6 @@
 "SETTINGS.ArtworkFixedSkillLength": "Limitar la longitud de las habilidades",
 "SETTINGS.ArtworkFixedSkillLengthHint": "La longitud de las habilidades se limitará para que la pestaña de habilidades tenga un aspecto más compacto",
 "SETTINGS.ArtworkMainFont": "Fuente principal",
-"SETTINGS.ArtworkMainFontHint": "Se usa para etiquetas y para todos los elementos de la hoja de PJ",
-"SETTINGS.ArtworkCursiveFont": "Fuente en cursiva",
-"SETTINGS.ArtworkCursiveFontHint": "Se usa para los campos de entrada"
+"SETTINGS.ArtworkMainFontBold": "Fuente principal (negrita)",
+"SETTINGS.ArtworkMainFontSize": "Tamaño de fuente por defecto (px)"
 }
