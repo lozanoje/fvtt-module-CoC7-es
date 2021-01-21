@@ -370,6 +370,8 @@
 "CoC7.RememberEverything": "Eres plenamente consciente de lo sucedido",
 "CoC7.BootOfMadnesslasted": "Tu episodio de locula dura",
 "CoC7.EnteringBoutOfMadness": "Sufres un episodio de locura",
+"CoC7.GrowingAccustomedToAwfulness": "Comienzas a acostumbrarte al horror (se ha limitado la pérdida de COR)",
+"CoC7.ImmuneToAwfulness": "Tu mente es inmune a esta atrocidad (no hay perdida de COR)",
 "CoC7.InvestigatorPhobiaGained": "El investigador gana una fobia",
 "CoC7.PhobiaGained": "Ganas una fobia",
 "CoC7.InvestigatorManiaGained": "El investigador gana una manía",
@@ -561,11 +563,5 @@
 "SETTINGS.ArtworkMainFontSize": "Tamaño de fuente por defecto (px)",
 "SETTINGS.BoutOfMadnessSummaryTable": "Tabla de episodios de locura (resumidos)",
 "SETTINGS.BoutOfMadnessRealTimeTable": "Tabla de episodios de locura (en tiempo real)",
-"SETTINGS.BoutOfMadnessPhobiasIndex": "Resultado para fobias",
-"SETTINGS.BoutOfMadnessPhobiasIndexHint": "El resultado que desencadenará una tirada en la tabla de fobias de ejemplo",
-"SETTINGS.BoutOfMadnessManiasIndex": "Resultado para manías",
-"SETTINGS.BoutOfMadnessManiasIndexHint": "El resultado que desencadenará una tirada en la tabla de manías de ejemplo",
-"SETTINGS.SamplePhobiasTable": "Tabla de fobias de ejemplo",
-"SETTINGS.SampleManiasTable": "Tabla de manías de ejemplo",
 "SETTINGS.LetKeeperDecide": "A decisión del Guardián"
 }
