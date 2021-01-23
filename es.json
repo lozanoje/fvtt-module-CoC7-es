@@ -396,6 +396,12 @@
 "CoC7.KeepData": "Mantener historial con esta criatura",
 "CoC7.BootActive": "(Episodio) Inmune a pérdida de COR",
 "CoC7.AlreadyInABoot": "Estás sufriendo un episodio de locura y eres inmune a nuevas pérdidas de COR",
+"CoC7.PlayerPermanentlyInsane": "El jugador sufre locura permanente",
+"CoC7.MythosFirstEncounter": "Ganancia en Mitos (+5%, al ser la primera vez)",
+"CoC7.MythosAlreadyEncountered": "Ganancia en Mitos (+1%)",
+"CoC7.DisregardMythosGain": "Sin ganancia en Mitos",
+"CoC7.MythosGain": "Ganancia en Mitos",
+"CoC7.YouGainedCthulhuMythos": "Tu mente se estremece ante tal manifestación sobrenatural (+{value}% Mitos de Cthulhu)",
 "CoC7.CardResolved": "Tarjeta finalizada",
 
 "CoC7.CMI": "MCI",
