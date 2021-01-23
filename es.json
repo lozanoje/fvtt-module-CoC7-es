@@ -563,5 +563,7 @@
 "SETTINGS.ArtworkMainFontSize": "Tamaño de fuente por defecto (px)",
 "SETTINGS.BoutOfMadnessSummaryTable": "Tabla de episodios de locura (resumidos)",
 "SETTINGS.BoutOfMadnessRealTimeTable": "Tabla de episodios de locura (en tiempo real)",
-"SETTINGS.LetKeeperDecide": "A decisión del Guardián"
+"SETTINGS.LetKeeperDecide": "A decisión del Guardián",
+"SETTINGS.DisplayResultType": "Mostrar el resultado de la tirada (texto)",
+"SETTINGS.DisplayCheckSuccessLevel":"Mostrar el nivel de éxito de la tirada (estrellas/arañas)"
 }
