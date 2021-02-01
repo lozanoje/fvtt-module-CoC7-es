@@ -572,5 +572,9 @@
 "SETTINGS.BoutOfMadnessRealTimeTable": "Tabla de episodios de locura (en tiempo real)",
 "SETTINGS.LetKeeperDecide": "A decisión del Guardián",
 "SETTINGS.DisplayResultType": "Mostrar el resultado de la tirada (texto)",
-"SETTINGS.DisplayCheckSuccessLevel":"Mostrar el nivel de éxito de la tirada (estrellas/arañas)"
+"SETTINGS.DisplayCheckSuccessLevel":"Mostrar el nivel de éxito de la tirada (estrellas/arañas)",
+"SETTINGS.PlayerUnlockSheetMode": "Los jugadores pueden desbloquear la hoja de personaje",
+"SETTINGS.AlwaysEditable": "siempre",
+"SETTINGS.CreationModeOnly": "solo en modo de creación de personajes",
+"SETTINGS.NeverEditable": "nunca (solo puede el GM)"
 }
