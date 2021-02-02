@@ -2,7 +2,7 @@
 "I18N.LANGUAGE": "Español",
 "I18N.MAINTAINERS": "@Viriato139ac#0342",
 
-"CoC7.title": "La Llamada de Cthulhu 7a Edición",
+"CoC7.title": "La Llamada de Cthulhu 7a Edición (no oficial)",
 
 "CHARAC.STR": "FUE",
 "CHARAC.Strengh": "Fuerza",
@@ -574,7 +574,7 @@
 "SETTINGS.DisplayResultType": "Mostrar el resultado de la tirada (texto)",
 "SETTINGS.DisplayCheckSuccessLevel":"Mostrar el nivel de éxito de la tirada (estrellas/arañas)",
 "SETTINGS.PlayerUnlockSheetMode": "Los jugadores pueden desbloquear la hoja de personaje",
-"SETTINGS.AlwaysEditable": "siempre",
-"SETTINGS.CreationModeOnly": "solo en modo de creación de personajes",
-"SETTINGS.NeverEditable": "nunca (solo puede el GM)"
+"SETTINGS.AlwaysEditable": "Siempre",
+"SETTINGS.CreationModeOnly": "Solo en modo de creación de personajes",
+"SETTINGS.NeverEditable": "Nunca (solo puede el GM)"
 }
