@@ -128,6 +128,8 @@
 "CoC7.CriticalDifficulty": "crítica",
 "CoC7.UnknownDifficulty": "desconocida",
 "CoC7.RollDifficulty": "Dificultad de la tirada",
+"CoC7.RollThreshold": "Umbral de tirada",
+"CoC7.FlatModifier": "Modificador lineal",
 "CoC7.RollDifficultyUnknown": "Desconocida",
 "CoC7.RollDifficultyRegular": "Normal",
 "CoC7.RollDifficultyHard": "Difícil",
@@ -492,8 +494,11 @@
 "CoC7.PutGunAway": "Bajar el arma",
 "CoC7.DrawGun": "Desenfundar el arma",
 
+"CoC7.GmTools": "Herramientas del Guardián",
+"CoC7.DevPhase": "Fase de desarrollo",
 "CoC7.DevPhaseEnabled": "Fase de desarrollo habilitada",
 "CoC7.DevPhaseDisabled": "Fase de desarrollo deshabilitada",
+"CoC7.CharCreationMode": "Modo de creación de personajes",
 "CoC7.CharCreationEnabled": "Modo de creación de personajes habilitado",
 "CoC7.CharCreationDisabled": "Modo de creación de personajes deshabilitado",
 "CoC7.WarnNoActorAvailable": "No tiene control ni tiene seleccionado ningún actor",
@@ -576,5 +581,7 @@
 "SETTINGS.PlayerUnlockSheetMode": "Los jugadores pueden desbloquear la hoja de personaje",
 "SETTINGS.AlwaysEditable": "Siempre",
 "SETTINGS.CreationModeOnly": "Solo en modo de creación de personajes",
-"SETTINGS.NeverEditable": "Nunca (solo puede el GM)"
+"SETTINGS.NeverEditable": "Nunca (solo puede el GM)",
+"SETTINGS.AllowFlatModifier": "Modificador lineal en las tiradas",
+"SETTINGS.AllowFlatModifierHint": "Permite usar modificadores lineales en las tiradas de dados"
 }
