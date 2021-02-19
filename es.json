@@ -128,8 +128,9 @@
 "CoC7.CriticalDifficulty": "crítica",
 "CoC7.UnknownDifficulty": "desconocida",
 "CoC7.RollDifficulty": "Dificultad de la tirada",
-"CoC7.RollThreshold": "Umbral de tirada",
-"CoC7.FlatModifier": "Modificador lineal",
+"CoC7.RollThreshold": "Umbral de éxito",
+"CoC7.FlatDiceModifier": "Modificador a la tirada",
+"CoC7.FlatModifier": "Modificador al umbral de éxito",
 "CoC7.RollDifficultyUnknown": "Desconocida",
 "CoC7.RollDifficultyRegular": "Normal",
 "CoC7.RollDifficultyHard": "Difícil",
@@ -582,6 +583,8 @@
 "SETTINGS.AlwaysEditable": "Siempre",
 "SETTINGS.CreationModeOnly": "Solo en modo de creación de personajes",
 "SETTINGS.NeverEditable": "Nunca (solo puede el GM)",
-"SETTINGS.AllowFlatModifier": "Modificador lineal en las tiradas",
-"SETTINGS.AllowFlatModifierHint": "Permite usar modificadores lineales en las tiradas de dados"
+"SETTINGS.AllowFlatDiceModifier": "Modificador simple a las tiradas",
+"SETTINGS.AllowFlatDiceModifierHint": "Permite aplicar un modificadores simple a las tiradas de dados",
+"SETTINGS.AllowFlatThresholdModifier": "Modificador simple a los umbrales de éxito",
+"SETTINGS.AllowFlatThresholdModifierHint":"Permite aplicar un modificador simple al umbral de éxito en la tirada"
 }
