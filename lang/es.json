@@ -82,6 +82,10 @@
 "CoC7.Other": "Otros",
 "CoC7.rounds": "asalto(s)",
 "CoC7.hours": "hora(s)",
+"CoC7.remove": "Quitar",
+"CoC7.Any": "Cualquiera",
+"CoC7.All": "Todos",
+"CoC7.Success": "Éxito",
 
 "CoC7.RegularSuccess": "Éxito normal",
 "CoC7.HardSuccess": "Éxito difícil",
@@ -140,6 +144,10 @@
 "CoC7.RollDice": "¡Tirar dados!",
 "CoC7.SuccesLevelHint": "{value} nivel(es) de éxito",
 "CoC7.FailureLevelHint": "Fallo por {value} nivel(es)",
+"CoC7.CombinedRollCard": "Tarjeta de tiradas combinadas",
+"CoC7.OpposedRollCard": "Tarjeta de tiradas enfrentadas",
+"CoC7.CombinedAnyHint": "Solo es necesario que una tirada tenga éxito",
+"CoC7.CombinedAllHint": "Todas las tiradas tienen que tener éxito",
 
 "CoC7.CheckResult": "Tirada de {name} ({value}%), dificultad {difficulty}",
 "CoC7.ItemCheckResult": "{item} - tirada de {skill} ({value}%), dificultad {difficulty}",
@@ -586,5 +594,7 @@
 "SETTINGS.AllowFlatDiceModifier": "Modificador simple a las tiradas",
 "SETTINGS.AllowFlatDiceModifierHint": "Permite aplicar un modificadores simple a las tiradas de dados",
 "SETTINGS.AllowFlatThresholdModifier": "Modificador simple a los umbrales de éxito",
-"SETTINGS.AllowFlatThresholdModifierHint":"Permite aplicar un modificador simple al umbral de éxito en la tirada"
+"SETTINGS.AllowFlatThresholdModifierHint":"Permite aplicar un modificador simple al umbral de éxito en la tirada",
+"SETTINGS.OpposedRollTieBreaker": "Método alternativo Viriato139ac para deshacer empates",
+"SETTINGS.OpposedRollTieBreakerHint": "Si en una tirada enfrentada ambos contendientes sacan el mismo grado de éxito, el ganador es el saque el resultado menor en los dados, no el que tenga la habilidad más alta"
 }
