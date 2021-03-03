@@ -596,5 +596,5 @@
 "SETTINGS.AllowFlatThresholdModifier": "Modificador simple a los umbrales de éxito",
 "SETTINGS.AllowFlatThresholdModifierHint":"Permite aplicar un modificador simple al umbral de éxito en la tirada",
 "SETTINGS.OpposedRollTieBreaker": "Método alternativo Viriato139ac para deshacer empates",
-"SETTINGS.OpposedRollTieBreakerHint": "Si en una tirada enfrentada ambos contendientes sacan el mismo grado de éxito, el ganador es el saque el resultado menor en los dados, no el que tenga la habilidad más alta"
+"SETTINGS.OpposedRollTieBreakerHint": "Si en una tirada enfrentada ambos contendientes sacan el mismo grado de éxito, se declarará ganador al haya sacado un resultado mayor en la tirada, no el que tenga la habilidad más alta"
 }
