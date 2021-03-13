@@ -120,6 +120,9 @@
 "CoC7.check.FlagForDevelopment": "Premiar experiencia",
 "CoC7.IncreaseSuccessLevel": "Incrementar nivel de éxito",
 "CoC7.check.DecreaseSuccessLevel": "Disminuir nivel de éxito",
+"CoC7.RollSecretDice": "El GM ha hecho una tirada privada",
+"CoC7.KeeperSentDecoy": "Se ha enviado a los jugadores una tirada señuelo",
+"CoC7.FakeRoll": "Mandar a los jugadores una tirada señuelo",
 
 "CoC7.ConstitutionCheck": "Tirada de Constitución",
 
@@ -601,5 +604,10 @@
 "SETTINGS.AllowFlatThresholdModifier": "Modificador simple a los umbrales de éxito",
 "SETTINGS.AllowFlatThresholdModifierHint":"Permite aplicar un modificador simple al umbral de éxito en la tirada",
 "SETTINGS.OpposedRollTieBreaker": "Método alternativo Viriato139ac para deshacer empates",
-"SETTINGS.OpposedRollTieBreakerHint": "Si en una tirada enfrentada ambos contendientes sacan el mismo grado de éxito, se declarará ganador al haya sacado un resultado mayor en la tirada, no el que tenga la habilidad más alta"
+"SETTINGS.OpposedRollTieBreakerHint": "Si en una tirada enfrentada ambos contendientes sacan el mismo grado de éxito, se declarará ganador al haya sacado un resultado mayor en la tirada, no el que tenga la habilidad más alta",
+"SETTINGS.SelfRollWhisperTarget": "Notificación de tirada propia:",
+"SETTINGS.SelfRollWhisperTargetHint": "Cuando se haga una tirada propia como GM quiere que se envíe notificación a",
+"SETTINGS.DoNotAdvise": "Solo a ti mismo",
+"SETTINGS.AdviseOwnersOnly": "Al propietario del actor",
+"SETTINGS.AdviseAllPlayer": "A todos los jugadores"
 }
