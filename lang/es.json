@@ -82,6 +82,10 @@
 "CoC7.Other": "Otros",
 "CoC7.rounds": "asalto(s)",
 "CoC7.hours": "hora(s)",
+"CoC7.remove": "Quitar",
+"CoC7.Any": "Cualquiera",
+"CoC7.All": "Todos",
+"CoC7.Success": "Éxito",
 
 "CoC7.RegularSuccess": "Éxito normal",
 "CoC7.HardSuccess": "Éxito difícil",
@@ -116,6 +120,9 @@
 "CoC7.check.FlagForDevelopment": "Premiar experiencia",
 "CoC7.IncreaseSuccessLevel": "Incrementar nivel de éxito",
 "CoC7.check.DecreaseSuccessLevel": "Disminuir nivel de éxito",
+"CoC7.RollSecretDice": "El GM ha hecho una tirada privada",
+"CoC7.KeeperSentDecoy": "Se ha enviado a los jugadores una tirada señuelo",
+"CoC7.FakeRoll": "Mandar a los jugadores una tirada señuelo",
 
 "CoC7.ConstitutionCheck": "Tirada de Constitución",
 
@@ -128,6 +135,9 @@
 "CoC7.CriticalDifficulty": "crítica",
 "CoC7.UnknownDifficulty": "desconocida",
 "CoC7.RollDifficulty": "Dificultad de la tirada",
+"CoC7.RollThreshold": "Umbral de éxito",
+"CoC7.FlatDiceModifier": "Modificador a la tirada",
+"CoC7.FlatModifier": "Modificador al umbral de éxito",
 "CoC7.RollDifficultyUnknown": "Desconocida",
 "CoC7.RollDifficultyRegular": "Normal",
 "CoC7.RollDifficultyHard": "Difícil",
@@ -137,6 +147,10 @@
 "CoC7.RollDice": "¡Tirar dados!",
 "CoC7.SuccesLevelHint": "{value} nivel(es) de éxito",
 "CoC7.FailureLevelHint": "Fallo por {value} nivel(es)",
+"CoC7.CombinedRollCard": "Tarjeta de tiradas combinadas",
+"CoC7.OpposedRollCard": "Tarjeta de tiradas enfrentadas",
+"CoC7.CombinedAnyHint": "Solo es necesario que una tirada tenga éxito",
+"CoC7.CombinedAllHint": "Todas las tiradas tienen que tener éxito",
 
 "CoC7.CheckResult": "Tirada de {name} ({value}%), dificultad {difficulty}",
 "CoC7.ItemCheckResult": "{item} - tirada de {skill} ({value}%), dificultad {difficulty}",
@@ -161,7 +175,11 @@
 "CoC7.NoWinner": "Ambas partes han fallado",
 "CoC7.DodgeSuccess": "{name} ha esquivado!",
 "CoC7.ManeuverSuccess": "La maniobra {name} ha tenido éxito",
+"CoC7.AttackSuccess": "{name} landed a blow.",
 "CoC7.InflictPain": "Aplicar daño",
+"CoC7.AdvantageAttacker": "Ventaja: Atacante",
+"CoC7.AdvantageDefender": "Ventaja: Defensor",
+"CoC7.Tie": "Empate",
 
 "CoC7.combatCard.dive4cover": "Ponerse a Cubierto",
 
@@ -181,6 +199,7 @@
 "CoC7.rangeCombatCard.InMelee": "En combate cuerpo a cuerpo",
 "CoC7.rangeCombatCard.aiming": "Apuntando",
 "CoC7.rangeCombatDamage": "{name} recibe {total} puntos de daño",
+"CoC7.rangeCombatDamageArmor": "{name} recibe {total} punto/s de daño. ({armor} absorbido/s)",
 "CoC7.RollDamage": "Tirada de daño",
 "CoC7.BulletsFired": "Balas disparadas",
 "CoC7.Shots": "Disparos",
@@ -492,8 +511,11 @@
 "CoC7.PutGunAway": "Bajar el arma",
 "CoC7.DrawGun": "Desenfundar el arma",
 
+"CoC7.GmTools": "Herramientas del Guardián",
+"CoC7.DevPhase": "Fase de desarrollo",
 "CoC7.DevPhaseEnabled": "Fase de desarrollo habilitada",
 "CoC7.DevPhaseDisabled": "Fase de desarrollo deshabilitada",
+"CoC7.CharCreationMode": "Modo de creación de personajes",
 "CoC7.CharCreationEnabled": "Modo de creación de personajes habilitado",
 "CoC7.CharCreationDisabled": "Modo de creación de personajes deshabilitado",
 "CoC7.WarnNoActorAvailable": "No tiene control ni tiene seleccionado ningún actor",
@@ -576,5 +598,16 @@
 "SETTINGS.PlayerUnlockSheetMode": "Los jugadores pueden desbloquear la hoja de personaje",
 "SETTINGS.AlwaysEditable": "Siempre",
 "SETTINGS.CreationModeOnly": "Solo en modo de creación de personajes",
-"SETTINGS.NeverEditable": "Nunca (solo puede el GM)"
+"SETTINGS.NeverEditable": "Nunca (solo puede el GM)",
+"SETTINGS.AllowFlatDiceModifier": "Modificador simple a las tiradas",
+"SETTINGS.AllowFlatDiceModifierHint": "Permite aplicar un modificadores simple a las tiradas de dados",
+"SETTINGS.AllowFlatThresholdModifier": "Modificador simple a los umbrales de éxito",
+"SETTINGS.AllowFlatThresholdModifierHint":"Permite aplicar un modificador simple al umbral de éxito en la tirada",
+"SETTINGS.OpposedRollTieBreaker": "Método alternativo Viriato139ac para deshacer empates",
+"SETTINGS.OpposedRollTieBreakerHint": "Si en una tirada enfrentada ambos contendientes sacan el mismo grado de éxito, se declarará ganador al haya sacado un resultado mayor en la tirada, no el que tenga la habilidad más alta",
+"SETTINGS.SelfRollWhisperTarget": "Notificación de tirada propia:",
+"SETTINGS.SelfRollWhisperTargetHint": "Cuando se haga una tirada propia como GM quiere que se envíe notificación a",
+"SETTINGS.DoNotAdvise": "Solo a ti mismo",
+"SETTINGS.AdviseOwnersOnly": "Al propietario del actor",
+"SETTINGS.AdviseAllPlayer": "A todos los jugadores"
 }
