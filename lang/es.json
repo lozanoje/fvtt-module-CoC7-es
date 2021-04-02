@@ -551,6 +551,17 @@
 "CoC7.MessageWaitForKeeperToClick": "El guardián ha pedido una tirada.<br>¡Espere a que se lo confirme antes de tirar!<br>",
 "CoC7.MessageCheckRequested": "El guardián ha pedido una tirada",
 
+"CoC7.ActorImporter": "Importador de actores",
+"CoC7.ActorImporterSummary": "Importa un PNJ o criatura a partir de sus estadísticas y descripción. Solo deberá copiar sus estadísticas en formato texto plano",
+"CoC7.PasteTheDataBelow": "Pegue más abajo el texto sin formato",
+"CoC7.SelectActorType": "Seleccione tipo de actor",
+"CoC7.NonPlayingCharacter": "Personaje no jugador (PNJ)",
+"CoC7.Creature": "Criatura",
+"CoC7.ConvertFrom6Edition": "Convertir desde 6a edición",
+"CoC7.Convert": "Convertir",
+"CoC7.NoConvert": "No convertir",
+"CoC7.Guess": "Autodetectar",
+
 "SETTINGS.DefaultDifficulty": "Dificultad por defecto",
 "SETTINGS.DefaultDifficultyHint": "Puedes indicar la dificultad por defecto de las tiradas. Desconocida lanzará tiradas sin que el jugador conozca la dificultad",
 "SETTINGS.CheckDifficultyRegular": "Dificultad por defecto",
