@@ -86,6 +86,7 @@
 "CoC7.Any": "Cualquiera",
 "CoC7.All": "Todos",
 "CoC7.Success": "Éxito",
+"CoC7.CustomLabel": "Etiqueta personalizada",
 
 "CoC7.RegularSuccess": "Éxito normal",
 "CoC7.HardSuccess": "Éxito difícil",
@@ -180,6 +181,8 @@
 "CoC7.AdvantageAttacker": "Ventaja: Atacante",
 "CoC7.AdvantageDefender": "Ventaja: Defensor",
 "CoC7.Tie": "Empate",
+"CoC7.DamageInflicted": "Daño causado",
+"CoC7.TotalDamage": "Daño total",
 
 "CoC7.combatCard.dive4cover": "Ponerse a Cubierto",
 
@@ -387,7 +390,7 @@
 "CoC7.SanityLost": "Puntos de COR perdidos",
 "CoC7.MemoryRepressed":"Tu mente ha logrado reprimir tus recuerdos y los ha enterrado en el subconsciente",
 "CoC7.RememberEverything": "Eres plenamente consciente de lo sucedido",
-"CoC7.BootOfMadnesslasted": "Tu episodio de locula dura",
+"CoC7.BoutOfMadnesslasted": "Tu episodio de locula dura",
 "CoC7.EnteringBoutOfMadness": "Sufres un episodio de locura",
 "CoC7.GrowingAccustomedToAwfulness": "Comienzas a acostumbrarte al horror (se ha limitado la pérdida de COR)",
 "CoC7.ImmuneToAwfulness": "Tu mente es inmune a esta atrocidad (no hay perdida de COR)",
@@ -407,14 +410,15 @@
 "CoC7.Phobia": "Fobia",
 "CoC7.Mania": "Manía",
 "CoC7.MaxSanloss": "Pérdida máx",
+"CoC7.MinSanloss": "Pérdida mín",
 "CoC7.AlreadyLost": "Perdidos actualmente",
 "CoC7.CreatureMaxLoss": "Pérdida máx por esta criatura",
 "CoC7.MaxLossToCreature": "Pérdida restante por esta criatura",
 "CoC7.ResetCreatureSan": "Restablecer historial con esta criatura",
 "CoC7.ResetSpecieSan": "Restablecer historial con esta especie",
 "CoC7.KeepData": "Mantener historial con esta criatura",
-"CoC7.BootActive": "(Episodio) Inmune a pérdida de COR",
-"CoC7.AlreadyInABoot": "Estás sufriendo un episodio de locura y eres inmune a nuevas pérdidas de COR",
+"CoC7.BoutActive": "(Episodio) Inmune a pérdida de COR",
+"CoC7.AlreadyInABout": "Estás sufriendo un episodio de locura y eres inmune a nuevas pérdidas de COR",
 "CoC7.PlayerPermanentlyInsane": "El jugador sufre locura permanente",
 "CoC7.MythosFirstEncounter": "Ganancia en Mitos (+5%, al ser la primera vez)",
 "CoC7.MythosAlreadyEncountered": "Ganancia en Mitos (+1%)",
@@ -446,6 +450,11 @@
 "CoC7.OccultBook": "Libro de Ocultismo",
 "CoC7.Unidentified": "Sin identificar",
 
+"CoC7.Crew": "Tripulación",
+"CoC7.Origin": "Origen",
+"CoC7.Model": "Modelo",
+
+
 "CoC7.PulpTalents": "Talentos Pulp",
 "CoC7.TalentType": "Tipo de talento",
 "CoC7.PhysicalTalent": "Físicos",
@@ -457,6 +466,7 @@
 "CoC7.OtherTalent": "Otros",
 
 "CoC7.Items": "Objetos",
+"CoC7.Vehicle": "Vehículo",
 "CoC7.Books": "Tomos",
 "CoC7.Status": "Estados",
 
@@ -539,6 +549,18 @@
 "CoC7.InfoAllSkillsAlreadySelected": "Ya se han seleccionado todas las habilidades",
 
 "CoC7.MessageWaitForKeeperToClick": "El guardián ha pedido una tirada.<br>¡Espere a que se lo confirme antes de tirar!<br>",
+"CoC7.MessageCheckRequested": "El guardián ha pedido una tirada",
+
+"CoC7.ActorImporter": "Importador de actores",
+"CoC7.ActorImporterSummary": "Importa un PNJ o criatura a partir de sus estadísticas y descripción. Solo deberá copiar sus estadísticas en formato texto plano",
+"CoC7.PasteTheDataBelow": "Pegue más abajo el texto sin formato",
+"CoC7.SelectActorType": "Seleccione tipo de actor",
+"CoC7.NonPlayingCharacter": "Personaje no jugador (PNJ)",
+"CoC7.Creature": "Criatura",
+"CoC7.ConvertFrom6Edition": "Convertir desde 6a edición",
+"CoC7.Convert": "Convertir",
+"CoC7.NoConvert": "No convertir",
+"CoC7.Guess": "Autodetectar",
 
 "SETTINGS.DefaultDifficulty": "Dificultad por defecto",
 "SETTINGS.DefaultDifficultyHint": "Puedes indicar la dificultad por defecto de las tiradas. Desconocida lanzará tiradas sin que el jugador conozca la dificultad",
