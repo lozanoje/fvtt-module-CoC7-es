@@ -18,7 +18,7 @@
     {
       "name": "CoC7",
       "type": "system",
-      "version": "0.5.5"
+      "version": "0.5.6"
     }
   ],
   "packs": [],
@@ -30,7 +30,7 @@
     }
   ],
   "system": "CoC7",
-  "systemVersion": "0.5.5",
+  "systemVersion": "0.5.6",
   "url": "https://github.com/lozalojo/call-of-cthulhu-7th-babele-es",
   "manifest": "https://raw.githubusercontent.com/lozalojo/call-of-cthulhu-7th-babele-es/master/module.json",
   "download": "https://github.com/lozalojo/call-of-cthulhu-7th-babele-es/archive/master.zip"

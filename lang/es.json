@@ -87,6 +87,13 @@
 "CoC7.All": "Todos",
 "CoC7.Success": "Éxito",
 "CoC7.CustomLabel": "Etiqueta personalizada",
+"CoC7.SpecificLocations": "Localizaciones específicas",
+"CoC7.ArmourPlating": "Blindaje",
+"CoC7.Location": "Localizacion",
+"CoC7.Properties": "Propiedades",
+"CoC7.Attributes": "Atributos",
+"CoC7.Collapse": "Encoger",
+"CoC7.Expand": "Expandir",
 
 "CoC7.RegularSuccess": "Éxito normal",
 "CoC7.HardSuccess": "Éxito difícil",
@@ -452,8 +459,7 @@
 
 "CoC7.Crew": "Tripulación",
 "CoC7.Origin": "Origen",
-"CoC7.Model": "Modelo",
-
+"CoC7.ArmedVehicle": "Vehículo blindado",
 
 "CoC7.PulpTalents": "Talentos Pulp",
 "CoC7.TalentType": "Tipo de talento",
@@ -522,6 +528,7 @@
 "CoC7.DrawGun": "Desenfundar el arma",
 
 "CoC7.GmTools": "Herramientas del Guardián",
+"CoC7.GmNotes": "Notas del GM",
 "CoC7.DevPhase": "Fase de desarrollo",
 "CoC7.DevPhaseEnabled": "Fase de desarrollo habilitada",
 "CoC7.DevPhaseDisabled": "Fase de desarrollo deshabilitada",
@@ -561,6 +568,11 @@
 "CoC7.Convert": "Convertir",
 "CoC7.NoConvert": "No convertir",
 "CoC7.Guess": "Autodetectar",
+"CoC7.English": "Inglés",
+"CoC7.Spanish": "Español",
+"CoC7.French": "Francés",
+"CoC7.SelectSourceLanguage": "Seleccione el idioma del texto original",
+
 
 "SETTINGS.DefaultDifficulty": "Dificultad por defecto",
 "SETTINGS.DefaultDifficultyHint": "Puedes indicar la dificultad por defecto de las tiradas. Desconocida lanzará tiradas sin que el jugador conozca la dificultad",
@@ -602,6 +614,8 @@
 "SETTINGS.OverrideSheetArtworkHint": "!!REQUIERE REINICIAR!! Da acceso a la configuración avanzada de la hoja de personaje, deje las opciones en blanco para usar los valores por defecto",
 "SETTINGS.ArtWorkSheetBackground": "Fondo de la hoja de PJ",
 "SETTINGS.ArtWorkSheetBackgroundHint": "escriba 'null' para quitar el fondo",
+"SETTINGS.ArtWorkOtherSheetBackground": "Fondo del resto de hojas",
+"SETTINGS.ArtWorkOtherSheetBackgroundHint": "escriba 'null' para quitar el fondo. Por ahora, solo se aplica a objetos y vehículos",
 "SETTINGS.ArtworkSheetImage": "Imagen de la hoja de PJ",
 "SETTINGS.ArtworkSheetImageHint": "escriba 'null' para quitar la imagen",
 "SETTINGS.ArtworkFrontColor": "Color principal",
