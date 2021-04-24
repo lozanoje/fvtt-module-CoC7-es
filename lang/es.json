@@ -134,6 +134,7 @@
 
 "CoC7.ConstitutionCheck": "Tirada de Constitución",
 
+"CoC7.SanDataSelectionWindow": "Seleccionar pérdidas de COR",
 "CoC7.BonusSelectionWindow": "Seleccionar dificultad y bonificación",
 "CoC7.BonusSelectionWindowNamed": "Seleccione modificador para la tirada de {name}",
 "CoC7.SkillDetailsWindow": "Ventana de detalles de la habilidad",
@@ -555,8 +556,8 @@
 "CoC7.InfoLessSkillThanOptions": "Solo existen {skillCount} y {optionsCount} opciones, anadiéndose todas",
 "CoC7.InfoAllSkillsAlreadySelected": "Ya se han seleccionado todas las habilidades",
 
-"CoC7.MessageWaitForKeeperToClick": "El guardián ha pedido una tirada.<br>¡Espere a que se lo confirme antes de tirar!<br>",
-"CoC7.MessageCheckRequested": "El guardián ha pedido una tirada",
+"CoC7.MessageCheckRequestedWait": "El guardián ha pedido una tirada de {check}.<br>¡Espere a que se lo confirme antes de tirar!<br>",
+"CoC7.MessageTargetCheckRequested": "El guardián ha pedido a {name} una tirada de {check}",
 
 "CoC7.ActorImporter": "Importador de actores",
 "CoC7.ActorImporterSummary": "Importa un PNJ o criatura a partir de sus estadísticas y descripción. Solo deberá copiar sus estadísticas en formato texto plano",
