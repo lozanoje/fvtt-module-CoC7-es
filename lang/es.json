@@ -92,8 +92,19 @@
 "CoC7.Location": "Localizacion",
 "CoC7.Properties": "Propiedades",
 "CoC7.Attributes": "Atributos",
+"CoC7.Attribute": "Atributo",
 "CoC7.Collapse": "Encoger",
 "CoC7.Expand": "Expandir",
+"CoC7.Blind": "Oculta",
+"CoC7.Label": "Etiqueta",
+"CoC7.Icon": "Icono",
+"CoC7.Check": "Prueba",
+"CoC7.ItemWeapon": "Objeto (arma)",
+
+"CoC7.CopyToClipboard": "Copiar al portapapeles",
+"CoC7.WhisperToSelection": "Susurrar a iconos seleccionados",
+"CoC7.WhisperTo": "Susurrar a",
+"CoC7.SendToChat": "Enviar a",
 
 "CoC7.RegularSuccess": "Éxito normal",
 "CoC7.HardSuccess": "Éxito difícil",
@@ -106,6 +117,7 @@
 "CoC7.Dice": "Dados",
 "CoC7.DiceModifierBonus": "bonificación",
 "CoC7.DiceModifierPenalty": "penalización",
+"CoC7.Modifiers": "Modificadores",
 "CoC7.BonusDice": "Dados de bonificación",
 "CoC7.UnitsDie": "1 dado de unidades",
 "CoC7.TensDie": "dado de decenas",
@@ -292,7 +304,6 @@
 "CoC7.Weapon.Property.Thrown": "Arrojadiza",
 "CoC7.Weapon.Property.Burn": "Fuego",
 "CoC7.Weapon.Property.Shotgun": "Escopeta",
-
 
 "CoC7.ErrorItem": "No se pudo localizar el ítem",
 "CoC7.ErrorActor": "No se pudo localizar al actor",
@@ -517,6 +528,7 @@
 "CoC7.CreateNewSkill": "Cree una habilidad nueva",
 
 "CoC7.Characteristics": "Características",
+"CoC7.Characteristic": "Característica",
 "CoC7.EnableCharacteristics": "Habilitar características",
 "CoC7.UsePoints": "Usar puntos",
 "CoC7.UseRolls": "Usar tiradas",
@@ -547,6 +559,14 @@
 "CoC7.WarnFastTargetWithWrongMOV": "Se ha seleccionado Rápido cuando el objetivo tiene un MOV inferior a 8. (MOV: {mov})",
 "CoC7.WarnTooManyTarget": "Seleccionados demasiados objetivos. Solo se guardará el último objetivo seleccionado",
 
+"CoC7.startRest": "Comenzando descanso",
+"CoC7.dreaming": "Los investigadores esperan... soñando",
+"CoC7.healthRecovered": "Un PV recuperado",
+"CoC7.pulpHealthRecovered": "{number} PVs recuperados",
+"CoC7.dailySanLossRestarted": "Contador de pérdida diraria de COR reiniciado",
+"CoC7.hasCriticalWounds": "Una herída crítica impide recuperar PVs",
+"CoC7.quickHealer": "Curación acelerada",
+
 "CoC7.ErrorNoDodgeSkill": "El actor no tiene la habilidad Esquivar",
 "CoC7.ErrorNotEnoughLuck": "{actor} no tiene suficientes puntos de suerte para mejorar la tirada",
 "CoC7.ErrorManeuverNotPossible": "Su oponente es demasiado fuerte como para realizar la maniobra",
@@ -573,7 +593,6 @@
 "CoC7.Spanish": "Español",
 "CoC7.French": "Francés",
 "CoC7.SelectSourceLanguage": "Seleccione el idioma del texto original",
-
 
 "SETTINGS.DefaultDifficulty": "Dificultad por defecto",
 "SETTINGS.DefaultDifficultyHint": "Puedes indicar la dificultad por defecto de las tiradas. Desconocida lanzará tiradas sin que el jugador conozca la dificultad",
