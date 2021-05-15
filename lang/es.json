@@ -62,6 +62,7 @@
 "CoC7.UnderlyingInsanity": "Locura subyacente",
 "CoC7.TemporaryInsanity": "Locura temporal",
 "CoC7.IndefiniteInsanity": "Locura indefinida",
+"CoC7.NotInsane": "Ninguna",
 "CoC7.UnlockActor": "Desbloquear Actor",
 "CoC7.LockActor": "Bloquear Actor",
 "CoC7.NpcRollCharacteristics": "Tirar para características aleatorias",
@@ -92,8 +93,19 @@
 "CoC7.Location": "Localizacion",
 "CoC7.Properties": "Propiedades",
 "CoC7.Attributes": "Atributos",
+"CoC7.Attribute": "Atributo",
 "CoC7.Collapse": "Encoger",
 "CoC7.Expand": "Expandir",
+"CoC7.Blind": "Oculta",
+"CoC7.Label": "Etiqueta",
+"CoC7.Icon": "Icono",
+"CoC7.Check": "Prueba",
+"CoC7.ItemWeapon": "Objeto (arma)",
+
+"CoC7.CopyToClipboard": "Copiar al portapapeles",
+"CoC7.WhisperToSelection": "Susurrar a iconos seleccionados",
+"CoC7.WhisperTo": "Susurrar a",
+"CoC7.SendToChat": "Enviar a",
 
 "CoC7.RegularSuccess": "Éxito normal",
 "CoC7.HardSuccess": "Éxito difícil",
@@ -106,6 +118,7 @@
 "CoC7.Dice": "Dados",
 "CoC7.DiceModifierBonus": "bonificación",
 "CoC7.DiceModifierPenalty": "penalización",
+"CoC7.Modifiers": "Modificadores",
 "CoC7.BonusDice": "Dados de bonificación",
 "CoC7.UnitsDie": "1 dado de unidades",
 "CoC7.TensDie": "dado de decenas",
@@ -113,6 +126,7 @@
 "CoC7.SuccessRequired": "se requiere un éxito {successRequired}",
 "CoC7.Roll": "Tirar dados",
 "CoC7.Pushing": "Forzando... ",
+"CoC7.PushingSkill": ": ¡forzando tirada!",
 "CoC7.PushSkill": "Forzar tirada",
 "CoC7.PushedRoll": "(tirada forzada)",
 "CoC7.SpendLuck": "Gastar {luckNeededValue} puntos de Suerte para superar la tirada",
@@ -128,12 +142,13 @@
 "CoC7.check.FlagForDevelopment": "Premiar experiencia",
 "CoC7.IncreaseSuccessLevel": "Incrementar nivel de éxito",
 "CoC7.check.DecreaseSuccessLevel": "Disminuir nivel de éxito",
-"CoC7.RollSecretDice": "El GM ha hecho una tirada privada",
+"CoC7.RollSecretDice": "El Guardián ha hecho una tirada privada",
 "CoC7.KeeperSentDecoy": "Se ha enviado a los jugadores una tirada señuelo",
 "CoC7.FakeRoll": "Mandar a los jugadores una tirada señuelo",
 
 "CoC7.ConstitutionCheck": "Tirada de Constitución",
 
+"CoC7.SanDataSelectionWindow": "Seleccionar pérdidas de COR",
 "CoC7.BonusSelectionWindow": "Seleccionar dificultad y bonificación",
 "CoC7.BonusSelectionWindowNamed": "Seleccione modificador para la tirada de {name}",
 "CoC7.SkillDetailsWindow": "Ventana de detalles de la habilidad",
@@ -159,10 +174,22 @@
 "CoC7.OpposedRollCard": "Tarjeta de tiradas enfrentadas",
 "CoC7.CombinedAnyHint": "Solo es necesario que una tirada tenga éxito",
 "CoC7.CombinedAllHint": "Todas las tiradas tienen que tener éxito",
+"CoC7.CloseCard": "Finalizar tarjeta",
 
 "CoC7.CheckResult": "Tirada de {name} ({value}%), dificultad {difficulty}",
 "CoC7.ItemCheckResult": "{item} - tirada de {skill} ({value}%), dificultad {difficulty}",
 "CoC7.CheckRawValue": "({rawvalue}%), dificultad {difficulty}",
+
+"CoC7.ArmorAbsorbsDamage": "La armadura absorbe el daño",
+"CoC7.Critical": "Crítico",
+"CoC7.Impale": "Empala",
+"CoC7.CriticalTitle": "El impacto ha sido crítico",
+"CoC7.ImpaleTitle": "El arma puede empalar",
+"CoC7.Target": "Objetivo",
+"CoC7.TargetOutOfRange": "Objetivo fuera de alcance",
+"CoC7.ShotIsImpossible": "Disparo imposible",
+"CoC7.OutOfAmmo": "Sin munición",
+"CoC7.OutOfShots": "No es posible realizar más disparos",
 
 "CoC7.BonusDamageRoll": "Tirada de Bonificación de Daño",
 "CoC7.Type": "Tipo",
@@ -170,7 +197,7 @@
 "CoC7.Dodge": "Esquivar",
 "CoC7.Maneuver": "Maniobra",
 "CoC7.OutNumbered": "Superado",
-"CoC7.combatCard.surpised": "Sorprendido",
+"CoC7.combatCard.surprised": "Sorprendido",
 "CoC7.combatCard.autoSuccess": "Éxito Automático",
 "CoC7.Advantage": "Ventaja",
 "CoC7.Disadvantage": "Desventaja",
@@ -195,6 +222,7 @@
 
 "CoC7.rangeCombatCard.SingleShot": "Disparo único",
 "CoC7.rangeCombatCard.MultipleShots": "Disparos múltiples",
+"CoC7.AutomaticFire": "Fuego automático",
 "CoC7.rangeCombatCard.Burst": "Ráfaga",
 "CoC7.rangeCombatCard.FullAuto": "Fuego automático",
 "CoC7.rangeCombatCard.BaseRange": "Alcance básico",
@@ -203,6 +231,7 @@
 "CoC7.rangeCombatCard.OutOfRange": "Fuera del alcance",
 "CoC7.rangeCombatCard.Cover": "A cubierto",
 "CoC7.rangeCombatCard.PointBlankRange": "A bocajarro",
+"CoC7.rangeCombatCard.NormalTarget": "Objetivo normal",
 "CoC7.rangeCombatCard.BigTarget": "Objetivo grande",
 "CoC7.combatCard.SmallTarget": "Objetivo pequeño",
 "CoC7.rangeCombatCard.FastMovingTarget": "Objetivo rápido",
@@ -214,6 +243,14 @@
 "CoC7.BulletsFired": "Balas disparadas",
 "CoC7.Shots": "Disparos",
 "CoC7.Shoot": "Disparar",
+"CoC7.rangeCombatCard.AimingTitle": "Añade 1 dado de bonificación al primer disparo",
+"CoC7.rangeCombatCard.CoverTitle": "1 dado de penalización. El objetivo tiene cobertura o se ha puesto a cubierto",
+"CoC7.rangeCombatCard.PointBlankRangeTitle": "1 dado de bonificación. Objetivo a distancia de bocajarro",
+"CoC7.rangeCombatCard.BigTargetTitle": "1 dado de bonificación por objetivo grande (corpulencia > 4)",
+"CoC7.rangeCombatCard.SmallTargetTitle": "1 dado de penalización por objetivo pequeño",
+"CoC7.rangeCombatCard.NormalTargetTitle": "Objetivo de tamaño normal, sin bonificación/penalización",
+"CoC7.rangeCombatCard.InMeleeTitle": "1 dado de penalización. Objetivo trabado en combate cuerpo a cuerpo",
+"CoC7.rangeCombatCard.FastMovingTargetTitle": "1 dado de penalización. Objetivo veloz (MOV 8+) moviéndose rápido",
 
 "CoC7.DropZone": "DropZone",
 
@@ -291,7 +328,6 @@
 "CoC7.Weapon.Property.Thrown": "Arrojadiza",
 "CoC7.Weapon.Property.Burn": "Fuego",
 "CoC7.Weapon.Property.Shotgun": "Escopeta",
-
 
 "CoC7.ErrorItem": "No se pudo localizar el ítem",
 "CoC7.ErrorActor": "No se pudo localizar al actor",
@@ -516,6 +552,7 @@
 "CoC7.CreateNewSkill": "Cree una habilidad nueva",
 
 "CoC7.Characteristics": "Características",
+"CoC7.Characteristic": "Característica",
 "CoC7.EnableCharacteristics": "Habilitar características",
 "CoC7.UsePoints": "Usar puntos",
 "CoC7.UseRolls": "Usar tiradas",
@@ -546,6 +583,14 @@
 "CoC7.WarnFastTargetWithWrongMOV": "Se ha seleccionado Rápido cuando el objetivo tiene un MOV inferior a 8. (MOV: {mov})",
 "CoC7.WarnTooManyTarget": "Seleccionados demasiados objetivos. Solo se guardará el último objetivo seleccionado",
 
+"CoC7.startRest": "Comenzando descanso",
+"CoC7.dreaming": "Los investigadores esperan... soñando",
+"CoC7.healthRecovered": "Un PV recuperado",
+"CoC7.pulpHealthRecovered": "{number} PVs recuperados",
+"CoC7.dailySanLossRestarted": "Contador de pérdida diraria de COR reiniciado",
+"CoC7.hasCriticalWounds": "Una herída crítica impide recuperar PVs",
+"CoC7.quickHealer": "Curación acelerada",
+
 "CoC7.ErrorNoDodgeSkill": "El actor no tiene la habilidad Esquivar",
 "CoC7.ErrorNotEnoughLuck": "{actor} no tiene suficientes puntos de suerte para mejorar la tirada",
 "CoC7.ErrorManeuverNotPossible": "Su oponente es demasiado fuerte como para realizar la maniobra",
@@ -555,8 +600,8 @@
 "CoC7.InfoLessSkillThanOptions": "Solo existen {skillCount} y {optionsCount} opciones, anadiéndose todas",
 "CoC7.InfoAllSkillsAlreadySelected": "Ya se han seleccionado todas las habilidades",
 
-"CoC7.MessageWaitForKeeperToClick": "El guardián ha pedido una tirada.<br>¡Espere a que se lo confirme antes de tirar!<br>",
-"CoC7.MessageCheckRequested": "El guardián ha pedido una tirada",
+"CoC7.MessageCheckRequestedWait": "El guardián ha pedido una tirada de {check}.<br>¡Espere a que se lo confirme antes de tirar!<br>",
+"CoC7.MessageTargetCheckRequested": "El guardián ha pedido a {name} una tirada de {check}",
 
 "CoC7.ActorImporter": "Importador de actores",
 "CoC7.ActorImporterSummary": "Importa un PNJ o criatura a partir de sus estadísticas y descripción. Solo deberá copiar sus estadísticas en formato texto plano",
@@ -572,7 +617,6 @@
 "CoC7.Spanish": "Español",
 "CoC7.French": "Francés",
 "CoC7.SelectSourceLanguage": "Seleccione el idioma del texto original",
-
 
 "SETTINGS.DefaultDifficulty": "Dificultad por defecto",
 "SETTINGS.DefaultDifficultyHint": "Puedes indicar la dificultad por defecto de las tiradas. Desconocida lanzará tiradas sin que el jugador conozca la dificultad",
