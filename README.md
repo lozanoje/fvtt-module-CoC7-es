@@ -1,10 +1,8 @@
-# La Llamada de Cthulhu 7a para FoundryVTT
+# Call of Cthulhu 7th Babele 正體中文版
 
 ## Description - Descripción  
 
-* Spanish translation of HavlockV's Call of Cthulhu 7th module for Foundry VTT.
-----
-* Traducción al español del módulo de La Llamada de Cthulhu 7a creado por HavlockV para Foundry VTT.
+* Call of Cthulhu 7th HavlockV/CoC7-FoundryVTT的正體中文版，包括角色卡,瘋狂表等.
 
 ## Installation - Instalación  
 

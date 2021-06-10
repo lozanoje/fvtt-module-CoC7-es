@@ -1,11 +1,11 @@
 {
   "name": "call-of-cthulhu-7th-babele-es",
-  "title": "Call of Cthulhu 7th Babele Spanish",
-  "description": "Traducción de la implementación de Call of Cthulhu 7th de HavlockV/CoC7-FoundryVTT al español mediante babele -  Call of Cthulhu 7th (HavlockV/CoC7-FoundryVTT) spanish translation using Babele",
+  "title": "Call of Cthulhu 7th Babele 正體中文版",
+  "description": "Call of Cthulhu 7th HavlockV/CoC7-FoundryVTT的正體中文版，包括角色卡,瘋狂表等",
   "version": "0.60.1",
   "minimumCoreVersion" : "0.8.6",
   "compatibleCoreVersion":"0.8.6",
-  "author": "José E. Lozano (Viriato139ac), Geike",
+  "author": "Gorden, Sad",
   "esmodules": ["babele-register.js"],
   "scripts": [],
   "styles": [],
@@ -24,14 +24,14 @@
   "packs": [],
   "languages": [
     {
-      "lang": "es",
-      "name": "Español",
-      "path": "lang/es.json"
+      "lang": "zh-tw",
+      "name": "正體中文",
+      "path": "lang/zh-tw.json"
     }
   ],
   "system": "CoC7",
   "systemVersion": "0.6.0",
   "url": "https://github.com/lozalojo/call-of-cthulhu-7th-babele-es",
-  "manifest": "https://raw.githubusercontent.com/lozalojo/call-of-cthulhu-7th-babele-es/master/module.json",
-  "download": "https://github.com/lozalojo/call-of-cthulhu-7th-babele-es/archive/master.zip"
+  "manifest": "https://raw.githubusercontent.com/hktrpg/call-of-cthulhu-7th-babele-es/master/module.json",
+  "download": "https://github.com/hktrpg/call-of-cthulhu-7th-babele-es/archive/master.zip"
 }
