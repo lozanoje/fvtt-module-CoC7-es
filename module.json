@@ -3,10 +3,12 @@
   "title": "Call of Cthulhu 7th Babele 正體中文版",
   "description": "Call of Cthulhu 7th HavlockV/CoC7-FoundryVTT的正體中文版，包括角色卡,瘋狂表等",
   "version": "0.60.1",
-  "minimumCoreVersion" : "0.8.6",
-  "compatibleCoreVersion":"0.8.6",
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "0.8.6",
   "author": "Gorden, Sad",
-  "esmodules": ["babele-register.js"],
+  "esmodules": [
+    "babele-register.js"
+  ],
   "scripts": [],
   "styles": [],
   "dependencies": [
@@ -21,7 +23,43 @@
       "version": "0.6.0"
     }
   ],
-  "packs": [],
+  "packs": [
+    {
+      "label": "Skills",
+      "entity": "Item",
+      "name": "skills",
+      "path": "./packs/skills.db",
+      "system": "CoC7"
+    },
+    {
+      "label": "Items Examples",
+      "entity": "Item",
+      "name": "items",
+      "path": "./packs/items.db",
+      "system": "CoC7"
+    },
+    {
+      "label": "Examples",
+      "entity": "Actor",
+      "name": "examples",
+      "path": "./packs/examples.db",
+      "system": "CoC7"
+    },
+    {
+      "label": "Roll Requests",
+      "entity": "JournalEntry",
+      "name": "roll-requests",
+      "path": "./packs/cocrollrequest.db",
+      "system": "CoC7"
+    },
+    {
+      "label": "Sanity Roll Table",
+      "entity": "RollTable",
+      "name": "sanity-tables-examples",
+      "path": "./packs/cocsanitytable_tc.db",
+      "system": "CoC7"
+    }
+  ],
   "languages": [
     {
       "lang": "zh-tw",
