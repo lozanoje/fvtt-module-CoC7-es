@@ -1,34 +1,34 @@
 {
-	"label": "Objetos de ejemplo",
+	"label": "示例對象",
 	"entries": [
 		{
 			"id": "1920's Setup Example",
-			"name": "Ejemplo Configuración PJ 1920",
-			"description": "<p>Configuración por defecto para un personaje de 1920.</p>\n<p>&nbsp;</p>"
+			"name": "1920 配置示例",
+			"description": "<p>1920 角色的默認設置.</p>\n<p>&nbsp;</p>"
 		},
 		{
 			"id": "Archetype Example",
-			"name": "Ejemplo de Arquetipo",
+			"name": "原型示例",
 			"description": null
 		},
 		{
 			"id": "Death ray (prototype)",
-			"name": "Rayo mortal (prototipo)",
+			"name": "死亡射線（原型）",
 			"description": ""
 		},
 		{
 			"id": "Experimental weapon",
-			"name": "Arma experimental",
-			"description": "<p>Descripción del arma</p>\n<p>si seleccionas un 'Área de efecto' se habilitarán 3 daños y alcances distintos</p>\n<p>si seleccionas 'Full-auto' solo se permitirá elegir 2 habilidades diferentes para el arma</p>\n<p>si seleccionas 'Especial' se activará un campo manual especial</p>\n<p>En la pestaña de combate si los iconos tienen un fondo rojo significa que no se ha seleccionado ninguna habilidad para el arma</p>\n<p>Edita el arma y selecciona la habilidad correcta.</p>"
+			"name": "實驗武器",
+			"description": "武器描述</p>\n<p>選擇“效果範圍”將啟用3種不同的傷害和射程</p>\n<p>選擇“全自動”將允許選擇2種不同的技能 武器</p>\n<p>選擇“特殊”將激活特殊輸入欄</p>\n<p>在戰鬥選項中，如果圖標為紅色背景，則表示沒有技能 已為該武器選擇</p>\n<p>編輯武器並選擇正確的技能。</p>"
 		},
 		{
 			"id": "Occupation Example",
-			"name": "Ejemplo de Ocupación",
+			"name": "職業示例",
 			"description": null
 		},
 		{
 			"id": "Punch",
-			"name": "Puñetazo",
+			"name": "衝擊",
 			"description": ""
 		}
 	]

@@ -1,20 +1,20 @@
 {
-	"label": "Personajes de ejemplo",
+	"label": "示範角色卡",
 	"entries": [
 		{
 			"id": "1920 Character",
-			"name": "Personaje 1920",
+			"name": "1920 角色",
 			"items": [
 				{
 					"_id": "E3y6HmUAZGyAv5zM",
 					"flags": {},
-					"name": "Contabilidad",
+					"name": "會計",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -44,13 +44,13 @@
 				{
 					"_id": "XhHYF5tSQj8n7nIt",
 					"flags": {},
-					"name": "Antropología",
+					"name": "人類學",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -80,13 +80,13 @@
 				{
 					"_id": "VDsiVSMGcoUXCxdw",
 					"flags": {},
-					"name": "Tasación",
+					"name": "估價",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -116,13 +116,13 @@
 				{
 					"_id": "lDsTVk3C1CALLJV9",
 					"flags": {},
-					"name": "Encanto",
+					"name": "取悅",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -152,13 +152,13 @@
 				{
 					"_id": "k4q7dNE6yyaWvg6t",
 					"flags": {},
-					"name": "Crédito",
+					"name": "信譽",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -189,13 +189,13 @@
 				{
 					"_id": "U82PaYvshoVvFLTt",
 					"flags": {},
-					"name": "Mitos de Cthulhu",
+					"name": "克蘇魯神話",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -226,13 +226,13 @@
 				{
 					"_id": "J0lo87g53txd5SLS",
 					"flags": {},
-					"name": "Disfrazarse",
+					"name": "喬裝",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -262,13 +262,13 @@
 				{
 					"_id": "84CUVd7oXCBoDRh7",
 					"flags": {},
-					"name": "Esquivar",
+					"name": "閃避",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -298,13 +298,13 @@
 				{
 					"_id": "bHgRyyed99nleqcG",
 					"flags": {},
-					"name": "Conducir automóvil",
+					"name": "駕駛（汽車）",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -334,13 +334,13 @@
 				{
 					"_id": "lYpc5wP0ocjfX38X",
 					"flags": {},
-					"name": "Electricidad",
+					"name": "電器維修",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -370,13 +370,13 @@
 				{
 					"_id": "rDU26YAzBpBMQP27",
 					"flags": {},
-					"name": "Charlatanería",
+					"name": "話術",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -406,13 +406,13 @@
 				{
 					"_id": "kjaEOLz2p8ZrEowW",
 					"flags": {},
-					"name": "Pelea",
+					"name": "鬥毆",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
-						"specialization": "Combatir",
+						"specialization": "（近身戰鬥）",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -444,13 +444,13 @@
 				{
 					"_id": "O6xeAxF7aEY8zHdm",
 					"flags": {},
-					"name": "Arma corta",
+					"name": "手槍",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
-						"specialization": "Armas de fuego",
+						"specialization": "（遠程戰鬥）",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -482,13 +482,13 @@
 				{
 					"_id": "MaFf4EBxPNbDiFoZ",
 					"flags": {},
-					"name": "Escopeta",
+					"name": "霰彈槍",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
-						"specialization": "Armas de fuego",
+						"specialization": "（遠程戰鬥）",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -520,13 +520,13 @@
 				{
 					"_id": "ZI31AYDfuXNjE6W9",
 					"flags": {},
-					"name": "Primeros auxilios",
+					"name": "急救",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -556,13 +556,13 @@
 				{
 					"_id": "2LmfyHywLRLjfYZK",
 					"flags": {},
-					"name": "Historia",
+					"name": "歷史",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -592,13 +592,13 @@
 				{
 					"_id": "pW0uDSp9w8CFCPLN",
 					"flags": {},
-					"name": "Intimidar",
+					"name": "恐嚇",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -628,13 +628,13 @@
 				{
 					"_id": "1WVyK6rnfd5LiwZF",
 					"flags": {},
-					"name": "Saltar",
+					"name": "跳躍",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -664,13 +664,13 @@
 				{
 					"_id": "eYqdGfBBKGBihakf",
 					"flags": {},
-					"name": "Lengua propia",
+					"name": "母語：",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p><span style=\"color: #191813; font-size: 13px;\">Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</span></p>",
+							"value": "<p><span style=\"color: #191813; font-size: 13px;\">請參考克蘇魯的呼喚 - 7th Ed 核心規則書</span></p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -700,13 +700,13 @@
 				{
 					"_id": "IwRD21t2beB16frp",
 					"flags": {},
-					"name": "Derecho",
+					"name": "法律",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -736,13 +736,13 @@
 				{
 					"_id": "m6cYXpQe1bY13JD8",
 					"flags": {},
-					"name": "Buscar libros",
+					"name": "圖書館使用",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -772,13 +772,13 @@
 				{
 					"_id": "RW3uFJY5WH9lg49Z",
 					"flags": {},
-					"name": "Trepar",
+					"name": "攀爬",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -808,13 +808,13 @@
 				{
 					"_id": "AHG7Inw3sZTY6qWV",
 					"flags": {},
-					"name": "Escuchar",
+					"name": "聆聽",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -844,13 +844,13 @@
 				{
 					"_id": "3Jysn2i3cSgykZHp",
 					"flags": {},
-					"name": "Cerrajería",
+					"name": "鎖匠",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -880,13 +880,13 @@
 				{
 					"_id": "IbwXpzOw7IyzPqmI",
 					"flags": {},
-					"name": "Mecánica",
+					"name": "機械維修",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -916,13 +916,13 @@
 				{
 					"_id": "Mmy1vrySUmlMq8Wu",
 					"flags": {},
-					"name": "Medicina",
+					"name": "藥學",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -952,13 +952,13 @@
 				{
 					"_id": "PhzNWFslePSOjMeE",
 					"flags": {},
-					"name": "Naturaleza",
+					"name": "自然學",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -988,13 +988,13 @@
 				{
 					"_id": "kzdAswgR5VFrc8wH",
 					"flags": {},
-					"name": "Orientarse",
+					"name": "導航",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -1024,13 +1024,13 @@
 				{
 					"_id": "8Vz3jYVrRH4z6kZR",
 					"flags": {},
-					"name": "Ciencias ocultas",
+					"name": "神秘學",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -1060,13 +1060,13 @@
 				{
 					"_id": "WPppQWg72tJf8Ufs",
 					"flags": {},
-					"name": "Conducir maquinaria",
+					"name": "操作重機",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -1096,13 +1096,13 @@
 				{
 					"_id": "v2mCLTJ5uV9xcZtU",
 					"flags": {},
-					"name": "Persuasión",
+					"name": "說服",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -1132,13 +1132,13 @@
 				{
 					"_id": "OFaRTxDfNzPqnWPE",
 					"flags": {},
-					"name": "Pilotar",
+					"name": "任何",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
-						"specialization": "Pilotar",
+						"specialization": "駕駛",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -1168,13 +1168,13 @@
 				{
 					"_id": "3RIMHZyf9dI5HIOF",
 					"flags": {},
-					"name": "Psicoanálisis",
+					"name": "精神分析",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -1204,13 +1204,13 @@
 				{
 					"_id": "IChZCFGH2cJeQmmw",
 					"flags": {},
-					"name": "Psicología",
+					"name": "心理學",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -1240,13 +1240,13 @@
 				{
 					"_id": "EEEND8YZ91rtVW48",
 					"flags": {},
-					"name": "Equitación",
+					"name": "騎術",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -1276,13 +1276,13 @@
 				{
 					"_id": "XE0HsG49O1CPI9r1",
 					"flags": {},
-					"name": "Juego de manos",
+					"name": "巧手",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -1312,13 +1312,13 @@
 				{
 					"_id": "jEaOE3HSP6EGGfUO",
 					"flags": {},
-					"name": "Descubrir",
+					"name": "偵查",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -1348,13 +1348,13 @@
 				{
 					"_id": "3mLypx5XOhaE0kDB",
 					"flags": {},
-					"name": "Supervivencia",
+					"name": "任何",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
-						"specialization": "Supervivencia",
+						"specialization": "生存",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -1384,13 +1384,13 @@
 				{
 					"_id": "5jLflB6Ez9h2ILPA",
 					"flags": {},
-					"name": "Sigilo",
+					"name": "潛行",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -1412,13 +1412,13 @@
 				{
 					"_id": "2Wrbf4c9TNiW5DYu",
 					"flags": {},
-					"name": "Lanzar",
+					"name": "投擲",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
-						"specialization": "Combatir",
+						"specialization": "（遠程戰鬥）",
 						"description": {
-							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -1450,13 +1450,13 @@
 				{
 					"_id": "laKcJWNqaQQa8tHg",
 					"flags": {},
-					"name": "Arqueología",
+					"name": "考古學",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -1486,13 +1486,13 @@
 				{
 					"_id": "IeaxvTs5r5KQxSvQ",
 					"flags": {},
-					"name": "Nadar",
+					"name": "游泳",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -1522,13 +1522,13 @@
 				{
 					"_id": "Pc4UhjTHvcdX53bF",
 					"flags": {},
-					"name": "Seguir rastros",
+					"name": "追蹤",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -1558,7 +1558,7 @@
 				{
 					"_id": "i1VYLHBcWrIUd57K",
 					"flags": {},
-					"name": "Puños",
+					"name": "拳頭",
 					"type": "weapon",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
@@ -1642,12 +1642,12 @@
 		},
 		{
 			"id": "Creature example",
-			"name": "Criatura de ejemplo",
+			"name": "示範生物",
 			"items": [
 				{
 					"_id": "dLLdlRaQmkE9QYUJ",
 					"flags": {},
-					"name": "Trocear PJs en pequeños cachitos",
+					"name": "將 PC 切成小塊",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
@@ -1676,19 +1676,19 @@
 				{
 					"_id": "H30y50QJUdx9Xjii",
 					"flags": {},
-					"name": "Garras mortales",
+					"name": "致命的利爪",
 					"type": "weapon",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"description": {
-							"value": "<p>Descripción del arma</p>\n<p>si seleccionas un 'Área de efecto' se habilitarán 3 daños y alcances distintos</p>\n<p>si seleccionas 'Full-auto' solo se permitirá elegir 2 habilidades diferentes para el arma</p>\n<p>si seleccionas 'Especial' se activará un campo manual especial</p>\n<p>En la pestaña de combate si los iconos tienen un fondo rojo significa que no se ha seleccionado ninguna habilidad para el arma</p>\n<p>Edita el arma y selecciona la habilidad correcta.</p>",
+							"value": "武器描述</p>\n<p>選擇“效果範圍”將啟用3種不同的傷害和射程</p>\n<p>選擇“全自動”將允許選擇2種不同的技能 武器</p>\n<p>選擇“特殊”將激活特殊輸入欄</p>\n<p>在戰鬥選項中，如果圖標為紅色背景，則表示沒有技能 已為該武器選擇</p>\n<p>編輯武器並選擇正確的技能。</p>",
 							"chat": "",
-							"special": "<p>Aquí puedes añadir instrucciones o una descripción detallada :</p>\n<p>Indicación 1 : <a class=\"inline-roll roll\" data-mode=\"roll\" data-flavor=\"\" data-formula=\"2d17kh\" title=\"2d17kh\"><i class=\"fas fa-dice-d20\"></i> 2d17kh</a></p>"
+							"special": "<p>您可以在那裡添加特殊描述或slugs  :</p>\n<p>指示 1 : <a class=\"inline-roll roll\" data-mode=\"roll\" data-flavor=\"\" data-formula=\"2d17kh\" title=\"2d17kh\"><i class=\"fas fa-dice-d20\"></i> 2d17kh</a></p>"
 						},
 						"wpnType": "",
 						"skill": {
 							"main": {
-								"name": "Seleccionar una vez que tengas el arma",
+								"name": "擁有武器後選擇",
 								"id": "dLLdlRaQmkE9QYUJ"
 							},
 							"alternativ": {
@@ -1754,7 +1754,7 @@
 				{
 					"_id": "i6nvPoQNE6CTSz5C",
 					"flags": {},
-					"name": "Pile of junk",
+					"name": "一堆垃圾",
 					"type": "item",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
@@ -1768,11 +1768,11 @@
 				{
 					"_id": "blVIcQR6OUZ4LeqG",
 					"flags": {},
-					"name": "Combatir",
+					"name": "鬥毆",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
-						"specialization": "Combatir",
+						"specialization": "鬥毆",
 						"description": {
 							"value": "",
 							"opposingDifficulty": "",
@@ -1795,19 +1795,19 @@
 				{
 					"_id": "izZoClJXLwUpoiy7",
 					"flags": {},
-					"name": "Armas naturales",
+					"name": "天生武器",
 					"type": "weapon",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"description": {
-							"value": "Arma natural de la criatura",
-							"chat": "Arma natural de la criatura",
+							"value": "生物的天生武器",
+							"chat": "生物的天生武器",
 							"special": ""
 						},
 						"wpnType": "innate",
 						"skill": {
 							"main": {
-								"name": "Combatir",
+								"name": "鬥毆",
 								"id": "blVIcQR6OUZ4LeqG"
 							},
 							"alternativ": {
@@ -1851,12 +1851,12 @@
 		},
 		{
 			"id": "Goon",
-			"name": "Esbirro",
+			"name": "隨從",
 			"items": [
 				{
 					"_id": "MLzJUjOk8pGvbark",
 					"flags": {},
-					"name": "Entrar en pánico",
+					"name": "恐慌",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
@@ -1885,7 +1885,7 @@
 				{
 					"_id": "vahGLRAWBleHGipn",
 					"flags": {},
-					"name": "Intentarlo con todo su empeño",
+					"name": "盡你所能",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
@@ -1914,7 +1914,7 @@
 				{
 					"_id": "MzS8tNzfklkMETxe",
 					"flags": {},
-					"name": "Mandar",
+					"name": "命令",
 					"type": "item",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
@@ -1928,7 +1928,7 @@
 				{
 					"_id": "55AtqIMUTt5uER3Z",
 					"flags": {},
-					"name": "Documentos secretos",
+					"name": "秘密文件",
 					"type": "item",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
@@ -1942,19 +1942,19 @@
 				{
 					"_id": "bP89oaMSNTuMQdt5",
 					"flags": {},
-					"name": "Puñetazo",
+					"name": "衝擊",
 					"type": "weapon",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"description": {
-							"value": "<p>Description of the weapon</p>\n<p>selecting 'Area of effect' will enable 3 different damage and range</p>\n<p>selecting 'Full-auto' will allow 2 different skilss to be selected for the weapon</p>\n<p>selecting 'Special' will activate the special input field</p>\n<p>In the combat tab, if the icons are with a red background, it means that no skill have been selected for that weapon</p>\n<p>Edit the weapon and select the correct skill.</p>",
+							"value": "武器描述</p>\n<p>選擇“效果範圍”將啟用3種不同的傷害和射程</p>\n<p>選擇“全自動”將允許選擇2種不同的技能 武器</p>\n<p>選擇“特殊”將激活特殊輸入欄</p>\n<p>在戰鬥選項中，如果圖標為紅色背景，則表示沒有技能 已為該武器選擇</p>\n<p>編輯武器並選擇正確的技能。</p>",
 							"chat": "",
-							"special": "<p>You can add special description or slugs there :</p>\n<p>Slug 1 : <a class=\"inline-roll roll\" data-mode=\"roll\" data-flavor=\"\" data-formula=\"2d17kh\" title=\"2d17kh\"><i class=\"fas fa-dice-d20\"></i> 2d17kh</a></p>"
+							"special": "<p>您可以在那裡添加特殊描述或slugs  :</p>\n<p>指示 1 : <a class=\"inline-roll roll\" data-mode=\"roll\" data-flavor=\"\" data-formula=\"2d17kh\" title=\"2d17kh\"><i class=\"fas fa-dice-d20\"></i> 2d17kh</a></p>"
 						},
 						"wpnType": "",
 						"skill": {
 							"main": {
-								"name": "Pelea",
+								"name": "鬥毆",
 								"id": "EUUoTqgF104Htwp5"
 							},
 							"alternativ": {
@@ -2020,13 +2020,13 @@
 				{
 					"_id": "GpHiBjo9O4FrPzdl",
 					"flags": {},
-					"name": "Escopeta",
+					"name": "霰彈槍",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
-						"specialization": "Armas de fuego",
+						"specialization": "（遠程戰鬥）",
 						"description": {
-							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -2058,13 +2058,13 @@
 				{
 					"_id": "DqmtcxhedeGwNdPb",
 					"flags": {},
-					"name": "Esquivar",
+					"name": "閃避",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -2094,13 +2094,13 @@
 				{
 					"_id": "EUUoTqgF104Htwp5",
 					"flags": {},
-					"name": "Pelea",
+					"name": "鬥毆",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
-						"specialization": "Combatir",
+						"specialization": "鬥毆",
 						"description": {
-							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -2132,7 +2132,7 @@
 				{
 					"_id": "odgm7NgwjcrVBoRZ",
 					"flags": {},
-					"name": "Lengua propia",
+					"name": "母語",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
@@ -2168,7 +2168,7 @@
 				{
 					"_id": "Cgn0EMY6vNZ9iVHW",
 					"flags": {},
-					"name": "Cumplir órdenes",
+					"name": "喊叫命令",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
@@ -2197,23 +2197,23 @@
 				{
 					"_id": "SZhoTtcwS9wOPXBU",
 					"flags": {},
-					"name": "Escopeta",
+					"name": "霰彈槍",
 					"type": "weapon",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"description": {
-							"value": "<p>Description of the weapon</p>\n<p>selecting 'Area of effect' will enable 3 different damage and range</p>\n<p>selecting 'Full-auto' will allow 2 different skilss to be selected for the weapon</p>\n<p>selecting 'Special' will activate the special input field</p>\n<p>In the combat tab, if the icons are with a red background, it means that no skill have been selected for that weapon</p>\n<p>Edit the weapon and select the correct skill.</p>",
+							"value": "武器描述</p>\n<p>選擇“效果範圍”將啟用3種不同的傷害和射程</p>\n<p>選擇“全自動”將允許選擇2種不同的技能 武器</p>\n<p>選擇“特殊”將激活特殊輸入欄</p>\n<p>在戰鬥選項中，如果圖標為紅色背景，則表示沒有技能 已為該武器選擇</p>\n<p>編輯武器並選擇正確的技能。</p>",
 							"chat": "",
-							"special": "<p>You can add special description or slugs there :</p>\n<p>Slug 1 : <a class=\"inline-roll roll\" data-mode=\"roll\" data-flavor=\"\" data-formula=\"2d17kh\" title=\"2d17kh\"><i class=\"fas fa-dice-d20\"></i> 2d17kh</a></p>"
+							"special": "<p>您可以在那裡添加特殊描述或slugs  :</p>\n<p>指示 1 : <a class=\"inline-roll roll\" data-mode=\"roll\" data-flavor=\"\" data-formula=\"2d17kh\" title=\"2d17kh\"><i class=\"fas fa-dice-d20\"></i> 2d17kh</a></p>"
 						},
 						"wpnType": "",
 						"skill": {
 							"main": {
-								"name": "Shotgun",
+								"name": "霰彈槍",
 								"id": "GpHiBjo9O4FrPzdl"
 							},
 							"alternativ": {
-								"name": "Shotgun",
+								"name": "霰彈槍",
 								"id": "GpHiBjo9O4FrPzdl"
 							}
 						},
@@ -2275,7 +2275,7 @@
 				{
 					"_id": "yfEPFv1QVtPS8pJQ",
 					"flags": {},
-					"name": "Porra",
+					"name": "線索",
 					"type": "weapon",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
@@ -2359,12 +2359,12 @@
 		},
 		{
 			"id": "Vilain example",
-			"name": "Villano de ejemplo",
+			"name": "反派例子",
 			"items": [
 				{
-					"_id": "MLzJUjOk8pGvbark",
+					"_id": "成為一種痛苦",
 					"flags": {},
-					"name": "Entrar en pánico",
+					"name": "恐慌",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
@@ -2393,7 +2393,7 @@
 				{
 					"_id": "MUMDYUZ4xaEPfwin",
 					"flags": {},
-					"name": "Conquistar el mundo",
+					"name": "征服世界",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
@@ -2422,7 +2422,7 @@
 				{
 					"_id": "vahGLRAWBleHGipn",
 					"flags": {},
-					"name": "Atormentar a los PJs",
+					"name": "折磨PC",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
@@ -2451,7 +2451,7 @@
 				{
 					"_id": "MzS8tNzfklkMETxe",
 					"flags": {},
-					"name": "Planear cómo esclavizar a la humanidad",
+					"name": "計劃如何奴役人類",
 					"type": "item",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
@@ -2465,7 +2465,7 @@
 				{
 					"_id": "55AtqIMUTt5uER3Z",
 					"flags": {},
-					"name": "Esbirro muy mezquino",
+					"name": "非常卑鄙的奴才",
 					"type": "item",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
@@ -2479,14 +2479,14 @@
 				{
 					"_id": "bP89oaMSNTuMQdt5",
 					"flags": {},
-					"name": "Puñetazo",
+					"name": "衝擊",
 					"type": "weapon",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"description": {
-							"value": "<p>Description of the weapon</p>\n<p>selecting 'Area of effect' will enable 3 different damage and range</p>\n<p>selecting 'Full-auto' will allow 2 different skilss to be selected for the weapon</p>\n<p>selecting 'Special' will activate the special input field</p>\n<p>In the combat tab, if the icons are with a red background, it means that no skill have been selected for that weapon</p>\n<p>Edit the weapon and select the correct skill.</p>",
+							"value": "武器描述</p>\n<p>選擇“效果範圍”將啟用3種不同的傷害和射程</p>\n<p>選擇“全自動”將允許選擇2種不同的技能 武器</p>\n<p>選擇“特殊”將激活特殊輸入欄</p>\n<p>在戰鬥選項中，如果圖標為紅色背景，則表示沒有技能 已為該武器選擇</p>\n<p>編輯武器並選擇正確的技能。</p>",
 							"chat": "",
-							"special": "<p>You can add special description or slugs there :</p>\n<p>Slug 1 : <a class=\"inline-roll roll\" data-mode=\"roll\" data-flavor=\"\" data-formula=\"2d17kh\" title=\"2d17kh\"><i class=\"fas fa-dice-d20\"></i> 2d17kh</a></p>"
+							"special": "<p>您可以在那裡添加特殊描述或slugs  :</p>\n<p>指示 1 : <a class=\"inline-roll roll\" data-mode=\"roll\" data-flavor=\"\" data-formula=\"2d17kh\" title=\"2d17kh\"><i class=\"fas fa-dice-d20\"></i> 2d17kh</a></p>"
 						},
 						"wpnType": "",
 						"skill": {
@@ -2557,13 +2557,13 @@
 				{
 					"_id": "GpHiBjo9O4FrPzdl",
 					"flags": {},
-					"name": "Escopeta",
+					"name": "霰彈槍",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
-						"specialization": "Armas de fuego",
+						"specialization": "（遠程戰鬥）",
 						"description": {
-							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -2595,13 +2595,13 @@
 				{
 					"_id": "DqmtcxhedeGwNdPb",
 					"flags": {},
-					"name": "Esquivar",
+					"name": "閃避",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -2631,13 +2631,13 @@
 				{
 					"_id": "EUUoTqgF104Htwp5",
 					"flags": {},
-					"name": "Pelea",
+					"name": "鬥毆",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
-						"specialization": "Combatir",
+						"specialization": "鬥毆",
 						"description": {
-							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
+							"value": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
@@ -2669,7 +2669,7 @@
 				{
 					"_id": "odgm7NgwjcrVBoRZ",
 					"flags": {},
-					"name": "Lengua propia",
+					"name": "母語",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
@@ -2705,7 +2705,7 @@
 				{
 					"_id": "Cgn0EMY6vNZ9iVHW",
 					"flags": {},
-					"name": "Ladrar órdenes",
+					"name": "喊叫命令",
 					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
@@ -2734,14 +2734,14 @@
 				{
 					"_id": "SZhoTtcwS9wOPXBU",
 					"flags": {},
-					"name": "Mi arma de prueba",
+					"name": "測試武器",
 					"type": "weapon",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"description": {
-							"value": "<p>Description of the weapon</p>\n<p>selecting 'Area of effect' will enable 3 different damage and range</p>\n<p>selecting 'Full-auto' will allow 2 different skilss to be selected for the weapon</p>\n<p>selecting 'Special' will activate the special input field</p>\n<p>In the combat tab, if the icons are with a red background, it means that no skill have been selected for that weapon</p>\n<p>Edit the weapon and select the correct skill.</p>",
+							"value": "武器描述</p>\n<p>選擇“效果範圍”將啟用3種不同的傷害和射程</p>\n<p>選擇“全自動”將允許選擇2種不同的技能 武器</p>\n<p>選擇“特殊”將激活特殊輸入欄</p>\n<p>在戰鬥選項中，如果圖標為紅色背景，則表示沒有技能 已為該武器選擇</p>\n<p>編輯武器並選擇正確的技能。</p>",
 							"chat": "",
-							"special": "<p>You can add special description or slugs there :</p>\n<p>Slug 1 : <a class=\"inline-roll roll\" data-mode=\"roll\" data-flavor=\"\" data-formula=\"2d17kh\" title=\"2d17kh\"><i class=\"fas fa-dice-d20\"></i> 2d17kh</a></p>"
+							"special": "<p>您可以在那裡添加特殊描述或slugs  :</p>\n<p>指示 1 : <a class=\"inline-roll roll\" data-mode=\"roll\" data-flavor=\"\" data-formula=\"2d17kh\" title=\"2d17kh\"><i class=\"fas fa-dice-d20\"></i> 2d17kh</a></p>"
 						},
 						"wpnType": "",
 						"skill": {
@@ -2808,6 +2808,2466 @@
 						}
 					},
 					"sort": 100001
+				}
+			]
+		},
+		{
+			"name": "Sad",
+			"type": "character",
+			"img": "icons/svg/mystery-man.svg",
+			"data": {
+				"characteristics": {
+					"str": {
+						"value": 0,
+						"tempValue": null,
+						"short": "CHARAC.STR",
+						"label": "CHARAC.Strengh",
+						"formula": null
+					},
+					"dex": {
+						"value": 0,
+						"tempValue": null,
+						"short": "CHARAC.DEX",
+						"label": "CHARAC.Dexterity",
+						"formula": null
+					},
+					"pow": {
+						"value": 0,
+						"tempValue": null,
+						"short": "CHARAC.POW",
+						"label": "CHARAC.Power",
+						"formula": null
+					},
+					"con": {
+						"value": 0,
+						"tempValue": null,
+						"short": "CHARAC.CON",
+						"label": "CHARAC.Constitution",
+						"formula": null
+					},
+					"app": {
+						"value": 0,
+						"tempValue": null,
+						"short": "CHARAC.APP",
+						"label": "CHARAC.Appearance",
+						"formula": null
+					},
+					"edu": {
+						"value": 0,
+						"tempValue": null,
+						"short": "CHARAC.EDU",
+						"label": "CHARAC.Education",
+						"formula": null
+					},
+					"siz": {
+						"value": 0,
+						"tempValue": null,
+						"short": "CHARAC.SIZ",
+						"label": "CHARAC.Size",
+						"formula": null
+					},
+					"int": {
+						"value": 0,
+						"tempValue": null,
+						"short": "CHARAC.INT",
+						"label": "CHARAC.Intelligence",
+						"formula": null
+					}
+				},
+				"attribs": {
+					"hp": {
+						"value": 0,
+						"max": 0,
+						"short": "HP",
+						"label": "Hit points",
+						"auto": true
+					},
+					"mp": {
+						"value": 0,
+						"max": 0,
+						"short": "MP",
+						"label": "Magic points",
+						"auto": true
+					},
+					"lck": {
+						"value": "",
+						"short": "LCK",
+						"label": "Luck",
+						"max": 99
+					},
+					"san": {
+						"value": 0,
+						"max": 99,
+						"short": "SAN",
+						"label": "Sanity",
+						"auto": true,
+						"dailyLoss": 0,
+						"oneFifthSanity": " / 0"
+					},
+					"mov": {
+						"value": "auto",
+						"max": null,
+						"short": "MOV",
+						"label": "Movement rate",
+						"auto": true
+					},
+					"db": {
+						"value": "",
+						"short": "DB",
+						"label": "Damage bonus",
+						"auto": true
+					},
+					"build": {
+						"current": -2,
+						"value": "auto",
+						"short": "BLD",
+						"label": "Build",
+						"auto": true
+					},
+					"armor": {
+						"value": 0,
+						"localized": false,
+						"locations": [],
+						"auto": false
+					}
+				},
+				"status": {
+					"criticalWounds": {
+						"type": "Boolean",
+						"value": false
+					},
+					"unconscious": {
+						"type": "Boolean",
+						"value": false
+					},
+					"dying": {
+						"type": "Boolean",
+						"value": false
+					},
+					"dead": {
+						"type": "Boolean",
+						"value": false
+					},
+					"prone": {
+						"type": "Boolean",
+						"value": false
+					},
+					"tempoInsane": {
+						"type": "boolean",
+						"value": false
+					},
+					"indefInsane": {
+						"type": "boolean",
+						"value": false
+					}
+				},
+				"infos": {
+					"occupation": "自定職業",
+					"age": "",
+					"sex": "",
+					"residence": "",
+					"birthplace": "",
+					"archetype": "",
+					"organization": ""
+				},
+				"flags": {
+					"locked": true,
+					"manualCredit": true
+				},
+				"credit": {
+					"spent": "1,000日元",
+					"assetsDetails": "",
+					"spendingLevel": "身無分文",
+					"cash": "1,000日元",
+					"assets": "沒有日元"
+				},
+				"development": {
+					"personal": null,
+					"occupation": null,
+					"archetype": null
+				},
+				"biography": [
+					{
+						"title": "形象描述",
+						"value": ""
+					},
+					{
+						"title": "思想/信念",
+						"value": ""
+					},
+					{
+						"title": "重要之人及理由",
+						"value": ""
+					},
+					{
+						"title": "意義非凡之地",
+						"value": ""
+					},
+					{
+						"title": "特質",
+						"value": ""
+					},
+					{
+						"title": "傷勢及傷痕",
+						"value": ""
+					},
+					{
+						"title": "恐懼症及狂躁症",
+						"value": ""
+					},
+					{
+						"title": "寶貴之物",
+						"value": ""
+					},
+					{
+						"title": "生平故事",
+						"value": ""
+					},
+					{
+						"title": "特徵1",
+						"value": "任意"
+					},
+					{
+						"title": "特徵2",
+						"value": ""
+					}
+				],
+				"encounteredCreatures": [],
+				"backstory": "",
+				"personalDescription": {
+					"type": "string",
+					"value": ""
+				},
+				"indefiniteInsanityLevel": {
+					"value": 0,
+					"max": 2
+				},
+				"adjustments": {
+					"personal": [
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						""
+					],
+					"experience": [
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						"",
+						""
+					]
+				},
+				"notes": ""
+			},
+			"token": {
+				"flags": {},
+				"name": "",
+				"displayName": 50,
+				"img": null,
+				"tint": null,
+				"width": 1,
+				"height": 1,
+				"scale": 1,
+				"lockRotation": false,
+				"rotation": 0,
+				"vision": true,
+				"dimSight": 20,
+				"brightSight": 20,
+				"dimLight": 20,
+				"brightLight": 20,
+				"sightAngle": 0,
+				"lightAngle": 0,
+				"lightAlpha": 1,
+				"lightAnimation": {
+					"speed": 5,
+					"intensity": 5
+				},
+				"actorLink": true,
+				"disposition": 0,
+				"displayBars": 40,
+				"bar1": {
+					"attribute": "attribs.hp"
+				},
+				"bar2": {
+					"attribute": "attribs.san"
+				},
+				"randomImg": false,
+				"mirrorX": false,
+				"mirrorY": false,
+				"alpha": 1,
+				"lightColor": null,
+				"x": null,
+				"y": null,
+				"elevation": null
+			},
+			"items": [
+				{
+					"name": "心理學",
+					"type": "skill",
+					"data": {
+						"specialization": "［交際類］",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "10",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"rarity": false,
+							"push": true,
+							"combat": false
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 100000,
+					"flags": {},
+					"img": "icons/skills/social/diplomacy-handshake.webp",
+					"effects": [],
+					"folder": null,
+					"permission": {
+						"default": 0
+					}
+				},
+				{
+					"name": "信譽",
+					"type": "skill",
+					"data": {
+						"specialization": "［交際類］",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "0",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"rarity": false,
+							"push": true,
+							"combat": false
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 100000,
+					"flags": {},
+					"img": "icons/skills/social/diplomacy-handshake.webp",
+					"effects": [],
+					"folder": null,
+					"permission": {
+						"default": 0
+					}
+				},
+				{
+					"name": "說服",
+					"type": "skill",
+					"data": {
+						"specialization": "［交際類］",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "10",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"rarity": false,
+							"push": true,
+							"combat": false
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 100000,
+					"flags": {},
+					"img": "icons/skills/social/diplomacy-handshake.webp",
+					"effects": [],
+					"folder": null,
+					"permission": {
+						"default": 0
+					}
+				},
+				{
+					"name": "話術",
+					"type": "skill",
+					"data": {
+						"specialization": "［交際類］",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "5",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"rarity": false,
+							"push": true,
+							"combat": false
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 100000,
+					"flags": {},
+					"img": "icons/skills/social/diplomacy-handshake.webp",
+					"effects": [],
+					"folder": null,
+					"permission": {
+						"default": 0
+					}
+				},
+				{
+					"name": "恐嚇",
+					"type": "skill",
+					"data": {
+						"specialization": "［交際類］",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "15",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"rarity": false,
+							"push": true,
+							"combat": false
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 100000,
+					"flags": {},
+					"img": "icons/skills/social/diplomacy-handshake.webp",
+					"effects": [],
+					"folder": null,
+					"permission": {
+						"default": 0
+					}
+				},
+				{
+					"name": "取悅",
+					"type": "skill",
+					"data": {
+						"specialization": "［交際類］",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "15",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"rarity": false,
+							"push": true,
+							"combat": false
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 100000,
+					"flags": {},
+					"img": "icons/skills/social/diplomacy-handshake.webp",
+					"effects": [],
+					"folder": null,
+					"permission": {
+						"default": 0
+					}
+				},
+				{
+					"name": "導航",
+					"type": "skill",
+					"data": {
+						"specialization": "［移動類］",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "10",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"rarity": false,
+							"push": true,
+							"combat": false
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 100000,
+					"flags": {},
+					"img": "icons/skills/movement/feet-winged-boots-glowing-yellow.webp",
+					"effects": [],
+					"folder": null,
+					"permission": {
+						"default": 0
+					}
+				},
+				{
+					"name": "跳躍",
+					"type": "skill",
+					"data": {
+						"specialization": "［移動類］",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "20",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"rarity": false,
+							"push": true,
+							"combat": false
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 100000,
+					"flags": {},
+					"img": "icons/skills/movement/feet-winged-boots-glowing-yellow.webp",
+					"effects": [],
+					"folder": null,
+					"permission": {
+						"default": 0
+					}
+				},
+				{
+					"name": "攀爬",
+					"type": "skill",
+					"data": {
+						"specialization": "［移動類］",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "20",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"rarity": false,
+							"push": true,
+							"combat": false
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 100000,
+					"flags": {},
+					"img": "icons/skills/movement/feet-winged-boots-glowing-yellow.webp",
+					"effects": [],
+					"folder": null,
+					"permission": {
+						"default": 0
+					}
+				},
+				{
+					"name": "駕駛（汽車）",
+					"type": "skill",
+					"data": {
+						"specialization": "［移動類］",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "20",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"rarity": false,
+							"push": true,
+							"combat": false
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 100000,
+					"flags": {},
+					"img": "icons/skills/movement/feet-winged-boots-glowing-yellow.webp",
+					"effects": [],
+					"folder": null,
+					"permission": {
+						"default": 0
+					}
+				},
+				{
+					"name": "潛行",
+					"type": "skill",
+					"data": {
+						"specialization": "［隱密類］",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "20",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"rarity": false,
+							"push": true,
+							"combat": false
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 100000,
+					"flags": {},
+					"img": "icons/skills/targeting/crosshair-pointed-orange.webp",
+					"effects": [],
+					"folder": null,
+					"permission": {
+						"default": 0
+					}
+				},
+				{
+					"name": "追蹤",
+					"type": "skill",
+					"data": {
+						"specialization": "［隱密類］",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "10",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"rarity": false,
+							"push": true,
+							"combat": false
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 100000,
+					"flags": {},
+					"img": "icons/skills/targeting/crosshair-pointed-orange.webp",
+					"effects": [],
+					"folder": null,
+					"permission": {
+						"default": 0
+					}
+				},
+				{
+					"name": "喬裝",
+					"type": "skill",
+					"data": {
+						"specialization": "［隱密類］",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "5",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"rarity": false,
+							"push": true,
+							"combat": false
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 100000,
+					"flags": {},
+					"img": "icons/skills/targeting/crosshair-pointed-orange.webp",
+					"effects": [],
+					"folder": null,
+					"permission": {
+						"default": 0
+					}
+				},
+				{
+					"name": "鎖匠",
+					"type": "skill",
+					"data": {
+						"specialization": "［隱密類］",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "1",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"rarity": false,
+							"push": true,
+							"combat": false
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 100000,
+					"flags": {},
+					"img": "icons/skills/targeting/crosshair-pointed-orange.webp",
+					"effects": [],
+					"folder": null,
+					"permission": {
+						"default": 0
+					}
+				},
+				{
+					"name": "巧手",
+					"type": "skill",
+					"data": {
+						"specialization": "［隱密類］",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "10",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"rarity": false,
+							"push": true,
+							"combat": false
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 100000,
+					"flags": {},
+					"img": "icons/skills/targeting/crosshair-pointed-orange.webp",
+					"effects": [],
+					"folder": null,
+					"permission": {
+						"default": 0
+					}
+				},
+				{
+					"name": "會計",
+					"type": "skill",
+					"data": {
+						"specialization": "［學問類］",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "5",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"rarity": false,
+							"push": true,
+							"combat": false
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 100000,
+					"flags": {},
+					"img": "icons/sundries/books/book-open-brown.webp",
+					"effects": [],
+					"folder": null,
+					"permission": {
+						"default": 0
+					}
+				},
+				{
+					"name": "法律",
+					"type": "skill",
+					"data": {
+						"specialization": "［學問類］",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "5",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"rarity": false,
+							"push": true,
+							"combat": false
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 100000,
+					"flags": {},
+					"img": "icons/sundries/books/book-open-brown.webp",
+					"effects": [],
+					"folder": null,
+					"permission": {
+						"default": 0
+					}
+				},
+				{
+					"name": "神秘學",
+					"type": "skill",
+					"data": {
+						"specialization": "［學問類］",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "5",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"rarity": false,
+							"push": true,
+							"combat": false
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 100000,
+					"flags": {},
+					"img": "icons/sundries/books/book-open-brown.webp",
+					"effects": [],
+					"folder": null,
+					"permission": {
+						"default": 0
+					}
+				},
+				{
+					"name": "歷史",
+					"type": "skill",
+					"data": {
+						"specialization": "［學問類］",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "5",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"rarity": false,
+							"push": true,
+							"combat": false
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 100000,
+					"flags": {},
+					"img": "icons/sundries/books/book-open-brown.webp",
+					"effects": [],
+					"folder": null,
+					"permission": {
+						"default": 0
+					}
+				},
+				{
+					"name": "自然學",
+					"type": "skill",
+					"data": {
+						"specialization": "［學問類］",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "10",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"rarity": false,
+							"push": true,
+							"combat": false
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 100000,
+					"flags": {},
+					"img": "icons/sundries/books/book-open-brown.webp",
+					"effects": [],
+					"folder": null,
+					"permission": {
+						"default": 0
+					}
+				},
+				{
+					"name": "人類學",
+					"type": "skill",
+					"data": {
+						"specialization": "［學問類］",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "1",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"rarity": false,
+							"push": true,
+							"combat": false
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 100000,
+					"flags": {},
+					"img": "icons/sundries/books/book-open-brown.webp",
+					"effects": [],
+					"folder": null,
+					"permission": {
+						"default": 0
+					}
+				},
+				{
+					"name": "考古學",
+					"type": "skill",
+					"data": {
+						"specialization": "［學問類］",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "1",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"rarity": false,
+							"push": true,
+							"combat": false
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 100000,
+					"flags": {},
+					"img": "icons/sundries/books/book-open-brown.webp",
+					"effects": [],
+					"folder": null,
+					"permission": {
+						"default": 0
+					}
+				},
+				{
+					"name": "母語：",
+					"type": "skill",
+					"data": {
+						"specialization": "［語言］",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "1",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"rarity": false,
+							"push": true,
+							"combat": false
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 100000,
+					"flags": {},
+					"img": "icons/equipment/head/mask-carved-scream-tan.webp",
+					"effects": [],
+					"folder": null,
+					"permission": {
+						"default": 0
+					}
+				},
+				{
+					"name": "操作重機",
+					"type": "skill",
+					"data": {
+						"specialization": "［職業興趣］",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "1",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"rarity": false,
+							"push": true,
+							"combat": false
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 100000,
+					"flags": {},
+					"img": "icons/commodities/tech/cog-large-steel-white.webp",
+					"effects": [],
+					"folder": null,
+					"permission": {
+						"default": 0
+					}
+				},
+				{
+					"name": "機械維修",
+					"type": "skill",
+					"data": {
+						"specialization": "［職業興趣］",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "10",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"rarity": false,
+							"push": true,
+							"combat": false
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 100000,
+					"flags": {},
+					"img": "icons/commodities/tech/cog-large-steel-white.webp",
+					"effects": [],
+					"folder": null,
+					"permission": {
+						"default": 0
+					}
+				},
+				{
+					"name": "電器維修",
+					"type": "skill",
+					"data": {
+						"specialization": "［職業興趣］",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "10",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"rarity": false,
+							"push": true,
+							"combat": false
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 100000,
+					"flags": {},
+					"img": "icons/commodities/tech/cog-large-steel-white.webp",
+					"effects": [],
+					"folder": null,
+					"permission": {
+						"default": 0
+					}
+				},
+				{
+					"name": "電腦使用",
+					"type": "skill",
+					"data": {
+						"specialization": "［職業興趣］",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "5",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"rarity": false,
+							"push": true,
+							"combat": false
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 100000,
+					"flags": {},
+					"img": "icons/commodities/tech/cog-large-steel-white.webp",
+					"effects": [],
+					"folder": null,
+					"permission": {
+						"default": 0
+					}
+				},
+				{
+					"name": "偵查",
+					"type": "skill",
+					"data": {
+						"specialization": "［調查類］",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "25",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"rarity": false,
+							"push": true,
+							"combat": false
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 100000,
+					"flags": {},
+					"img": "icons/magic/perception/eye-ringed-green.webp",
+					"effects": [],
+					"folder": null,
+					"permission": {
+						"default": 0
+					}
+				},
+				{
+					"name": "聆聽",
+					"type": "skill",
+					"data": {
+						"specialization": "［調查類］",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "20",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"rarity": false,
+							"push": true,
+							"combat": false
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 100000,
+					"flags": {},
+					"img": "icons/magic/perception/eye-ringed-green.webp",
+					"effects": [],
+					"folder": null,
+					"permission": {
+						"default": 0
+					}
+				},
+				{
+					"name": "圖書館使用",
+					"type": "skill",
+					"data": {
+						"specialization": "［調查類］",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "20",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"rarity": false,
+							"push": true,
+							"combat": false
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 100000,
+					"flags": {},
+					"img": "icons/magic/perception/eye-ringed-green.webp",
+					"effects": [],
+					"folder": null,
+					"permission": {
+						"default": 0
+					}
+				},
+				{
+					"name": "估價",
+					"type": "skill",
+					"data": {
+						"specialization": "［調查類］",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "5",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"rarity": false,
+							"push": true,
+							"combat": false
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 100000,
+					"flags": {},
+					"img": "icons/magic/perception/eye-ringed-green.webp",
+					"effects": [],
+					"folder": null,
+					"permission": {
+						"default": 0
+					}
+				},
+				{
+					"name": "克蘇魯神話",
+					"type": "skill",
+					"data": {
+						"specialization": "［調查類］",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "0",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"rarity": false,
+							"push": true,
+							"combat": false
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 100000,
+					"flags": {},
+					"img": "icons/magic/perception/eye-ringed-green.webp",
+					"effects": [],
+					"folder": null,
+					"permission": {
+						"default": 0
+					}
+				},
+				{
+					"name": "閃避",
+					"description": {
+						"value": "",
+						"opposingDifficulty": "",
+						"pushedFaillureConsequences": "",
+						"chat": ""
+					},
+					"base": "",
+					"type": "skill",
+					"data": {
+						"specialization": "",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "1",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"rarity": false,
+							"push": false,
+							"combat": true,
+							"fighting": true
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 800000,
+					"flags": {},
+					"img": "icons/skills/melee/weapons-crossed-swords-teal.webp",
+					"effects": [],
+					"folder": null,
+					"permission": {
+						"default": 0
+					}
+				},
+				{
+					"name": "鬥毆",
+					"description": {
+						"value": "",
+						"opposingDifficulty": "",
+						"pushedFaillureConsequences": "",
+						"chat": ""
+					},
+					"base": "",
+					"type": "skill",
+					"data": {
+						"specialization": "",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "25",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"rarity": false,
+							"push": false,
+							"combat": true,
+							"fighting": true
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 800000,
+					"flags": {},
+					"img": "icons/skills/melee/weapons-crossed-swords-teal.webp",
+					"effects": [],
+					"folder": null,
+					"permission": {
+						"default": 0
+					}
+				},
+				{
+					"name": "投擲",
+					"description": {
+						"value": "",
+						"opposingDifficulty": "",
+						"pushedFaillureConsequences": "",
+						"chat": ""
+					},
+					"base": "",
+					"type": "skill",
+					"data": {
+						"specialization": "",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "20",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"rarity": false,
+							"push": false,
+							"combat": true,
+							"firearm": true,
+							"fighting": false
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 800000,
+					"flags": {},
+					"img": "icons/skills/melee/weapons-crossed-swords-teal.webp",
+					"effects": [],
+					"folder": null,
+					"permission": {
+						"default": 0
+					}
+				},
+				{
+					"name": "手槍",
+					"description": {
+						"value": "",
+						"opposingDifficulty": "",
+						"pushedFaillureConsequences": "",
+						"chat": ""
+					},
+					"base": "",
+					"type": "skill",
+					"data": {
+						"specialization": "",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "20",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"rarity": false,
+							"push": false,
+							"combat": true,
+							"firearm": true,
+							"fighting": false
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 800000,
+					"flags": {},
+					"img": "icons/skills/melee/weapons-crossed-swords-teal.webp",
+					"effects": [],
+					"folder": null,
+					"permission": {
+						"default": 0
+					}
+				},
+				{
+					"name": "精神分析",
+					"type": "skill",
+					"data": {
+						"specialization": "［醫療類］",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "1",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"rarity": false,
+							"push": true,
+							"combat": false
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 100000,
+					"flags": {},
+					"img": "icons/magic/life/cross-worn-green.webp"
+				},
+				{
+					"name": "急救",
+					"type": "skill",
+					"data": {
+						"specialization": "［醫療類］",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "30",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"rarity": false,
+							"push": true,
+							"combat": false
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 100000,
+					"flags": {},
+					"img": "icons/magic/life/cross-worn-green.webp",
+					"effects": [],
+					"folder": null,
+					"permission": {
+						"default": 0
+					}
+				},
+				{
+					"name": "醫學",
+					"type": "skill",
+					"data": {
+						"specialization": "［醫療類］",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "1",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"rarity": false,
+							"push": true,
+							"combat": false
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 100000,
+					"flags": {},
+					"img": "icons/magic/life/cross-worn-green.webp",
+					"effects": [],
+					"folder": null,
+					"permission": {
+						"default": 0
+					}
+				},
+				{
+					"name": "鐵棍",
+					"type": "weapon",
+					"img": "icons/weapons/staves/staff-ornate.webp",
+					"data": {
+						"description": {
+							"value": "",
+							"chat": "",
+							"special": ""
+						},
+						"wpnType": "",
+						"skill": {
+							"main": {
+								"name": ""
+							},
+							"alternativ": {
+								"name": "鬥毆",
+								"id": ""
+							}
+						},
+						"range": {
+							"normal": {
+								"value": 0,
+								"units": "",
+								"damage": "1d8"
+							},
+							"long": {
+								"value": 0,
+								"units": "",
+								"damage": ""
+							},
+							"extreme": {
+								"value": 0,
+								"units": "",
+								"damage": ""
+							}
+						},
+						"usesPerRound": {
+							"normal": "1",
+							"max": "",
+							"burst": null
+						},
+						"bullets": "",
+						"ammo": 0,
+						"malfunction": "",
+						"blastRadius": null,
+						"properties": {
+							"melee": true,
+							"rngd": false,
+							"mnvr": true,
+							"thrown": false,
+							"shotgun": false,
+							"dbrl": false,
+							"impl": false,
+							"brst": false,
+							"auto": false,
+							"ahdb": false,
+							"addb": true,
+							"slnt": false,
+							"spcl": false,
+							"mont": false,
+							"blst": false,
+							"stun": false,
+							"rare": false,
+							"burn": false
+						},
+						"eras": {
+							"1920": false,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": false
+						},
+						"price": {
+							"mdrn": "0"
+						}
+					},
+					"effects": [],
+					"folder": null,
+					"sort": 0,
+					"permission": {
+						"default": 0
+					},
+					"flags": {}
+				},
+				{
+					"name": "空手",
+					"type": "weapon",
+					"img": "icons/equipment/hand/gauntlet-armored-leather-grey.webp",
+					"data": {
+						"description": {
+							"value": "",
+							"chat": "",
+							"special": ""
+						},
+						"wpnType": "",
+						"skill": {
+							"main": {
+								"name": "鬥毆"
+							},
+							"alternativ": {
+								"name": "",
+								"id": ""
+							}
+						},
+						"range": {
+							"normal": {
+								"value": 0,
+								"units": "",
+								"damage": "1d3"
+							},
+							"long": {
+								"value": 0,
+								"units": "",
+								"damage": ""
+							},
+							"extreme": {
+								"value": 0,
+								"units": "",
+								"damage": ""
+							}
+						},
+						"usesPerRound": {
+							"normal": "1",
+							"max": "",
+							"burst": null
+						},
+						"bullets": "",
+						"ammo": 0,
+						"malfunction": "",
+						"blastRadius": null,
+						"properties": {
+							"melee": true,
+							"rngd": false,
+							"mnvr": true,
+							"thrown": false,
+							"shotgun": false,
+							"dbrl": false,
+							"impl": false,
+							"brst": false,
+							"auto": false,
+							"ahdb": false,
+							"addb": true,
+							"slnt": false,
+							"spcl": false,
+							"mont": false,
+							"blst": false,
+							"stun": false,
+							"rare": false,
+							"burn": false
+						},
+						"eras": {
+							"1920": false,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": false
+						},
+						"price": {}
+					},
+					"effects": [],
+					"folder": null,
+					"sort": 0,
+					"permission": {
+						"default": 0
+					},
+					"flags": {}
+				},
+				{
+					"name": ".45左輪手槍",
+					"type": "weapon",
+					"img": "icons/weapons/guns/gun-pistol-brown.webp",
+					"data": {
+						"description": {
+							"value": "",
+							"chat": "",
+							"special": ""
+						},
+						"wpnType": "",
+						"skill": {
+							"main": {
+								"name": ""
+							},
+							"alternativ": {
+								"name": "",
+								"id": "g0aijimf0b8fl5fp"
+							}
+						},
+						"range": {
+							"normal": {
+								"value": "15",
+								"units": "",
+								"damage": "1D10+2"
+							},
+							"long": {
+								"value": "0",
+								"units": "",
+								"damage": ""
+							},
+							"extreme": {
+								"value": "0",
+								"units": "",
+								"damage": ""
+							}
+						},
+						"usesPerRound": {
+							"normal": "3",
+							"max": "",
+							"burst": "1/1"
+						},
+						"bullets": "6",
+						"ammo": 6,
+						"malfunction": "100",
+						"blastRadius": null,
+						"properties": {
+							"melee": false,
+							"rngd": true,
+							"mnvr": false,
+							"thrown": false,
+							"shotgun": true,
+							"dbrl": true,
+							"impl": true,
+							"brst": true,
+							"auto": false,
+							"ahdb": false,
+							"addb": false,
+							"slnt": false,
+							"spcl": false,
+							"mont": false,
+							"blst": false,
+							"stun": false,
+							"rare": false,
+							"burn": false
+						},
+						"eras": {
+							"1920": false,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": false
+						},
+						"price": {
+							"mdrn": "300"
+						},
+						"flags": {
+							"malfc": true
+						}
+					},
+					"effects": [],
+					"folder": null,
+					"sort": 0,
+					"permission": {
+						"default": 0
+					},
+					"flags": {}
 				}
 			]
 		}

@@ -1,10 +1,10 @@
 {
-  "name": "call-of-cthulhu-7th-babele-es",
+  "name": "call-of-cthulhu-7th-babele-zh-tw",
   "title": "Call of Cthulhu 7th Babele 正體中文版",
   "description": "Call of Cthulhu 7th HavlockV/CoC7-FoundryVTT的正體中文版，包括角色卡,瘋狂表等",
   "version": "0.60.1",
   "minimumCoreVersion": "0.8.6",
-  "compatibleCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "0.8.9",
   "author": "Gorden, Sad",
   "esmodules": [
     "babele-register.js"
@@ -23,43 +23,7 @@
       "version": "0.6.0"
     }
   ],
-  "packs": [
-    {
-      "label": "Skills",
-      "entity": "Item",
-      "name": "skills",
-      "path": "./packs/skills.db",
-      "system": "CoC7"
-    },
-    {
-      "label": "Items Examples",
-      "entity": "Item",
-      "name": "items",
-      "path": "./packs/items.db",
-      "system": "CoC7"
-    },
-    {
-      "label": "Examples",
-      "entity": "Actor",
-      "name": "examples",
-      "path": "./packs/examples.db",
-      "system": "CoC7"
-    },
-    {
-      "label": "Roll Requests",
-      "entity": "JournalEntry",
-      "name": "roll-requests",
-      "path": "./packs/cocrollrequest.db",
-      "system": "CoC7"
-    },
-    {
-      "label": "Sanity Roll Table",
-      "entity": "RollTable",
-      "name": "sanity-tables-examples",
-      "path": "./packs/cocsanitytable_tc.db",
-      "system": "CoC7"
-    }
-  ],
+  "packs": [],
   "languages": [
     {
       "lang": "zh-tw",
@@ -69,7 +33,7 @@
   ],
   "system": "CoC7",
   "systemVersion": "0.6.0",
-  "url": "https://github.com/lozalojo/call-of-cthulhu-7th-babele-es",
-  "manifest": "https://raw.githubusercontent.com/hktrpg/call-of-cthulhu-7th-babele-es/master/module.json",
-  "download": "https://github.com/hktrpg/call-of-cthulhu-7th-babele-es/archive/master.zip"
+  "url": "https://github.com/lozalojo/call-of-cthulhu-7th-babele-zh-tw",
+  "manifest": "https://raw.githubusercontent.com/hktrpg/call-of-cthulhu-7th-babele-zh-tw/master/module.json",
+  "download": "https://github.com/hktrpg/call-of-cthulhu-7th-babele-zh-tw/archive/master.zip"
 }

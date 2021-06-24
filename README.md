@@ -2,7 +2,7 @@
 
 ## Description - Descripción  
 
-* Call of Cthulhu 7th HavlockV/CoC7-FoundryVTT的正體中文版，包括角色卡,瘋狂表等.
+* Call of Cthulhu 7th HavlockV/CoC7-FoundryVTT的正體中文版，包括角色卡等.
 
 ## Installation - Instalación  
 
