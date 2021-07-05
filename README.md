@@ -1,5 +1,5 @@
 # La Llamada de Cthulhu 7a para FoundryVTT
-
+![Latest Release Download Count](https://img.shields.io/github/downloads/lozalojo/call-of-cthulhu-7th-babele-es/latest/module.zip?color=2b82fc&label=DOWNLOADS&style=for-the-badge) [![Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https%3A%2F%2Fforge-vtt.com%2Fapi%2Fbazaar%2Fpackage%2Fcall-of-cthulhu-7th-babele-es&colorB=03ff1c&style=for-the-badge)](https://forge-vtt.com/bazaar#package=call-of-cthulhu-7th-babele-es) ![Foundry Core Compatible Version](https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Flozalojo%2Fcall-of-cthulhu-7th-babele-es%2Fmaster%2Fmodule.json&label=Foundry%20Version&query=$.compatibleCoreVersion&colorB=orange&style=for-the-badge) [![alt-text](https://img.shields.io/badge/-Discord-%235662f6?style=for-the-badge)](https://discord.gg/MHCerwd)
 ## Description - Descripción  
 
 * Spanish translation of HavlockV's Call of Cthulhu 7th module for Foundry VTT.
