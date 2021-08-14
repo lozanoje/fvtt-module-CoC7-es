@@ -4,6 +4,23 @@
 
 "CoC7.title": "La Llamada de Cthulhu 7a Edición (no oficial)",
 
+"CoC7.Entities.Character": "Personaje",
+"CoC7.Entities.Creature": "Criatura",
+"CoC7.Entities.Npc": "PNJ",
+"CoC7.Entities.Vehicle": "Vehículo",
+
+"CoC7.Entities.Archetype": "Arquetipo",
+"CoC7.Entities.Book": "Tomo",
+"CoC7.Entities.Chase": "Persecución",
+"CoC7.Entities.Item": "Objeto",
+"CoC7.Entities.Occupation": "Ocupación",
+"CoC7.Entities.Setup": "Configuración",
+"CoC7.Entities.Skill": "Habilidad",
+"CoC7.Entities.Spell": "Hechizo",
+"CoC7.Entities.Status": "Estado",
+"CoC7.Entities.Talent": "Talento",
+"CoC7.Entities.Weapon": "Arma",
+
 "CHARAC.STR": "FUE",
 "CHARAC.Strengh": "Fuerza",
 "CHARAC.Strength": "Fuerza",
