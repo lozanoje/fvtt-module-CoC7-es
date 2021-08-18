@@ -640,6 +640,13 @@
 "CoC7.MessageBoutOfMadnessTableNotFound": "No se ha encontrado el resultado de la tabla de locura, por favor, compruebe que se han creado las tablas",
 "CoC7.MessageBoutOfMadnessItemNotFound": "No se ha encontrado el resultado de la tabla de locura, por favor, compruebe que se han creado los estatus",
 
+"CoC7.DealDamage": "¿Causar {damage} puntos de daño a {target}?",
+"CoC7.NoTargetSelected": "No ha seleccionado ningún objetivo para la tirada de {weapon}. ¿Desea continuar de todos modos?",
+
+"CoC7.Import": "Importar",
+"CoC7.Proceed": "Proceder",
+"CoC7.Cancel": "Cancelar",
+
 "CoC7.ActorImporter": "Importador de actores",
 "CoC7.ActorImporterSummary": "Importa un PNJ o criatura a partir de sus estadísticas y descripción. Solo deberá copiar sus estadísticas en formato texto plano",
 "CoC7.PasteTheDataBelow": "Pegue más abajo el texto sin formato",
