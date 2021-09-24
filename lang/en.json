@@ -2,6 +2,7 @@
   "CoC7.title": "Call of Cthulhu 7h Edition (Unofficial)",
 
   "CoC7.Entities.Character": "Character",
+  "CoC7.Entities.Container": "Container",
   "CoC7.Entities.Creature": "Creature",
   "CoC7.Entities.Npc": "NPC",
   "CoC7.Entities.Vehicle": "Vehicle",
@@ -89,6 +90,7 @@
   "CoC7.Spells": "Spells",
   "CoC7.Spell": "Spell",
   "CoC7.Spells&Notes": "Spells & Notes",
+  "CoC7.Weapons": "Weapons",
   "CoC7.Effects": "Effects",
   "CoC7.Cost": "Cost",
   "CoC7.Source": "Source",
@@ -116,6 +118,7 @@
   "CoC7.Icon": "Icon",
   "CoC7.Check": "Check",
   "CoC7.ItemWeapon": "Item (Weapon)",
+  "CoC7.AttacksPerRound": "Attacks per round",
 
   "CoC7.CopyToClipboard": "Copy to clipboard",
   "CoC7.WhisperToSelection": "Whisper to selected tokens",
@@ -400,7 +403,14 @@
   "CoC7.AddItem": "Add item",
   "CoC7.EditItem": "Edit item",
   "CoC7.DeleteItem": "Delete Item",
-  "CoC7.AddWeapon": "Add Weapon",
+  "CoC7.TradeItem": "Trade / Store Item",
+
+  "CoC7.NewBookName": "new book",
+  "CoC7.AddBook": "Add book",
+  "CoC7.NewSpellName": "new spell",
+  "CoC7.AddSpell": "Add spell",
+
+  "CoC7.AddWeapon": "Add weapon",
   "CoC7.NewWeaponName": "new weapon",
   "CoC7.EditWeapon": "Edit Weapon",
   "CoC7.DeleteWeapon": "Delete Weapon",
@@ -410,6 +420,7 @@
   "CoC7.WeaponSkill": "Skill",
   "CoC7.WeaponSkillAlt": "Alt-skill",
   "CoC7.Inventory": "Inventory",
+  "CoC7.InventoryIsCurrentlyEmpty": "Inventory is currently empty.",
   "CoC7.CharacterDevelopment": "Development",
   "CoC7.OccupationSkill": "Occupation Skill",
   "CoC7.ArchetypeSkill": "Archetype Skill",
@@ -583,6 +594,7 @@
   "CoC7.Chosen": "Chosen",
   "CoC7.EmptySkillList": "Add a skill by dropping it here.",
   "CoC7.EmptyItemList": "Add an item by dropping it here.",
+  "CoC7.EmptyCharacterSkillList": "Add a setup, occupation, or skill by dropping it here.",
   "CoC7.PersonalSpeciality": "Number of personal or era specialty",
   "CoC7.AdditionalSkills": "Additional Skills",
   "CoC7.SkillSelectionWindow": "Select optional skills",
@@ -616,7 +628,7 @@
   "CoC7.DrawGun": "Draw your gun",
 
   "CoC7.GmTools": "Keeper's tools",
-  "CoC7.GmNotes": "GM's notes",
+  "CoC7.GmNotes": "Keeper's notes",
   "CoC7.DevPhase": "Development phase",
   "CoC7.DevPhaseEnabled": "Development phase enabled",
   "CoC7.DevPhaseDisabled": "Development phase disabled",
@@ -652,11 +664,10 @@
   "CoC7.InfoLessSkillThanOptions": "There's only {skillCount} and {optionsCount} options, adding all of them",
   "CoC7.InfoAllSkillsAlreadySelected": "All skills are already selected.",
 
-  "CoC7.MessageCheckRequestedWait": "Your keeper is requesting a {check}.<br>Wait before clicking!<br>",
-  "CoC7.MessageTargetCheckRequested": "Your keeper is requesting a {check} for {name}.",
+  "CoC7.MessageCheckRequestedWait": "{check} roll requested by your Keeper.<br>Wait before clicking!<br>",
+  "CoC7.MessageTargetCheckRequested": "Your keeper has requested {name} make a {check} roll.",
   "CoC7.MessageTitleSelectSingleUserForTarget": "Which user can respond to this attack",
   "CoC7.MessageSelectSingleUserForTarget": "This token is controlled by multiple users, please select which user can respond to this attack.",
-  "CoC7.MessageSelectedTargetIsNotControlled": "The token for {name} is owned by not controlled by a player so will not be able to react to combat actions.",
   "CoC7.MessageBoutOfMadnessTableNotFound": "The result from the madness table was not found, please check all your roll tables are created",
   "CoC7.MessageBoutOfMadnessItemNotFound": "The result from the madness table was not found, please check all your statuses are created",
 
@@ -699,6 +710,17 @@
   "CoC7.Migrate.ButtonSkip": "Skip",
   "CoC7.Migrate.ButtonOkay": "Okay",
 
+  "CoC7.Maximize": "Maximize",
+  "CoC7.Summarize": "Summarize",
+
+  "CoC7.UnableToInteractWithChatCard": "You are not able to interact with this message, if you need to make a change please ask your Keeper to select the options for you",
+  "CoC7.UnableToCopyToClipboard": "Unable to copy to clipboard, this is likely due to your browser security settings.",
+  "CoC7.WarningCharacterSheetV1Depreciated": "This layout is obsolete and may not work correctly. It will be removed with the FoundryVTT v9 release, please get your Keeper to change the sheet type to CoC7.CoC7CharacterSheetV2",
+
+  "CoC7.MessageTitleSelectUserToGiveTo": "Give item to another character",
+  "CoC7.MessageSelectUserToGiveTo": "Which character would you like to give this item to?",
+  "CoC7.MessageDistanceCalculationFailure": "Unable to calculate distance between tokens, please use the token character sheet.",
+
   "SETTINGS.TitleRules": "Rules",
   "SETTINGS.TitleInitiative": "Initiative Settings",
   "SETTINGS.TitleRoll": "Roll Settings",
@@ -715,6 +737,7 @@
   "SETTINGS.DefaultDifficultyHint": "You can choose the default difficulty for checks. Unknown will roll checks without the player knowing the check difficulty.",
   "SETTINGS.CheckDifficultyRegular": "Default difficulty",
   "SETTINGS.CheckDifficultyUnknown": "Unknown difficulty",
+  "SETTINGS.showIconsOnly": "On summarized sheet, show only icons on skills list.",
   "SETTINGS.UseToken": "Use token image",
   "SETTINGS.UseTokenHint": "Use token image instead of portraits in chat-cards",
   "SETTINGS.DisplayActorOnCard": "Display actor on card",
@@ -799,5 +822,10 @@
   "SETTINGS.OneBlockBackStory": "One block backstory",
   "SETTINGS.OneBlockBackStoryHint": "Turn backstory to one editor block, but you can format/add links.",
   "SETTINGS.EnableStatusIcons": "Enable status icons",
-  "SETTINGS.EnableStatusIconsHint": "Set if combat and sanity effects icons are shown in tokens."
+  "SETTINGS.EnableStatusIconsHint": "Set if combat and sanity effects icons are shown in tokens.",
+  "SETTINGS.ShowExperimentalFeatures": "Show Experimental Features",
+  "SETTINGS.ShowExperimentalFeaturesHint": "Your world may become unusable in a future release if you use these features. For testing only DO NOT use these in your game worlds",
+  "CoC7.ExperimentalFeaturesWarning": "This feature is a work in progress and is not recommended for use in your game world.",
+  "SETTINGS.CheckElevation": "Include elevation in distance",
+  "SETTINGS.CheckElevationHint": "Use elevation in range combat distance calculations"
 }
