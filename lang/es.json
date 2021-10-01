@@ -671,7 +671,6 @@
   "CoC7.MessageTargetCheckRequested": "El guardián ha pedido a {name} una tirada de {check}",
   "CoC7.MessageTitleSelectSingleUserForTarget": "Qué usuario podrá responder al ataque",
   "CoC7.MessageSelectSingleUserForTarget": "Este icono está controlado por varios usuarios, por favor, seleccione que usuario podrá responder al ataque",
-  "CoC7.MessageSelectedTargetIsNotControlled": "El icono {name} no está siendo controlado por nadie, de modo que no podrá realizar ninguna reacción en combate cuando le ataquen",
   "CoC7.MessageBoutOfMadnessTableNotFound": "No se ha encontrado el resultado de la tabla de locura, por favor, compruebe que se han creado las tablas",
   "CoC7.MessageBoutOfMadnessItemNotFound": "No se ha encontrado el resultado de la tabla de locura, por favor, compruebe que se han creado los estatus",
 
