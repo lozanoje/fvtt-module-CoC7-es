@@ -2,9 +2,9 @@
   "name": "call-of-cthulhu-7th-babele-es",
   "title": "Call of Cthulhu 7th Babele Spanish",
   "description": "Traducción de la implementación de Call of Cthulhu 7th de Miskatonic-Investigative-Society/CoC7-FoundryVTT al español mediante babele -  Call of Cthulhu 7th (Miskatonic-Investigative-Society/CoC7-FoundryVTT) spanish translation using Babele",
-  "version": "0.72.1",
-  "minimumCoreVersion" : "0.8.6",
-  "compatibleCoreVersion":"0.8.9",
+  "version": "0.73.1",
+  "minimumCoreVersion" : "9",
+  "compatibleCoreVersion":"9",
   "author": "José E. Lozano (Viriato139ac), Geike",
   "esmodules": ["babele-register.js"],
   "scripts": [],
@@ -18,7 +18,7 @@
     {
       "name": "CoC7",
       "type": "system",
-      "version": "0.7.2"
+      "version": "0.7.3"
     }
   ],
   "packs": [],
@@ -35,7 +35,7 @@
     }
   ],
   "system": "CoC7",
-  "systemVersion": "0.7.2",
+  "systemVersion": "0.7.3",
   "url": "https://github.com/lozalojo/call-of-cthulhu-7th-babele-es",
   "manifest": "https://raw.githubusercontent.com/lozalojo/call-of-cthulhu-7th-babele-es/master/module.json",
   "download": "https://github.com/lozalojo/call-of-cthulhu-7th-babele-es/archive/master.zip"
