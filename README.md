@@ -44,6 +44,10 @@
 
 ## Versiones
 
+version 0.7.4 :
+
+* Updated to Miskatonic-Investigative-Society/CoC7-FoundryVTT 0.7.4
+
 version 0.7.3 :
 
 * Updated to Miskatonic-Investigative-Society/CoC7-FoundryVTT 0.7.3
