@@ -667,6 +667,7 @@
   "CoC7.WarnNoControlledActor": "En estos momentos no controla a ningún actor",
   "CoC7.WarnFastTargetWithWrongMOV": "Se ha seleccionado Rápido cuando el objetivo tiene un MOV inferior a 8. (MOV: {mov})",
   "CoC7.WarnTooManyTarget": "Seleccionados demasiados objetivos. Solo se guardará el último objetivo seleccionado",
+  "CoC7.WarnNoTargetsSanCheck": "No ha seleccionado ningún objetivo. Seleccione uno o bien cree un enlace",
 
   "CoC7.allActors": "Todos los actores",
   "CoC7.restTargets": "Descansar objetivos",
