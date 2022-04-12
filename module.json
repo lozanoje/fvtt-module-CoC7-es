@@ -1,21 +1,15 @@
 {
-  "name": "call-of-cthulhu-7th-babele-es",
-  "title": "Call of Cthulhu 7th Babele Spanish",
-  "description": "Traducción de la implementación de Call of Cthulhu 7th de Miskatonic-Investigative-Society/CoC7-FoundryVTT al español mediante babele -  Call of Cthulhu 7th (Miskatonic-Investigative-Society/CoC7-FoundryVTT) spanish translation using Babele",
-  "version": "0.76.1",
+  "name": "fvtt-module-CoC7-es",
+  "title": "Call of Cthulhu 7th Spanish",
+  "description": "Traducción de la implementación de Call of Cthulhu 7th de Miskatonic-Investigative-Society/CoC7-FoundryVTT al español -  Call of Cthulhu 7th (Miskatonic-Investigative-Society/CoC7-FoundryVTT) spanish translation",
+  "version": "0.76.2",
   "minimumCoreVersion" : "9",
   "compatibleCoreVersion":"9",
   "author": "José E. Lozano (Viriato139ac), Geike",
-  "esmodules": ["babele-register.js"],
+  "esmodules": ["CoC7-es-register.js"],
   "scripts": [],
   "styles": [],
-  "dependencies": [
-    {
-      "name": "babele",
-      "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
-      "version": "1.20"
-    }
-  ],
+  "dependencies": [],
   "packs": [],
   "languages": [
     {
@@ -30,8 +24,8 @@
     }
   ],
   "system": "CoC7",
-  "systemVersion": "0.7.5",
-  "url": "https://github.com/lozanoje/call-of-cthulhu-7th-babele-es",
-  "manifest": "https://raw.githubusercontent.com/lozanoje/call-of-cthulhu-7th-babele-es/master/module.json",
-  "download": "https://github.com/lozanoje/call-of-cthulhu-7th-babele-es/archive/master.zip"
+  "systemVersion": "0.7.6",
+  "url": "https://github.com/lozanoje/fvtt-module-CoC7-es",
+  "manifest": "https://raw.githubusercontent.com/lozanoje/fvtt-module-CoC7-es/master/module.json",
+  "download": "https://github.com/lozanoje/fvtt-module-CoC7-es/archive/master.zip"
 }

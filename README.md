@@ -1,5 +1,5 @@
 # La Llamada de Cthulhu 7a para FoundryVTT
-![Latest Release Download Count](https://img.shields.io/github/downloads/lozanoje/call-of-cthulhu-7th-babele-es/latest/module.zip?color=2b82fc&label=DOWNLOADS&style=for-the-badge) [![Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https%3A%2F%2Fforge-vtt.com%2Fapi%2Fbazaar%2Fpackage%2Fcall-of-cthulhu-7th-babele-es&colorB=03ff1c&style=for-the-badge)](https://forge-vtt.com/bazaar#package=call-of-cthulhu-7th-babele-es) ![Foundry Core Compatible Version](https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Flozanoje%2Fcall-of-cthulhu-7th-babele-es%2Fmaster%2Fmodule.json&label=Foundry%20Version&query=$.compatibleCoreVersion&colorB=orange&style=for-the-badge) [![alt-text](https://img.shields.io/badge/-Discord-%235662f6?style=for-the-badge)](https://discord.gg/MHCerwd)
+![Latest Release Download Count](https://img.shields.io/github/downloads/lozanoje/fvtt-module-CoC7-es/latest/module.zip?color=2b82fc&label=DOWNLOADS&style=for-the-badge) [![Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https%3A%2F%2Fforge-vtt.com%2Fapi%2Fbazaar%2Fpackage%2Ffvtt-module-CoC7-es&colorB=03ff1c&style=for-the-badge)](https://forge-vtt.com/bazaar#package=fvtt-module-CoC7-es) ![Foundry Core Compatible Version](https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Flozanoje%2Ffvtt-module-CoC7-es%2Fmaster%2Fmodule.json&label=Foundry%20Version&query=$.compatibleCoreVersion&colorB=orange&style=for-the-badge) [![alt-text](https://img.shields.io/badge/-Discord-%235662f6?style=for-the-badge)](https://discord.gg/MHCerwd)
 ## Description - Descripción  
 
 * Spanish translation of Miskatonic-Investigative-Society's Call of Cthulhu 7th module for Foundry VTT.
@@ -10,24 +10,20 @@
 
 * Install/Update _Call of Cthulhu 7th edition_ system, by Miskatonic-Investigative-Society, from Foundry's system manager.
 [Module Url](https://foundryvtt.com/packages/CoC7/)
-* Install/Update _Babele_ module from Foundry's module manager.
-[Module Url](https://foundryvtt.com/packages/babele/)
 * (Optional) Install/Update _Translation: Spanish [Core]_ module from Foundry's module manager:
 [Module Url](https://foundryvtt.com/packages/FoundryVTT-ES/)
 * Install/Update _Translation: Spanish (Call of Cthulhu 7th)_ module from Foundry's module manager:
-[Module Url](https://foundryvtt.com/packages/call-of-cthulhu-7th-babele-es/)
-* Inside the Game World, at _Configuration/Manage Modules_ activate Babele y both translations.
+[Module Url](https://foundryvtt.com/packages/fvtt-module-CoC7-es/)
+* Inside the Game World, at _Configuration/Manage Modules_ activate both translations.
 * At _Configuration/Setup_ change language to Spanish.
 ----
 * Instale/Actualice el sistema _Call of Cthulhu 7th edition_, de Miskatonic-Investigative-Society, desde el gestor de sistemas de Foundry.
 [Module Url](https://foundryvtt.com/packages/CoC7/)
-* Instale/Actualice el módulo _Babele_ desde el gestor de módulos de Foundry.
-[Module Url](https://foundryvtt.com/packages/babele/)
 * (Opcional) Instale/Actualice el módulo _Translation: Spanish [Core]_ desde el gestor de módulos de Foundry:
 [Module Url](https://foundryvtt.com/packages/FoundryVTT-ES/)
 * Instale/Actualice el módulo _Translation: Spanish (Call of Cthulhu 7th)_ desde el gestor de módulos de Foundry:
-[Module Url](https://foundryvtt.com/packages/call-of-cthulhu-7th-babele-es/)
-* Entre en el Mundo de Juego, _Configuración/Administrar Módulos_ active Babele y las dos traducciones.
+[Module Url](https://foundryvtt.com/packages/fvtt-module-CoC7-es/)
+* Entre en el Mundo de Juego, _Configuración/Administrar Módulos_ active las dos traducciones.
 * En _Configuración/Configurar Ajustes_ cambie el idioma a Spanish.
 
 ## Notificación de errores - Feedback  
@@ -40,7 +36,6 @@
 
 * La traducción es obra de *José E. Lozano* (Viriato139ac) y *Gerbek*.
 * Se ha usado como plantilla la traducción de *Dungeon World* de *patoarayas*.
-* *Babele* es un módulo de *Simone Ricciardi*.
 
 ## Versiones
 
