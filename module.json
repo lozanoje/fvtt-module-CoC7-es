@@ -1,8 +1,8 @@
 {
   "name": "fvtt-module-CoC7-es",
-  "title": "Call of Cthulhu 7th Spanish",
-  "description": "Traducción de la implementación de Call of Cthulhu 7th de Miskatonic-Investigative-Society/CoC7-FoundryVTT al español -  Call of Cthulhu 7th (Miskatonic-Investigative-Society/CoC7-FoundryVTT) spanish translation",
-  "version": "0.76.2",
+  "title": "Call of Cthulhu 7th - Español/Spanish",
+  "description": "Traducción del sistema Call of Cthulhu 7th (Miskatonic-Investigative-Society/CoC7-FoundryVTT) al español -  Call of Cthulhu 7th spanish translation",
+  "version": "0.76.3",
   "minimumCoreVersion" : "9.238",
   "compatibleCoreVersion":"9.266",
   "author": "José E. Lozano (Viriato139ac), Geike",
