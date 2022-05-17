@@ -147,7 +147,7 @@
   "CoC7.DiceModifierPenalty": "penalty",
   "CoC7.Modifiers": "Modifiers",
   "CoC7.BonusDice": "Bonus Dice",
-  "CoC7.UnitsDie": "1 units die",
+  "CoC7.UnitsDie": "1 unit die",
   "CoC7.TensDie": "tens die",
   "CoC7.TensDice": "tens dice",
   "CoC7.SuccessRequired": "{successRequired} success required.",
@@ -402,6 +402,7 @@
   "CoC7.DevSuccessDetails": "{item} upgraded by {augment}%",
   "CoC7.SanGained": "Gained 2d6 ({results} = <strong>{sanGained}</strong>) Sanity after mastering <strong>{skill}</strong> with a <strong>{skillValue}%</strong>",
   "CoC7.DevFailureDetails": "{item} NOT upgraded",
+  "CoC7.ReduceSanityLimits": "Reduced all sanity limits by one",
   "CoC7.DevSuccess": "{item} upgraded ({die}/{score}%) by {augment}%",
   "CoC7.DevFailure": "{item} NOT upgraded ({die}/{score}%)",
   "CoC7.LuckIncreased": "Luck recovered ({die}/{score}) by {augment} points",
@@ -479,6 +480,24 @@
   "CoC7.BackgroundDeleteSection": "Delete section",
   "CoC7.BackgroundSectionMoveUp": "Move Up",
   "CoC7.BackgroundSectionMoveDown": "Move Down",
+  "CoC7.BackgroundEncounters": "Losses from Strange Entities",
+  "CoC7.BackgroundFlags": "Flags",
+  "CoC7.BackgroundFlagsMythosExperienced": "5% Insanity Mythos Awarded",
+  "CoC7.BackgroundFlagsMythosHardened": "Mythos Hardened",
+
+  "CoC7.SanityLossEncounters": "Sanity Loss Encounters",
+  "CoC7.SanityLossImmunities": "Sanity Loss Immunities",
+  "CoC7.AddSanityLossEncounter": "Add Sanity Loss Encounter",
+  "CoC7.AddSanityLossImmunity": "Add Sanity Loss Immunity",
+  "CoC7.DeleteSanityLossEncounter": "Delete Sanity Loss Encounter",
+  "CoC7.DeleteSanityLossImmunity": "Delete Sanity Loss Immunity",
+
+  "CoC7.SanityLossTypeDialogTitle": "New sanity loss or immunity",
+  "CoC7.SanityLossTypeDialogBody": "Add a new Mythos Encounter, Sanity Loss, or Sanity Immunity to the character.",
+  "CoC7.SanityLossTypeReason": "Reason",
+  "CoC7.SanityLossTypeValue": "Sanity points lost",
+  "CoC7.SanityLossEncounter": "Sanity loss encounter",
+  "CoC7.SanityLossImmunity": "Sanity loss immunity",
 
   "CoC7.creatureFightingSkill": "Fighting",
 
@@ -748,6 +767,8 @@
   "CoC7.Migrate.TriggerContents": "<p>Turn on data migration and restart</p>",
   "CoC7.Migrate.TriggerRestart": "Save and restart",
 
+  "CoC7.Migrate.Complete": "Finished migrating your data",
+
   "CoC7.Settings.CoreRules.Title": "Core Rule Book Optional Rules",
   "CoC7.Settings.Rules.Name": "Variant/Optional Rules",
   "CoC7.Settings.Rules.Label": "Configure Variant/Optional Rules",
@@ -773,7 +794,6 @@
 
   "CoC7.UnableToInteractWithChatCard": "You are not able to interact with this message, if you need to make a change please ask your Keeper to select the options for you",
   "CoC7.UnableToCopyToClipboard": "Unable to copy to clipboard, this is likely due to your browser security settings.",
-  "CoC7.WarningCharacterSheetV1Depreciated": "This layout is obsolete and may not work correctly. It will be removed with the FoundryVTT v9 release, please get your Keeper to change the sheet type to CoC7.CoC7CharacterSheetV2",
 
   "CoC7.MessageTitleSelectUserToGiveTo": "Give item to another character",
   "CoC7.MessageSelectUserToGiveTo": "Which character would you like to give this item to?",

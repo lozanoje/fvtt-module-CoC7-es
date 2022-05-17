@@ -405,6 +405,7 @@
   "CoC7.DevSuccessDetails": "{item} se ha aumentado un {augment}%",
   "CoC7.SanGained": "Ha recuperado 2d6 ({results} = <strong>{sanGained}</strong>) de cordura tras dominar la habilidad <strong>{skill}</strong> con un <strong>{skillValue}%</strong>",
   "CoC7.DevFailureDetails": "{item} NO se ha aumentado",
+  "CoC7.ReduceSanityLimits": "Reducidos en 1 todos los límites de COR",
   "CoC7.DevSuccess": "({die}/{score}%), {item} se ha aumentado un {augment}%",
   "CoC7.DevFailure": "({die}/{score}%), {item} NO se ha aumentado",
   "CoC7.LuckIncreased": "{augment} puntos de suerte recuperados ({die}/{score})",
@@ -482,6 +483,24 @@
   "CoC7.BackgroundDeleteSection": "Eliminar sección",
   "CoC7.BackgroundSectionMoveUp": "Subir",
   "CoC7.BackgroundSectionMoveDown": "Bajar",
+  "CoC7.BackgroundEncounters": "Pérdida debido a Entidades Desconocidas",
+  "CoC7.BackgroundFlags": "Etiquetas",
+  "CoC7.BackgroundFlagsMythosExperienced": "recompenmsado con 5% de locura por Mitos",
+  "CoC7.BackgroundFlagsMythosHardened": "Curtido en los Mitos",
+
+  "CoC7.SanityLossEncounters": "Encuentros de pérdida de COR",
+  "CoC7.SanityLossImmunities": "Inmunidades de pérdida de COR",
+  "CoC7.AddSanityLossEncounter": "Añadir encuentro de pérdida de COR",
+  "CoC7.AddSanityLossImmunity": "Añadir inmunidad de pérdida de COR",
+  "CoC7.DeleteSanityLossEncounter": "Borrar encuentro de pérdida de COR",
+  "CoC7.DeleteSanityLossImmunity": "Borrar inmunidad de pérdida de COR",
+
+  "CoC7.SanityLossTypeDialogTitle": "Nueva pérdida de COR o inmunidad",
+  "CoC7.SanityLossTypeDialogBody": "Añade al personaje un nuevo encuentro con los Mitos, pérdida de COR o inmunidad de pérdida de COR",
+  "CoC7.SanityLossTypeReason": "Causa",
+  "CoC7.SanityLossTypeValue": "Pérdida de COR",
+  "CoC7.SanityLossEncounter": "Encuentro de pérdida de COR",
+  "CoC7.SanityLossImmunity": "Inmunidad de pérdida de COR",
 
   "CoC7.creatureFightingSkill": "Combatir",
 
@@ -751,6 +770,8 @@
   "CoC7.Migrate.TriggerContents": "<p>Activar migración de datos y reiniciar</p>",
   "CoC7.Migrate.TriggerRestart": "Guardar y reiniciar",
 
+  "CoC7.Migrate.Complete": "Completada migración de datos",
+
   "CoC7.Settings.CoreRules.Title": "Reglas opcionales del Manual del Guardián",
   "CoC7.Settings.Rules.Name": "Variantes/reglas opcionales",
   "CoC7.Settings.Rules.Label": "Configurar variantes/reglas opcionales",
@@ -776,7 +797,6 @@
 
   "CoC7.UnableToInteractWithChatCard": "No es posible interactuar con este mensaje, si necesita hacer algún cambio pídaselo al Guardián",
   "CoC7.UnableToCopyToClipboard": "No es posible copiar al portapapeles, probablemente debido al nivel de seguridad de su navegador",
-  "CoC7.WarningCharacterSheetV1Depreciated": "Esta disposición está obsoleta y no funcionará correctamente. Se eliminará cuando salga la versión v9 de FoundryVTT, por favor dígale a su Guardián que cambie la hoja a CoC7.CoC7CharacterSheetV2",
 
   "CoC7.MessageTitleSelectUserToGiveTo": "Dar objeto a otro personaje",
   "CoC7.MessageSelectUserToGiveTo": "¿A qué personaje quiere darle el objeto?",
