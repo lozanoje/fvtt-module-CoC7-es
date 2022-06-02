@@ -37,6 +37,13 @@
 * La traducción es obra de *José E. Lozano* (Viriato139ac) y *Gerbek*.
 * Se ha usado como plantilla la traducción de *Dungeon World* de *patoarayas*.
 
+## Iconos
+
+Los iconos utilizados por este módulo pertenecen a la licencia [Font Awesome Free License](https://fontawesome.com/license/free)
+
+Font Awesome Free is free, open source, and GPL friendly. You can use it for commercial projects, open source projects, or really almost whatever you want.
+[Icons - CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)
+
 ## Versiones
 
 version 0.7.4 :

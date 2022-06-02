@@ -2,15 +2,71 @@
   "name": "fvtt-module-CoC7-es",
   "title": "Call of Cthulhu 7th - Español/Spanish",
   "description": "Traducción del sistema Call of Cthulhu 7th (Miskatonic-Investigative-Society/CoC7-FoundryVTT) al español -  Call of Cthulhu 7th spanish translation",
-  "version": "0.79.1",
+  "version": "0.710.1",
   "minimumCoreVersion" : "9.238",
-  "compatibleCoreVersion":"9.266",
+  "compatibleCoreVersion":"9.269",
   "author": "José E. Lozano (Viriato139ac), Geike",
   "esmodules": ["CoC7-es-register.js"],
   "scripts": [],
   "styles": [],
   "dependencies": [],
-  "packs": [],
+  "packs": [
+    {
+      "label": "Habilidades",
+      "name": "habilidades",
+      "path": "packs/habilidades.db",
+      "system": "CoC7",
+      "package": "compendios-llc-es-minimos",
+      "absPath": "packs/habilidades.db",
+      "private": false,
+      "type": "Item",
+      "entity": "Item"
+    },
+    {
+      "label": "Creación PJ",
+      "name": "creacion-pj",
+      "path": "packs/creacion-pj.db",
+      "system": "CoC7",
+      "package": "compendios-llc-es-minimos",
+      "absPath": "packs/creacion-pj.db",
+      "private": false,
+      "type": "Item",
+      "entity": "Item"
+    },
+    {
+      "label": "Ocupaciones (Reglas inicio)",
+      "name": "ocupaciones-reglasinicio",
+      "path": "packs/ocupaciones-reglasinicio.db",
+      "system": "CoC7",
+      "package": "compendios-llc-es-minimos",
+      "private": false,
+      "absPath": "packs/ocupaciones-reglasinicio.db",
+      "type": "Item",
+      "entity": "Item"
+    },
+    {
+      "label": "Armas (Reglas inicio)",
+      "name": "armas-reglasinicio",
+      "path": "packs/armas-reglasinicio.db",
+      "system": "CoC7",
+      "package": "compendios-llc-es-minimos",
+      "private": false,
+      "type": "Item",
+      "entity": "Item",
+      "absPath": "packs/armas-reglasinicio.db"
+    },
+    {
+      "name": "Resúmenes de reglas",
+      "label": "Resúmenes de reglas",
+      "path": "packs/resumenes-de-reglas.db",
+      "private": false,
+      "type": "JournalEntry",
+      "system": "CoC7",
+      "package": "compendios-llc-es-minimos",
+      "entity": "JournalEntry",
+      "absPath": "packs/resumenes-de-reglas.db"
+    }
+  ],
   "languages": [
     {
       "lang": "es",
