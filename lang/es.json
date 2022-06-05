@@ -177,6 +177,7 @@
   "CoC7.RollSecretDice": "El Guardián ha hecho una tirada privada",
   "CoC7.KeeperSentDecoy": "Se ha enviado a los jugadores una tirada señuelo",
   "CoC7.FakeRoll": "Mandar a los jugadores una tirada señuelo",
+  "CoC7.ErrorMissingKeeperUser": "Se necesita que el Guardián esté conectado para realizar esta acción",
 
   "CoC7.ConstitutionCheck": "Tirada de Constitución",
 
@@ -203,11 +204,15 @@
   "CoC7.CreateLink": "Crear enlace a tirada",
   "CoC7.SuccesLevelHint": "{value} nivel(es) de éxito",
   "CoC7.FailureLevelHint": "Fallo por {value} nivel(es)",
+  "CoC7.CardType": "Tipo de tirada",
   "CoC7.CombinedRollCard": "Tarjeta de tiradas combinadas",
   "CoC7.OpposedRollCard": "Tarjeta de tiradas enfrentadas",
+  "CoC7.GroupRollCard": "Tarjeta de tirada grupal",
+  "CoC7.RegularRollCard": "Tarjeta de tirada normal",
   "CoC7.CombinedAnyHint": "Solo es necesario que una tirada tenga éxito",
   "CoC7.CombinedAllHint": "Todas las tiradas tienen que tener éxito",
   "CoC7.CloseCard": "Finalizar tarjeta",
+  "CoC7.AttackManeuver": "Maniobra de ataque",
 
   "CoC7.CheckResult": "Tirada de {name} ({value}%), dificultad {difficulty}",
   "CoC7.ItemCheckResult": "{item} - tirada de {skill} ({value}%), dificultad {difficulty}",
@@ -377,6 +382,8 @@
   "CoC7.ErrorActor": "No se pudo localizar al actor",
   "CoC7.ErrorInvalidFormula": "{value} no es una fórmula válida",
   "CoC7.ErrorInvalid": "inválido",
+  "CoC7.ErrorInvalidCardType": "Tipo de tarjeta",
+  "CoC7.ErrorInvalidRollType": "Tipo de tirada",
   "CoC7.Validate": "Validar",
   "CoC7.Apply": "Aplicar",
 
@@ -772,6 +779,7 @@
   "CoC7.Migrate.TriggerContents": "<p>Activar migración de datos y reiniciar</p>",
   "CoC7.Migrate.TriggerRestart": "Guardar y reiniciar",
 
+  "CoC7.Migrate.UpdateCurrentScene": "Migrando escena actual",
   "CoC7.Migrate.Complete": "Completada migración de datos",
 
   "CoC7.Settings.CoreRules.Title": "Reglas opcionales del Manual del Guardián",
@@ -804,12 +812,14 @@
   "CoC7.MessageSelectUserToGiveTo": "¿A qué personaje quiere darle el objeto?",
   "CoC7.MessageDistanceCalculationFailure": "No es posible calcular la distancia entre los iconos, por favor, use la hoja de personaje del icono",
 
-  "CoC7.ToolTipSkill": "<label>{skill} {regular}% ({hard}/{extreme})</label><ol><li><strong>Clic izquierdo</strong> tirada con opciones</li><li><strong>Mayús + clic izquierdo</strong> Tirada inmediata a dificultad normal</li></ol><label>Tiradas enfrentadas</label><ol><li><strong>Clic derecho</strong> Tirada enfrentada con opciones</li><li><strong>Mayús + clic derecho</strong> Tirada enfrentada inmediata</li></ol><label>Tiradas combinadas</label><ol><li><strong>Alt/Opción + clic derecho</strong> Tirada combinada con opciones</li></ol>",
-  "CoC7.ToolTipKeeperSkill": "<label>Tiradas del Guardián</label><ol><li><strong>CTRL + clic izquierdo</strong> Crear enlace a tirada</li>{other}</ol>",
+  "CoC7.ToolTipSkill": "<label>{skill} {regular}% ({hard}/{extreme})</label><ol><li><strong>Clic izquierdo</strong> tirada con opciones</li><li><strong>Mayús + clic izquierdo</strong> Tirada inmediata a dificultad normal</li></ol><label>Tiradas enfrentadas</label><ol><li><strong>Clic derecho</strong> Tirada enfrentada con opciones</li><li><strong>Mayús + clic derecho</strong> Tirada enfrentada inmediata</li></ol><label>Tiradas combinadas</label><ol><li><strong>Alt/Opción + clic derecho</strong> Tirada combinada con opciones</li><li><strong>Mayús + Alt/Opción + clic derecho</strong> Tirada combinada inmediata</li></ol>",
+  "CoC7.ToolTipKeeperSkill": "<label>Tiradas del Guardián</label><ol><li><strong>CTRL + clic izquierdo</strong> Crear enlace a tirada</li><li><strong>Mayús + Ctrl + clic izquierdo</strong> Crear enlace a tirada con modificadores</li>{other}</ol>",
   "CoC7.ToolTipKeeperStandbySkill": "<li><strong>Clic izquierdo</strong> Petición de tirada a {name}</li>",
-  "CoC7.ToolTipDB": "<label>Bonificación de daño</label><ol><li><strong>Clic izquierdo</strong> Tirada inmediata a dificultad normal</li></ol>",
+  "CoC7.ToolTipDB": "<label>Bonificación de daño</label><ol><li><strong>Clic izquierdo</strong> Tirada inmediata</li></ol>",
+  "CoC7.ToolTipSanity": "<label>{skill} {regular}% ({hard}/{extreme})</label><ol><li><strong>Clic izquierdo</strong> tirada con modificadores</li><li><strong>Alt/Opción + clic izquierdo</strong> tirada de cordura con modificadores</li><li><strong>Mayús + Clic izquierdo</strong> Tirada inmediata a dificultad normal</li><li><strong>Mayús + Alt/Opción + clic izquierdo</strong> tirada de COR sin opciones de reserva de dados</li></ol><label>Tiradas enfrentadas</label><ol><li><strong>Clic derecho</strong> Tirada enfrentada con modificadores</li><li><strong>Mayús + Clic derecho</strong> Tirada enfrentada inmediata</li></ol><label>Tiradas combinadas</label><ol><li><strong>Alt/Opción + Clic derecho</strong> Tirada combinada con modificadores</li><li><strong>Mayús + Alt/Opción + Clic derecho</strong> Tirada combinada inmediata</li></ol>",
+  "CoC7.ToolTipCombat": "<label>{skill} {regular}% ({hard}/{extreme})</label><ol><li><strong>Clic izquierdo</strong> tirada con modificadores</li><li><strong>Mayús + Clic izquierdo</strong> Tirada inmediata a dificultad normal</li></ol><label>Maniobra enfrentada de combate</label><ol><li><strong>Clic derecho</strong> Maniobra enfrentada de combate con modificadores</li><li><strong>Mayús + Clic derecho</strong> Maniobra enfrentada de combate inmediata</li></ol>",
   "CoC7.ToolTipKeeperSanity": "<li><strong>CTRL + Alt/Opción</strong> Crea enlace a tirada de COR</li>",
-  "CoC7.ToolTipAutoToggle": "<label>Conmutador de cálculo automático</label><ol><li><strong>Left click</strong> Conmuta entre cálculo automático/entrada manual</li>",
+  "CoC7.ToolTipAutoToggle": "<label>Conmutador de cálculo automático</label><ol><li><strong>Clic izquierdo</strong> Conmuta entre cálculo automático/entrada manual</li>",
   "CoC7.ToolTipSkillFlagToggle": "<label>{status}</label><ol><li><strong>Doble clic</strong> Marcar/desmarcar</li>",
   "CoC7.ToolTipSkillFlagged": "Marcada para desarrollo",
   "CoC7.ToolTipSkillUnflagged": "No marcada para desarrollo",

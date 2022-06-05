@@ -36,6 +36,8 @@
 
 * La traducción es obra de *José E. Lozano* (Viriato139ac) y *Gerbek*.
 * Se ha usado como plantilla la traducción de *Dungeon World* de *patoarayas*.
+* Los resúmenes de reglas son de *Luis Gimeno*, publicadas en [lospergaminosdelfenix](https://www.lospergaminosdelfenix.com/2020/04/recurso-ficha-autocalculable-y.html) y de *JandriRisas*, publicadas en los [foros de edge entertainment](http://www.edgeent.com/tema/217425-hoja_de_referencia_rapida).
+* Las ayudas de combate han sido creadas por *José E. Lozano* (Viriato139ac)
 
 ## Iconos
 
@@ -45,6 +47,34 @@ Font Awesome Free is free, open source, and GPL friendly. You can use it for com
 [Icons - CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)
 
 ## Versiones
+
+version 0.7.11 :
+
+* Updated to Miskatonic-Investigative-Society/CoC7-FoundryVTT 0.7.11
+
+version 0.7.10 :
+
+* Updated to Miskatonic-Investigative-Society/CoC7-FoundryVTT 0.7.10
+
+version 0.7.9 :
+
+* Updated to Miskatonic-Investigative-Society/CoC7-FoundryVTT 0.7.9
+
+version 0.7.8 :
+
+* Updated to Miskatonic-Investigative-Society/CoC7-FoundryVTT 0.7.8
+
+version 0.7.7 :
+
+* Updated to Miskatonic-Investigative-Society/CoC7-FoundryVTT 0.7.7
+
+version 0.7.6 :
+
+* Updated to Miskatonic-Investigative-Society/CoC7-FoundryVTT 0.7.6
+
+version 0.7.5 :
+
+* Updated to Miskatonic-Investigative-Society/CoC7-FoundryVTT 0.7.5
 
 version 0.7.4 :
 
