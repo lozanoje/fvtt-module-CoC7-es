@@ -1139,6 +1139,8 @@
   "CoC7.toolTipDelay": "Retraso en milisegundos que tarda en aparecer los mensajes emergentes, ajustar a 0 para no mostrarlos nunca",
   "SETTINGS.ChaseShowTokenMovement": "Mostrar movimiento del icono",
   "SETTINGS.ChaseShowTokenMovementHint": "Mostrar el movimiento en la rejilla cuando se mueva un icono a la siguiente localización",
+  "SETTINGS.UseContextMenus": "Usar menús contextuales",
+  "SETTINGS.UseContextMenusHint": "[EXPERIMENTAL] Usar menús contextuales para las tiradas en lugar de una combinación de teclas",
 
   "CoC7.getTheExample": "Copiar ejemplo",
   "CoC7.Copied": "Ejemplo copiado al portapapeles",

@@ -1,15 +1,47 @@
 {
-  "name": "fvtt-module-CoC7-es",
   "title": "Call of Cthulhu 7th - Español/Spanish",
   "description": "Traducción del sistema Call of Cthulhu 7th (Miskatonic-Investigative-Society/CoC7-FoundryVTT) al español -  Call of Cthulhu 7th spanish translation",
-  "version": "0.802.1",
-  "minimumCoreVersion" : "9.238",
-  "compatibleCoreVersion":"9.269",
-  "author": "José E. Lozano (Viriato139ac), Geike",
-  "esmodules": ["CoC7-es-register.js"],
-  "scripts": [],
+  "version": "0.900.1",
+  "languages": [
+    {
+      "lang": "es",
+      "name": "Español",
+      "path": "lang/es.json"
+    },
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
   "styles": [],
-  "dependencies": [],
+  "url": "https://github.com/lozanoje/fvtt-module-CoC7-es",
+  "manifest": "https://raw.githubusercontent.com/lozanoje/fvtt-module-CoC7-es/master/module.json",
+  "download": "https://github.com/lozanoje/fvtt-module-CoC7-es/archive/master.zip",
+  "id": "fvtt-module-CoC7-es",
+  "authors": [{
+      "name": "José E. Lozano (@Viriato139ac#0342)",
+      "flags": {}
+    },{
+      "name": "Geike",
+      "flags": {}
+    }
+  ],  
+  "esmodules": [
+    "CoC7-es-register.js"
+  ],
+  "relationships": {
+    "systems": [{
+        "id": "CoC7",
+        "type": "system",
+        "compatibility": "0.9.0"
+      }
+    ]
+  },  
+  "compatibility": {
+    "minimum": 10,
+    "verified": "10.286"
+  },
   "packs": [
     {
       "label": "Habilidades",
@@ -66,22 +98,5 @@
       "entity": "JournalEntry",
       "absPath": "packs/resumenes-de-reglas.db"
     }
-  ],
-  "languages": [
-    {
-      "lang": "es",
-      "name": "Español",
-      "path": "lang/es.json"
-    },
-    {
-      "lang": "en",
-      "name": "English",
-      "path": "lang/en.json"
-    }
-  ],
-  "system": "CoC7",
-  "systemVersion": "0.8.2",
-  "url": "https://github.com/lozanoje/fvtt-module-CoC7-es",
-  "manifest": "https://raw.githubusercontent.com/lozanoje/fvtt-module-CoC7-es/master/module.json",
-  "download": "https://github.com/lozanoje/fvtt-module-CoC7-es/archive/master.zip"
+  ]
 }
