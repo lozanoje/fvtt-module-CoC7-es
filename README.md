@@ -48,6 +48,10 @@ Font Awesome Free is free, open source, and GPL friendly. You can use it for com
 
 ## Versiones
 
+version 0.9.1 (v10 only compatible!) :
+
+* Updated to Miskatonic-Investigative-Society/CoC7-FoundryVTT 0.9.1
+
 version 0.9.0 :
 
 * Updated to Miskatonic-Investigative-Society/CoC7-FoundryVTT 0.9.0
