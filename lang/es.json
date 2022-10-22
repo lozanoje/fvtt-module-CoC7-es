@@ -178,7 +178,7 @@
   "CoC7.LuckSpentAlt": "Suerte gastada",
   "CoC7.LuckError": "{actorName} no tiene suficiente suerte para superar la tirada",
   "CoC7.LuckNotEnough": "{name} no tiene suficiente suerte para superar la tirada",
-  "CoC7.UpgradeSuccessWithLuck": "Mejora a éxito {{difficultyName}} usando {{luckToSpend}} puntos de suerte",
+  "CoC7.UpgradeSuccessWithLuck": "Mejora a éxito {difficultyName} usando {luckToSpend} puntos de suerte",
   "CoC7.check.AutoSuccess": "Éxito Autom.",
   "CoC7.check.AutoFailure": "Fallo Autom.",
   "CoC7.RevealCheck": "Mostrar tirada",
