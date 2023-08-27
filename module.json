@@ -1,102 +1,111 @@
 {
   "title": "Translation: Spanish [Call of Cthulhu 7th]",
   "description": "Traducción del sistema Call of Cthulhu 7th (Miskatonic-Investigative-Society/CoC7-FoundryVTT) al español -  Call of Cthulhu 7th spanish translation",
-  "version": "0.1004.2",
+  "version": "0.1005.1",
   "languages": [
     {
       "lang": "es",
       "name": "Español",
-      "path": "lang/es.json"
+      "path": "lang/es.json",
+      "flags": {}
     },
     {
       "lang": "en",
       "name": "English",
-      "path": "lang/en.json"
+      "path": "lang/en.json",
+      "flags": {}
     }
   ],
-  "styles": [],
   "url": "https://github.com/lozanoje/fvtt-module-CoC7-es",
   "manifest": "https://raw.githubusercontent.com/lozanoje/fvtt-module-CoC7-es/master/module.json",
   "download": "https://github.com/lozanoje/fvtt-module-CoC7-es/archive/master.zip",
   "id": "fvtt-module-CoC7-es",
-  "authors": [{
+  "authors": [
+    {
       "name": "José E. Lozano (@Viriato139ac#0342)",
       "flags": {}
-    },{
+    },
+    {
       "name": "Geike",
       "flags": {}
     }
-  ],  
+  ],
   "esmodules": [
-    "CoC7-es-register.js"
+    "fvtt-module-CoC7-es.js"
   ],
   "relationships": {
-    "systems": [{
+    "systems": [
+      {
         "id": "CoC7",
         "type": "system",
-        "compatibility": "0.10.4"
+        "compatibility": {}
+      }
+    ],
+	"requires": [
+      {
+        "id": "foundryvtt-es",
+        "type": "module",
+        "compatibility": {}
       }
     ]
-  },  
-  "compatibility": {
-    "minimum": 10,
-    "verified": "11.301"
   },
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "packFolders": [
+  {
+    "name": "Compendios en español",
+    "sorting": "a",
+    "color": "#b95050",
+    "packs": ["armas-reglasinicio", "creacion-pj", "habilidades", "ocupaciones-reglasinicio", "resumenes-de-reglas"]
+  }
+  ],
   "packs": [
     {
-      "label": "Habilidades",
       "name": "habilidades",
+      "label": "Habilidades",
       "path": "packs/habilidades.db",
-      "system": "CoC7",
-      "package": "compendios-llc-es-minimos",
-      "absPath": "packs/habilidades.db",
       "private": false,
       "type": "Item",
-      "entity": "Item"
+      "system": "CoC7",
+      "flags": {}
     },
     {
-      "label": "Creación PJ",
       "name": "creacion-pj",
+      "label": "Creación PJ",
       "path": "packs/creacion-pj.db",
-      "system": "CoC7",
-      "package": "compendios-llc-es-minimos",
-      "absPath": "packs/creacion-pj.db",
       "private": false,
       "type": "Item",
-      "entity": "Item"
+      "system": "CoC7",
+      "flags": {}
     },
     {
-      "label": "Ocupaciones (Reglas inicio)",
       "name": "ocupaciones-reglasinicio",
+      "label": "Ocupaciones (Reglas inicio)",
       "path": "packs/ocupaciones-reglasinicio.db",
-      "system": "CoC7",
-      "package": "compendios-llc-es-minimos",
       "private": false,
-      "absPath": "packs/ocupaciones-reglasinicio.db",
       "type": "Item",
-      "entity": "Item"
+      "system": "CoC7",
+      "flags": {}
     },
     {
-      "label": "Armas (Reglas inicio)",
       "name": "armas-reglasinicio",
+      "label": "Armas (Reglas inicio)",
       "path": "packs/armas-reglasinicio.db",
-      "system": "CoC7",
-      "package": "compendios-llc-es-minimos",
       "private": false,
       "type": "Item",
-      "entity": "Item",
-      "absPath": "packs/armas-reglasinicio.db"
+      "system": "CoC7",
+      "flags": {}
     },
     {
-      "name": "Resúmenes de reglas",
+      "name": "resumenes-de-reglas",
       "label": "Resúmenes de reglas",
       "path": "packs/resumenes-de-reglas.db",
       "private": false,
       "type": "JournalEntry",
       "system": "CoC7",
-      "package": "compendios-llc-es-minimos",
-      "entity": "JournalEntry",
-      "absPath": "packs/resumenes-de-reglas.db"
+      "flags": {}
     }
   ]
 }
