@@ -1,12 +1,18 @@
 {
   "title": "Translation: Spanish [Call of Cthulhu 7th]",
   "description": "Traducción del sistema Call of Cthulhu 7th (Miskatonic-Investigative-Society/CoC7-FoundryVTT) al español -  Call of Cthulhu 7th spanish translation",
-  "version": "0.1005.1",
+  "version": "0.1006.1",
   "languages": [
     {
       "lang": "es",
       "name": "Español",
       "path": "lang/es.json",
+      "flags": {}
+    },
+	{
+      "lang": "es",
+      "name": "Español",
+      "path": "lang/es-keys.json",
       "flags": {}
     },
     {
@@ -38,7 +44,7 @@
       {
         "id": "CoC7",
         "type": "system",
-        "compatibility": {}
+        "compatibility": "0.10.6"
       }
     ],
 	"requires": [

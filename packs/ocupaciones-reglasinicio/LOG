@@ -1,8 +1,15 @@
-2023/08/26-09:06:49.376118 ffff9df0f040 Recovering log #222
-2023/08/26-09:06:49.382133 ffff9df0f040 Delete type=3 #220
-2023/08/26-09:06:49.382242 ffff9df0f040 Delete type=0 #222
-2023/08/26-09:07:27.879421 ffff872de040 Level-0 table #227: started
-2023/08/26-09:07:27.879444 ffff872de040 Level-0 table #227: 0 bytes OK
-2023/08/26-09:07:27.881451 ffff872de040 Delete type=0 #225
-2023/08/26-09:07:27.886273 ffff872de040 Manual compaction at level-0 from '!items!FXXLHCcbD8x87TsT' @ 72057594037927935 : 1 .. '!items!qYw71V8aLG3NcZ9m' @ 0 : 0; will stop at (end)
-2023/08/26-09:07:27.886316 ffff872de040 Manual compaction at level-1 from '!items!FXXLHCcbD8x87TsT' @ 72057594037927935 : 1 .. '!items!qYw71V8aLG3NcZ9m' @ 0 : 0; will stop at (end)
+2023/11/10-17:03:28.286028 ffffb14ff040 Recovering log #339
+2023/11/10-17:03:28.291891 ffffb14ff040 Delete type=3 #337
+2023/11/10-17:03:28.291934 ffffb14ff040 Delete type=0 #339
+2023/11/10-17:36:29.867215 ffff9b7ef040 Level-0 table #344: started
+2023/11/10-17:36:29.869472 ffff9b7ef040 Level-0 table #344: 13235 bytes OK
+2023/11/10-17:36:29.871316 ffff9b7ef040 Delete type=0 #342
+2023/11/10-17:36:29.875292 ffff9b7ef040 Manual compaction at level-0 from '!items!FXXLHCcbD8x87TsT' @ 72057594037927935 : 1 .. '!items!qYw71V8aLG3NcZ9m' @ 0 : 0; will stop at (end)
+2023/11/10-17:36:29.875491 ffff9b7ef040 Manual compaction at level-1 from '!items!FXXLHCcbD8x87TsT' @ 72057594037927935 : 1 .. '!items!qYw71V8aLG3NcZ9m' @ 0 : 0; will stop at '!items!qYw71V8aLG3NcZ9m' @ 240 : 1
+2023/11/10-17:36:29.875500 ffff9b7ef040 Compacting 1@1 + 1@2 files
+2023/11/10-17:36:29.878451 ffff9b7ef040 Generated table #345@1: 8 keys, 13235 bytes
+2023/11/10-17:36:29.878469 ffff9b7ef040 Compacted 1@1 + 1@2 files => 13235 bytes
+2023/11/10-17:36:29.880165 ffff9b7ef040 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/11/10-17:36:29.880224 ffff9b7ef040 Delete type=2 #320
+2023/11/10-17:36:29.880280 ffff9b7ef040 Delete type=2 #344
+2023/11/10-17:36:29.891016 ffff9b7ef040 Manual compaction at level-1 from '!items!qYw71V8aLG3NcZ9m' @ 240 : 1 .. '!items!qYw71V8aLG3NcZ9m' @ 0 : 0; will stop at (end)
