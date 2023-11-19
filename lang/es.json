@@ -837,7 +837,7 @@
   "CoC7.EmptySkillList": "Añada una habilidad soltándola aquí",
   "CoC7.EmptyItemList": "Añada un objeto soltándolo aquí",
   "CoC7.EmptyCharacterSkillList": "Añada una configuración, ocupación o habilidad soltándolas aquí",
-  "CoC7.PersonalSpeciality": "Número de especialidades personales o de la época",
+  "CoC7.PersonalSpecialityPlaceholder": "otra(s) habilidad(es) como especialidades personales o de época",
   "CoC7.AdditionalSkills": "Habilidades Adicionales",
   "CoC7.SkillSelectionWindow": "Seleccione habilidades opcionales",
   "CoC7.SelectPersonalSkills": "Seleccione {number} habilidades(s) como intereses personales",
@@ -1008,6 +1008,8 @@
   "CoC7.Migrate.ErrorItem": "Migración de sistema CoC7 para el objeto {name} fallida: {message}",
   "CoC7.Migrate.ErrorActor": "Migración de sistema CoC7 para el actor {name} fallida: {message}",
 
+  "CoC7.System.Documentation": "Consulte el manual del sistema CoC7",
+  
   "CoC7.Settings.CoreRules.Title": "Reglas opcionales del Manual del Guardián",
   "CoC7.Settings.Rules.Name": "Variantes/reglas opcionales",
   "CoC7.Settings.Rules.Label": "Configurar variantes/reglas opcionales",
@@ -1189,6 +1191,8 @@
   "SETTINGS.ChaseShowTokenMovementHint": "Mostrar el movimiento en la rejilla cuando se mueva un icono a la siguiente localización",
   "SETTINGS.UseContextMenus": "Usar menús contextuales",
   "SETTINGS.UseContextMenusHint": "[EXPERIMENTAL] Usar menús contextuales para las tiradas en lugar de una combinación de teclas",
+  "SETTINGS.SceneDistanceNotCalcualtedNoError": "No arrojar un error para combate a distancia",
+  "SETTINGS.SceneDistanceNotCalcualtedNoErrorHint": "Cuando se inicia un combate a distancia si se juega con el teatro de la mente no mostrar el error que avisa de que no se puede calcular la distancia al objetivo",
 
   "CoC7.getTheExample": "Copiar ejemplo",
   "CoC7.Copied": "Ejemplo copiado al portapapeles",
@@ -1292,5 +1296,10 @@
   "CoC7.CoCIDFlag.error.documents-not-found": "No se han encontrado documentos en el mundo o en ningún compendio con estos CoC IDs ({cocids}), idioma \"{lang}\", y época \"{era}\". Por favor, comprueba la época en los ajustes del mundo",
 
   "CoC7.CoCIDBatch.title": "Asignar automáticamente ID de sistema (CoC ID)",
-  "CoC7.CoCIDBatch.summary": "El sistema CoC7 ha introducido el ID de sistema (CoC ID). Permite al sistema identificar documentos FoundryVTT, como pueden ser habilidades. Esta página permite ajustar el id para los documentos existentes de tipo {type}. El ID de sistema debería usar la traducción en Inglés para que soporte localización a distintos idiomas"
+  "CoC7.CoCIDBatch.summary": "El sistema CoC7 ha introducido el ID de sistema (CoC ID). Permite al sistema identificar documentos FoundryVTT, como pueden ser habilidades. Esta página permite ajustar el id para los documentos existentes de tipo {type}. El ID de sistema debería usar la traducción en Inglés para que soporte localización a distintos idiomas",
+
+  "CoC7.TokenCreationRoll.Title": "Fórmulas detectadas",
+  "CoC7.TokenCreationRoll.Prompt": "Este icono tiene fórmulas para las características o habilidades.<br>¿Qué quiere hacer?",
+  "CoC7.TokenCreationRoll.ButtonRoll": "Tirar todo",
+  "CoC7.TokenCreationRoll.ButtonAverage": "Todo a promedio"
 }
