@@ -11,7 +11,7 @@
 * Install/Update _Call of Cthulhu 7th edition_ system, by Miskatonic-Investigative-Society, from Foundry's system manager.
 [Module Url](https://foundryvtt.com/packages/CoC7/)
 * (Optional) Install/Update _Translation: Spanish [Core]_ module from Foundry's module manager:
-[Module Url](https://foundryvtt.com/packages/FoundryVTT-ES/)
+[Module Url](https://foundryvtt.com/packages/foundryvtt-es/)
 * Install/Update _Translation: Spanish (Call of Cthulhu 7th)_ module from Foundry's module manager:
 [Module Url](https://foundryvtt.com/packages/fvtt-module-CoC7-es/)
 * Inside the Game World, at _Configuration/Manage Modules_ activate both translations.

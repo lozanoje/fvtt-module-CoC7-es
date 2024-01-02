@@ -1,7 +1,4 @@
 {
-  "I18N.LANGUAGE": "Español",
-  "I18N.MAINTAINERS": "@Viriato139ac#0342",
-
   "CoC7.title": "La Llamada de Cthulhu 7a Edición",
 
   "CoC7.Entities.Character": "Personaje",
@@ -310,7 +307,7 @@
   "CoC7.RollDamage": "Tirada de daño",
   "CoC7.BulletsFired": "Balas disparadas",
   "CoC7.Shots": "Disparos",
-  "CoC7.Shoot": "Disparo",
+  "CoC7.Shoot": "Disparar",
   "CoC7.ShotBullets": "Disparar {bullets} tiros al objetivo {actor}",
   "CoC7.ShotVoley": "Disparando una ráfaga de {bullets} tiros al objetivo {actor}",
   "CoC7.rangeCombatCard.AimingTitle": "Añade 1 dado de bonificación al primer disparo",
