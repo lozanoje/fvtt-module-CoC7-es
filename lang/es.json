@@ -1298,5 +1298,7 @@
   "CoC7.TokenCreationRoll.Title": "Fórmulas detectadas",
   "CoC7.TokenCreationRoll.Prompt": "Este icono tiene fórmulas para las características o habilidades.<br>¿Qué quiere hacer?",
   "CoC7.TokenCreationRoll.ButtonRoll": "Tirar todo",
-  "CoC7.TokenCreationRoll.ButtonAverage": "Todo a promedio"
+  "CoC7.TokenCreationRoll.ButtonAverage": "Todo a promedio",
+
+  "CoC7.RealRollDecaderPlaceholderName": "10's"
 }
