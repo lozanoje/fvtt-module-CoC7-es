@@ -3,3 +3,4 @@ Desktop.ini
 Thumbs.db
 .Trashes
 *.lock
+*.sync-conflict-*
