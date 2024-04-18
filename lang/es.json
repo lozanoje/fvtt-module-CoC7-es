@@ -501,6 +501,10 @@
   "CoC7.LinkCheckDiff": "Tirada [{difficulty}] de {name}",
   "CoC7.LinkCheckModif": "Tirada de {name} ({modifier}): ",
   "CoC7.LinkCheckDiffModif": "Tirada [{difficulty}] de {name} ({modifier})",
+  "CoC7.LinkCheckPushing": " prueba de {name} - forzando",
+  "CoC7.LinkCheckDiffPushing": " prueba[{difficulty}] de {name} - forzando",
+  "CoC7.LinkCheckModifPushing": " prueba de {name} - forzando({modifier})",
+  "CoC7.LinkCheckDiffModifPushing": "prueba [{difficulty}] de {name} - forzando({modifier})",
   "CoC7.LinkSanLoss": "Tirada de COR, ({sanMin}/{sanMax})",
   "CoC7.LinkSanLossDiff": "Tirada [{difficulty}] de COR, ({sanMin}/{sanMax})",
   "CoC7.LinkSanLossModif": "Tirada de COR ({modifier}), ({sanMin}/{sanMax})",
@@ -912,6 +916,7 @@
   "CoC7.ErrorNoTokensSelected": "No se ha seleccionado un icono",
   "CoC7.ErrorEvaluatingDamage": "Error al evaluar daño",
 
+  "CoC7.InfoSkillAddedAtBase": "Se ha añadido la habilidad {name} con porcentaje {percent}%",
   "CoC7.InfoLessSkillThanOptions": "Solo existen {skillCount} y {optionsCount} opciones, anadiéndose todas",
   "CoC7.InfoAllSkillsAlreadySelected": "Ya se han seleccionado todas las habilidades",
 
@@ -1176,6 +1181,12 @@
   "SETTINGS.AdviseAllPlayer": "A todos los jugadores",
   "SETTINGS.OneBlockBackStory": "Trasfondo en un solo bloque",
   "SETTINGS.OneBlockBackStoryHint": "Convertir el transfondo en un solo bloque de edición, se pueden añadir formateo y pegar enlaces",
+  "SETTINGS.TokenDropMode": "Cuando se crea un PNJ :",
+  "SETTINGS.TokenDropModeHint": "Defina el comportamiento por defecto cunado se suelta un PNJ a la escena que tiene definidas fórmulas en las características o habilidades.",
+  "SETTINGS.TokenDropModeAsk": "Preguntar qué hacer",
+  "SETTINGS.TokenDropModeRoll": "Tirar lo que sea posible",
+  "SETTINGS.TokenDropModeAverage": "Promediar tiradas",
+  "SETTINGS.TokenDropModeIgnore": "No hacer nada",
   "SETTINGS.EnableStatusIcons": "Activar iconos de estado",
   "SETTINGS.EnableStatusIconsHint": "Determina si se deben mostrar de los efectos de combate y cordura en los iconos",
   "SETTINGS.ShowExperimentalFeatures": "Mostrar características experimentales",
@@ -1299,6 +1310,23 @@
   "CoC7.TokenCreationRoll.Prompt": "Este icono tiene fórmulas para las características o habilidades.<br>¿Qué quiere hacer?",
   "CoC7.TokenCreationRoll.ButtonRoll": "Tirar todo",
   "CoC7.TokenCreationRoll.ButtonAverage": "Todo a promedio",
+  "CoC7.TokenCreationRoll.Rolled": "Se han tirado las características y habilidades de {name}",
+  "CoC7.TokenCreationRoll.Averaged": "Se han definido a valores promedio las características y habilidades de {name}",
 
-  "CoC7.RealRollDecaderPlaceholderName": "10's"
+
+  "CoC7.RealRollDecaderPlaceholderName": "10's",
+
+  "CoC7.Temporary": "Temporal",
+  "CoC7.Passive": "Pasiva",
+  "CoC7.Inactive": "Inactiva",
+  "CoC7.Suppressed": "Suprimida",
+  "CoC7.Unavailable": "No disponible",
+
+  "CoC7.PickWhichActorTitle": "Elegir como quién tirar",
+  "CoC7.PickWhichActorDesc": "Tiene permiso de propietarios de varios Actores, seleccione uno para hacer las tiradas en su nombre",
+  "CoC7.WaitingOnUser": "Esperando Usuario",
+  "CoC7.ErrorRollAlreadyCompleted": "Tirada completada",
+  "CoC7.ErrorNoActorPermission": "No es el propietario de este Actor",
+  "CoC7.ErrorCombinedRollsRequireSingleActor": "No puede usar más de un Actor en una tirada combinada",
+  "CoC7.ErrorOpposedRollsLimitedToTwoActors": "Una tirada opuesta necesita dos Actores"
 }
