@@ -135,6 +135,7 @@
   "CoC7.Initiative": "Iniciativa",
 
   "CoC7.Cast": "Lanzamiento",
+  "CoC7.CastHidden": "Lanzar oculto",
   "CoC7.SanityCost": "Coste COR",
   "CoC7.PowerCost": "Coste POD",
   "CoC7.HitPointsCost": "Coste PVs",
@@ -1128,6 +1129,8 @@
   "SETTINGS.PulpRulesHint": "Permite usar las reglas de Pulp Cthulhu (Arquetipos, Talentos, PV), ¡en fase de desarrollo!",
   "SETTINGS.developmentRollForLuck": "Recuperación de puntos de suerte",
   "SETTINGS.developmentRollForLuckHint": "Cada jugador puede hacer una tirada para recuperar suerte en la fase de desarrollo",
+  "SETTINGS.allowMythosHardenedTitle": "Curtido por los Mitos",
+  "SETTINGS.allowMythosHardenedHint": "Permitir reducción de pérdida de Cordura por estar curtido por los Mitos",
   "SETTINGS.displayPlayerNameOnSheet": "Mostrar nombre del jugador en la hoja de personaje",
   "SETTINGS.DisregardAmmo": "Ignorar la munición",
   "SETTINGS.DisregardAmmoHint": "Al activar esta opción no se tendrán en cuenta la munición cargada en el arma a la hora de disparar",
