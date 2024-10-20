@@ -45,7 +45,7 @@
   "CoC7.Archetype": "Arquetipo",
   "CoC7.Occupation": "Ocupación",
   "CoC7.Age": "Edad",
-  "CoC7.Sex": "Género",
+  "CoC7.Sex": "Pronombre",
   "CoC7.Residence": "Residencia",
   "CoC7.Birthplace": "Nacimiento",
   "CoC7.Organization": "Organización",
@@ -1037,8 +1037,8 @@
   
   "CoC7.Settings.CoreRules.Title": "Reglas opcionales del Manual del Guardián",
   "CoC7.Settings.Rules.Name": "Variantes/reglas opcionales",
-  "CoC7.Settings.Rules.Label": "Configurar variantes/reglas opcionales",
-  "CoC7.Settings.Rules.Hint": "Configurar variantes/reglas opcionales como Pulp Cthulhu",
+  "CoC7.Settings.Rules.Label": "Variantes/reglas opcionales",
+  "CoC7.Settings.Rules.Hint": "Configura las variantes/reglas opcionales como Pulp Cthulhu",
   "CoC7.Settings.HouseRules.Title": "Reglas caseras comunes",
   "CoC7.Settings.PulpRules.DoubleMaxHealth.Name": "Duplicar puntos de vida",
   "CoC7.Settings.PulpRules.DoubleMaxHealth.Hint": "La vida máxima será (CON + TAM) / 5",
@@ -1330,6 +1330,17 @@
 
   "CoC7.CoCIDBatch.title": "Asignar automáticamente ID de sistema (CoC ID)",
   "CoC7.CoCIDBatch.summary": "El sistema CoC7 ha introducido el ID de sistema (CoC ID). Permite al sistema identificar documentos FoundryVTT, como pueden ser habilidades. Esta página permite ajustar el id para los documentos existentes de tipo {type}. El ID de sistema debería usar la traducción en Inglés para que soporte localización a distintos idiomas",
+  "CoC7.ActorCoCIDItemsBest": "CoC ID: Reemplazo de objetos de actor",
+  "CoC7.ActorCoCIDItemsWarning": "Esta acción no se puede deshacer, por favor haga copia de seguridad del mundo antes de actualizar los actores",
+  "CoC7.ActorCoCIDItemsWhich": "Comprueba los CoC ID de los objetos en los compendios activos, los compendios del mundo y en el directorio de objetos, reemplazando los objetos del actor por aquellos con mejor prioridad de acuerdo a las siguientes reglas",
+  "CoC7.ActorCoCIDItemsRules1": "Debe coincidir con la era actual \"{era}\" o no tener ninguna era seleccionada",
+  "CoC7.ActorCoCIDItemsRules2": "Busca en los ojetos del idioma \"{lang}\" o \"English\", si no encuentra objetos traducidos",
+  "CoC7.ActorCoCIDItemsRules3": "Selecciona el objeto con la prioridad más alta",
+  "CoC7.ActorCoCIDItemsSceneTokens": "Actualizar todas las fichas de esta escena",
+  "CoC7.ActorCoCIDItemsUnlinkedToken": "Actualizar todos los actores no vinculados en el directorio para cada ficha primero",
+  "CoC7.ActorCoCIDItemsActorSheets": "Actualizar hojas de actor actualmente abiertas",
+  "CoC7.ActorCoCIDItemsActorDirectory": "Actualizar todos los actores en el directorio",
+  "CoC7.ActorCoCIDItemsUpdate": "Actualizar",
 
   "CoC7.TokenCreationRoll.Title": "Fórmulas detectadas",
   "CoC7.TokenCreationRoll.Prompt": "Esta ficha tiene fórmulas para las características o habilidades.<br>¿Qué quiere hacer?",
@@ -1337,7 +1348,6 @@
   "CoC7.TokenCreationRoll.ButtonAverage": "Todo a promedio",
   "CoC7.TokenCreationRoll.Rolled": "Se han tirado las características y habilidades de {name}",
   "CoC7.TokenCreationRoll.Averaged": "Se han definido a valores promedio las características y habilidades de {name}",
-
 
   "CoC7.RealRollDecaderPlaceholderName": "10's",
 
@@ -1353,5 +1363,12 @@
   "CoC7.ErrorRollAlreadyCompleted": "Tirada completada",
   "CoC7.ErrorNoActorPermission": "No es el propietario de este Actor",
   "CoC7.ErrorCombinedRollsRequireSingleActor": "No puede usar más de un Actor en una tirada combinada",
-  "CoC7.ErrorOpposedRollsLimitedToTwoActors": "Una tirada opuesta necesita dos Actores"
+  "CoC7.ErrorOpposedRollsLimitedToTwoActors": "Una tirada opuesta necesita dos Actores",
+  "CoC7.PauseName": "Pausa",
+
+  "CoC7.ClickableEvents.MouseOver.Title": "Permisos para clic",
+  "CoC7.ClickableEvents.MouseOver.Hint": "Devuelve valor lógico si se permite hacer clic y mostrar cursor del ratón",
+  "CoC7.ClickableEvents.LeftClick.Title": "Programa clic izqdo",
+  "CoC7.ClickableEvents.RightClick.Title": "Programa clic decho",
+  "TYPES.RegionBehavior.coc7ClickableEvents": "Eventos clicables"
 }
