@@ -1,14 +1,14 @@
-2024/10/20-17:58:28.540049 e4c5fca0f040 Recovering log #942
-2024/10/20-17:58:28.546871 e4c5fca0f040 Delete type=0 #942
-2024/10/20-17:58:28.546897 e4c5fca0f040 Delete type=3 #940
-2024/10/20-18:05:03.419977 e4c5e6a0f040 Level-0 table #947: started
-2024/10/20-18:05:03.422907 e4c5e6a0f040 Level-0 table #947: 4865 bytes OK
-2024/10/20-18:05:03.425392 e4c5e6a0f040 Delete type=0 #945
-2024/10/20-18:05:03.437669 e4c5e6a0f040 Manual compaction at level-0 from '!items!FXXLHCcbD8x87TsT' @ 72057594037927935 : 1 .. '!items!qYw71V8aLG3NcZ9m' @ 0 : 0; will stop at '!items!qYw71V8aLG3NcZ9m' @ 568 : 1
-2024/10/20-18:05:03.437680 e4c5e6a0f040 Compacting 1@0 + 1@1 files
-2024/10/20-18:05:03.440426 e4c5e6a0f040 Generated table #948@0: 8 keys, 4865 bytes
-2024/10/20-18:05:03.440446 e4c5e6a0f040 Compacted 1@0 + 1@1 files => 4865 bytes
-2024/10/20-18:05:03.442920 e4c5e6a0f040 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/10/20-18:05:03.442992 e4c5e6a0f040 Delete type=2 #947
-2024/10/20-18:05:03.443047 e4c5e6a0f040 Delete type=2 #927
-2024/10/20-18:05:03.448548 e4c5e6a0f040 Manual compaction at level-0 from '!items!qYw71V8aLG3NcZ9m' @ 568 : 1 .. '!items!qYw71V8aLG3NcZ9m' @ 0 : 0; will stop at (end)
+2024/10/24-17:24:59.352194 e4c5e740f040 Recovering log #946
+2024/10/24-17:24:59.358607 e4c5e740f040 Delete type=3 #944
+2024/10/24-17:24:59.358859 e4c5e740f040 Delete type=0 #946
+2024/10/24-17:46:44.406981 e4c5e6a0f040 Level-0 table #952: started
+2024/10/24-17:46:44.409853 e4c5e6a0f040 Level-0 table #952: 4857 bytes OK
+2024/10/24-17:46:44.412401 e4c5e6a0f040 Delete type=0 #950
+2024/10/24-17:46:44.424634 e4c5e6a0f040 Manual compaction at level-0 from '!items!FXXLHCcbD8x87TsT' @ 72057594037927935 : 1 .. '!items!qYw71V8aLG3NcZ9m' @ 0 : 0; will stop at '!items!qYw71V8aLG3NcZ9m' @ 576 : 1
+2024/10/24-17:46:44.424642 e4c5e6a0f040 Compacting 1@0 + 1@1 files
+2024/10/24-17:46:44.427458 e4c5e6a0f040 Generated table #953@0: 8 keys, 4857 bytes
+2024/10/24-17:46:44.427480 e4c5e6a0f040 Compacted 1@0 + 1@1 files => 4857 bytes
+2024/10/24-17:46:44.429755 e4c5e6a0f040 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/10/24-17:46:44.429829 e4c5e6a0f040 Delete type=2 #948
+2024/10/24-17:46:44.429884 e4c5e6a0f040 Delete type=2 #952
+2024/10/24-17:46:44.429980 e4c5e6a0f040 Manual compaction at level-0 from '!items!qYw71V8aLG3NcZ9m' @ 576 : 1 .. '!items!qYw71V8aLG3NcZ9m' @ 0 : 0; will stop at (end)
