@@ -4,7 +4,7 @@
 //
 
 const macroName = "Token items updater";
-const macroVersion = "0.5";
+const macroVersion = "0.6";
 const macroImage = "icons/sundries/books/book-worn-blue.webp";
 
 updateTokenItems();
@@ -35,14 +35,18 @@ async function updateTokenItems() {
         system: {
           skillName: betterDocument[0].system.skillName,
           specialization: betterDocument[0].system.specialization,
-          description: {
-            value: betterDocument[0].system.description.value,
-            opposingDifficulty: betterDocument[0].system.description.opposingDifficulty,
-            pushedFaillureConsequences: betterDocument[0].system.description.pushedFaillureConsequences,
-            chat: betterDocument[0].system.description.chat,
-            keeper: betterDocument[0].system.description.keeper
-          }
-        }
+          description: betterDocument[0].system.description,
+					base: betterDocument[0].system.base,
+					bonusDice: betterDocument[0].system.bonusDice,
+					value: betterDocument[0].system.value,
+					attributes: betterDocument[0].system.attributes,
+					properties: betterDocument[0].system.properties,
+					flags: betterDocument[0].system.flags
+        },
+        type: betterDocument[0].type,
+        img: betterDocument[0].img,
+        effects: betterDocument[0].effects,
+        flags: betterDocument[0].flags
       }
       //console.log(updatedDocument);
       updatesDocuments.push(updatedDocument);
@@ -56,7 +60,12 @@ async function updateTokenItems() {
     if (betterDocument[0]) {
       updatedDocument = {
         _id: occupation.id,
-        name: betterDocument[0].name
+        name: betterDocument[0].name,
+      type: betterDocument[0].type,
+      img: betterDocument[0].img,
+      effects: betterDocument[0].effects,
+      flags: betterDocument[0].flags,
+      system: betterDocument[0].system
       }
       //console.log(updatedDocument);
       updatesDocuments.push(updatedDocument);
@@ -70,7 +79,12 @@ async function updateTokenItems() {
     if (betterDocument[0]) {
       updatedDocument = {
         _id: weapon.id,
-        name: betterDocument[0].name
+        name: betterDocument[0].name,
+      type: betterDocument[0].type,
+      img: betterDocument[0].img,
+      effects: betterDocument[0].effects,
+      flags: betterDocument[0].flags,
+      system: betterDocument[0].system
       }
       //console.log(updatedDocument);
       updatesDocuments.push(updatedDocument);

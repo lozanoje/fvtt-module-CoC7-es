@@ -1,14 +1,14 @@
-2024/10/24-17:24:59.352194 e4c5e740f040 Recovering log #946
-2024/10/24-17:24:59.358607 e4c5e740f040 Delete type=3 #944
-2024/10/24-17:24:59.358859 e4c5e740f040 Delete type=0 #946
-2024/10/24-17:46:44.406981 e4c5e6a0f040 Level-0 table #952: started
-2024/10/24-17:46:44.409853 e4c5e6a0f040 Level-0 table #952: 4857 bytes OK
-2024/10/24-17:46:44.412401 e4c5e6a0f040 Delete type=0 #950
-2024/10/24-17:46:44.424634 e4c5e6a0f040 Manual compaction at level-0 from '!items!FXXLHCcbD8x87TsT' @ 72057594037927935 : 1 .. '!items!qYw71V8aLG3NcZ9m' @ 0 : 0; will stop at '!items!qYw71V8aLG3NcZ9m' @ 576 : 1
-2024/10/24-17:46:44.424642 e4c5e6a0f040 Compacting 1@0 + 1@1 files
-2024/10/24-17:46:44.427458 e4c5e6a0f040 Generated table #953@0: 8 keys, 4857 bytes
-2024/10/24-17:46:44.427480 e4c5e6a0f040 Compacted 1@0 + 1@1 files => 4857 bytes
-2024/10/24-17:46:44.429755 e4c5e6a0f040 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/10/24-17:46:44.429829 e4c5e6a0f040 Delete type=2 #948
-2024/10/24-17:46:44.429884 e4c5e6a0f040 Delete type=2 #952
-2024/10/24-17:46:44.429980 e4c5e6a0f040 Manual compaction at level-0 from '!items!qYw71V8aLG3NcZ9m' @ 576 : 1 .. '!items!qYw71V8aLG3NcZ9m' @ 0 : 0; will stop at (end)
+2025/02/07-20:55:36.023 3d84 Recovering log #1125
+2025/02/07-20:55:36.143 3d84 Delete type=0 #1125
+2025/02/07-20:55:36.144 3d84 Delete type=3 #1123
+2025/02/07-20:58:13.767 47a4 Level-0 table #1131: started
+2025/02/07-20:58:13.809 47a4 Level-0 table #1131: 4878 bytes OK
+2025/02/07-20:58:13.864 47a4 Delete type=0 #1129
+2025/02/07-20:58:13.866 47a4 Manual compaction at level-0 from '!items!FXXLHCcbD8x87TsT' @ 72057594037927935 : 1 .. '!items!qYw71V8aLG3NcZ9m' @ 0 : 0; will stop at '!items!qYw71V8aLG3NcZ9m' @ 672 : 1
+2025/02/07-20:58:13.866 47a4 Compacting 1@0 + 1@1 files
+2025/02/07-20:58:13.933 47a4 Generated table #1132@0: 8 keys, 4878 bytes
+2025/02/07-20:58:13.933 47a4 Compacted 1@0 + 1@1 files => 4878 bytes
+2025/02/07-20:58:13.988 47a4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/02/07-20:58:13.988 47a4 Delete type=2 #1127
+2025/02/07-20:58:13.988 47a4 Delete type=2 #1131
+2025/02/07-20:58:14.278 47a4 Manual compaction at level-0 from '!items!qYw71V8aLG3NcZ9m' @ 672 : 1 .. '!items!qYw71V8aLG3NcZ9m' @ 0 : 0; will stop at (end)
