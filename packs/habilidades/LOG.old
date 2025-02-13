@@ -1,14 +1,5 @@
-2025/02/07-20:55:35.797 3d84 Recovering log #1125
-2025/02/07-20:55:35.908 3d84 Delete type=0 #1125
-2025/02/07-20:55:35.908 3d84 Delete type=3 #1123
-2025/02/07-20:58:13.087 47a4 Level-0 table #1131: started
-2025/02/07-20:58:13.155 47a4 Level-0 table #1131: 46659 bytes OK
-2025/02/07-20:58:13.198 47a4 Delete type=0 #1129
-2025/02/07-20:58:13.487 47a4 Manual compaction at level-0 from '!items!0QrrChjaMg7W5p0v' @ 72057594037927935 : 1 .. '!items!yoLI9YnIZYEEVKB6' @ 0 : 0; will stop at '!items!yoLI9YnIZYEEVKB6' @ 11063 : 1
-2025/02/07-20:58:13.487 47a4 Compacting 1@0 + 1@1 files
-2025/02/07-20:58:13.556 47a4 Generated table #1132@0: 135 keys, 46659 bytes
-2025/02/07-20:58:13.556 47a4 Compacted 1@0 + 1@1 files => 46659 bytes
-2025/02/07-20:58:13.598 47a4 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/02/07-20:58:13.598 47a4 Delete type=2 #1127
-2025/02/07-20:58:13.599 47a4 Delete type=2 #1131
-2025/02/07-20:58:13.865 47a4 Manual compaction at level-0 from '!items!yoLI9YnIZYEEVKB6' @ 11063 : 1 .. '!items!yoLI9YnIZYEEVKB6' @ 0 : 0; will stop at (end)
+2025/02/13-18:34:33.648875 f44d5a00f040 Log #1135: 0 ops saved to Table #1136 OK
+2025/02/13-18:34:33.648968 f44d5a00f040 Archiving /home/ubuntu/foundrydata/Data/modules/fvtt-module-CoC7-es/packs/habilidades/001135.log: OK
+2025/02/13-18:34:33.649140 f44d5a00f040 Table #1132: 135 entries OK
+2025/02/13-18:34:33.649209 f44d5a00f040 Archiving /home/ubuntu/foundrydata/Data/modules/fvtt-module-CoC7-es/packs/habilidades/MANIFEST-001133: OK
+2025/02/13-18:34:33.652951 f44d5a00f040 **** Repaired leveldb /home/ubuntu/foundrydata/Data/modules/fvtt-module-CoC7-es/packs/habilidades; recovered 1 files; 46659 bytes. Some data may have been lost. ****

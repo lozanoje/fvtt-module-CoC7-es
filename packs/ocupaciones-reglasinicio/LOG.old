@@ -1,14 +1,5 @@
-2025/02/07-20:55:36.023 3d84 Recovering log #1125
-2025/02/07-20:55:36.143 3d84 Delete type=0 #1125
-2025/02/07-20:55:36.144 3d84 Delete type=3 #1123
-2025/02/07-20:58:13.767 47a4 Level-0 table #1131: started
-2025/02/07-20:58:13.809 47a4 Level-0 table #1131: 4878 bytes OK
-2025/02/07-20:58:13.864 47a4 Delete type=0 #1129
-2025/02/07-20:58:13.866 47a4 Manual compaction at level-0 from '!items!FXXLHCcbD8x87TsT' @ 72057594037927935 : 1 .. '!items!qYw71V8aLG3NcZ9m' @ 0 : 0; will stop at '!items!qYw71V8aLG3NcZ9m' @ 672 : 1
-2025/02/07-20:58:13.866 47a4 Compacting 1@0 + 1@1 files
-2025/02/07-20:58:13.933 47a4 Generated table #1132@0: 8 keys, 4878 bytes
-2025/02/07-20:58:13.933 47a4 Compacted 1@0 + 1@1 files => 4878 bytes
-2025/02/07-20:58:13.988 47a4 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/02/07-20:58:13.988 47a4 Delete type=2 #1127
-2025/02/07-20:58:13.988 47a4 Delete type=2 #1131
-2025/02/07-20:58:14.278 47a4 Manual compaction at level-0 from '!items!qYw71V8aLG3NcZ9m' @ 672 : 1 .. '!items!qYw71V8aLG3NcZ9m' @ 0 : 0; will stop at (end)
+2025/02/13-18:34:33.678693 f44d5960f040 Log #1135: 0 ops saved to Table #1136 OK
+2025/02/13-18:34:33.678755 f44d5960f040 Archiving /home/ubuntu/foundrydata/Data/modules/fvtt-module-CoC7-es/packs/ocupaciones-reglasinicio/001135.log: OK
+2025/02/13-18:34:33.678858 f44d5960f040 Table #1132: 8 entries OK
+2025/02/13-18:34:33.678999 f44d5960f040 Archiving /home/ubuntu/foundrydata/Data/modules/fvtt-module-CoC7-es/packs/ocupaciones-reglasinicio/MANIFEST-001133: OK
+2025/02/13-18:34:33.682687 f44d5960f040 **** Repaired leveldb /home/ubuntu/foundrydata/Data/modules/fvtt-module-CoC7-es/packs/ocupaciones-reglasinicio; recovered 1 files; 4878 bytes. Some data may have been lost. ****
