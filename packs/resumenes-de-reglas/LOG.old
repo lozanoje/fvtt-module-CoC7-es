@@ -1,5 +1,7 @@
-2025/02/13-18:34:33.706812 f44d5b40f040 Log #1051: 0 ops saved to Table #1052 OK
-2025/02/13-18:34:33.707001 f44d5b40f040 Archiving /home/ubuntu/foundrydata/Data/modules/fvtt-module-CoC7-es/packs/resumenes-de-reglas/001051.log: OK
-2025/02/13-18:34:33.707910 f44d5b40f040 Table #398: 16 entries OK
-2025/02/13-18:34:33.707994 f44d5b40f040 Archiving /home/ubuntu/foundrydata/Data/modules/fvtt-module-CoC7-es/packs/resumenes-de-reglas/MANIFEST-001049: OK
-2025/02/13-18:34:33.711221 f44d5b40f040 **** Repaired leveldb /home/ubuntu/foundrydata/Data/modules/fvtt-module-CoC7-es/packs/resumenes-de-reglas; recovered 1 files; 2619 bytes. Some data may have been lost. ****
+2025/02/13-22:18:25.508358 f44d5a00f040 Recovering log #1055
+2025/02/13-22:18:25.514527 f44d5a00f040 Delete type=3 #1053
+2025/02/13-22:18:25.514578 f44d5a00f040 Delete type=0 #1055
+2025/02/13-22:28:09.253591 f44d58c0f040 Level-0 table #1061: started
+2025/02/13-22:28:09.253616 f44d58c0f040 Level-0 table #1061: 0 bytes OK
+2025/02/13-22:28:09.255715 f44d58c0f040 Delete type=0 #1059
+2025/02/13-22:28:09.264658 f44d58c0f040 Manual compaction at level-0 from '!journal!05W5oC2po0zI8oAy' @ 72057594037927935 : 1 .. '!journal.pages!vZLcSEYFOXCCXN6U.IiAKUVO8pJ1OWHMu' @ 0 : 0; will stop at (end)
