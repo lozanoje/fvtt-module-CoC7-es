@@ -12,6 +12,7 @@
   "CoC7.ActorIsSyntheticActor": "El actor es un actor sintético (en lugar de un actor)",
 
   "CoC7.Entities.Archetype": "Arquetipo",
+  "CoC7.Entities.Armor": "Armadura",
   "CoC7.Entities.Book": "Tomo",
   "CoC7.Entities.Chase": "Persecución",
   "CoC7.Entities.Item": "Objeto",
@@ -219,6 +220,8 @@
   "CoC7.RollDifficultyExtremeTitle": "Dificultad extrema",
   "CoC7.RollDifficultyCritical": "Crítica",
   "CoC7.RollDifficultyCriticalTitle": "Dificultad crítica",
+  "CoC7.RollDifficultyImpossible": "Imposible",
+  "CoC7.RollDifficultyImpossibleTitle": "Dificultad imposible",
   "CoC7.RollResult.LuckSpendText": "{luckAmount} puntos de Suerte gastados, {successLevel} superado",
   "CoC7.RollDice": "¡Tirar dados!",
   "CoC7.CreateLink": "Crear enlace a tirada",
@@ -489,6 +492,7 @@
   "CoC7.AddBook": "Añadir tomo",
   "CoC7.NewSpellName": "nuevo hechizo",
   "CoC7.AddSpell": "Añadir hechizo",
+  "CoC7.AddArmor": "Añadir armadura",
 
   "CoC7.AddWeapon": "Añadir arma",
   "CoC7.NewWeaponName": "nueva arma",
@@ -1064,6 +1068,9 @@
   "CoC7.Settings.DholeUpload.Directory.Hint": "Directorio de subida para avatares de The Dhole's House, en relación al directorio de datos de Foundry",
   "CoC7.Settings.WorldEra.Name": "Época para este mundo",
   "CoC7.Settings.WorldEra.Hint": "Las habilidades pueden variar algo entre épocas, seleccione la época del mundo para que cuando el sistema busque las habilidades encuentre las adecuadas",
+  "CoC7.Settings.ShowWorldEra.Name": "Mostrar Era en la lista de jugadores",
+  "CoC7.Settings.ShowWorldEra.Hint": "Mostrar Era en la lista de jugadores",
+
   "CoC7.Settings.DropCoCID.Name": "Usar CoC ID al soltar objetos",
   "CoC7.Settings.DropCoCID.Hint": "Al soltar objetos con CoC ID mostrar un mensaje que permita almacenar el CoC ID en lugar del objeto",
   "CoC7.Settings.DropCoCID.Dialog": "¿Quiere usar CoC ID al soltar objetos siempre que sea posible? Permite al sistema seleccionar los objetos adecuados para su época",
