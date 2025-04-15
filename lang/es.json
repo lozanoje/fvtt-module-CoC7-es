@@ -1327,6 +1327,7 @@
   "CoC7.CoCIDFlag.keys.i.skill.dodge": "Esquivar",
   "CoC7.CoCIDFlag.keys.i.skill.cthulhu-mythos": "Mitos de Cthulhu",
   "CoC7.CoCIDFlag.keys.i.skill.credit-rating": "Crédito",
+  "CoC7.CoCIDFlag.keys.rt..backstory-injuries-and-scars": "Heridas y cicatrices",
   "CoC7.CoCIDFlag.new": "- ID de sistema personalizado -",
   "CoC7.CoCIDFlag.guess": "Crear ID de sistema (CoC ID) basado en el documento actual",
   "CoC7.CoCIDFlag.priority": "Prioridad de ID de sistema",

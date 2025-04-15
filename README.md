@@ -49,3 +49,6 @@ Los iconos utilizados por este módulo pertenecen a la licencia [Font Awesome Fr
 Font Awesome Free is free, open source, and GPL friendly. You can use it for commercial projects, open source projects, or really almost whatever you want.
 [Icons - CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)
 
+## Escenas
+
+Tablero de investigación: [Máquina de escribir retro máquina de estilo antiguo](https://www.freepik.es/foto-gratis/maquina-escribir-retro-maquina-estilo-antiguo_3224023.htm)

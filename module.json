@@ -1,7 +1,7 @@
 {
   "title": "Translation: Spanish [Call of Cthulhu 7th]",
   "description": "Traducción del sistema Call of Cthulhu 7th (Miskatonic-Investigative-Society/CoC7-FoundryVTT) al español -  Call of Cthulhu 7th spanish translation",
-  "version": "7.11.1",
+  "version": "7.12.1",
   "languages": [
     {
       "lang": "es",
@@ -38,7 +38,7 @@
       {
         "id": "CoC7",
         "type": "system",
-        "compatibility": "7.11"
+        "compatibility": "7.12"
       }
     ],
 	"requires": [
@@ -59,7 +59,7 @@
     "name": "Call of Cthulhu 7th | es",
     "sorting": "a",
     "color": "#b95050",
-    "packs": ["armas-reglasinicio", "creacion-pj", "habilidades", "ocupaciones-reglasinicio", "resumenes-de-reglas"]
+    "packs": ["armas-reglasinicio", "creacion-pj", "habilidades", "ocupaciones-reglasinicio", "resumenes-de-reglas", "escenas"]
   }
   ],
   "packs": [
@@ -105,6 +105,15 @@
       "path": "packs/resumenes-de-reglas.db",
       "private": false,
       "type": "JournalEntry",
+      "system": "CoC7",
+      "flags": {}
+    },
+	{
+      "name": "escenas",
+      "label": "Escenas",
+      "path": "packs/escenas",
+      "private": false,
+      "type": "Scene",
       "system": "CoC7",
       "flags": {}
     }
