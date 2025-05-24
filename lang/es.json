@@ -1323,6 +1323,7 @@
   "CoC7.InvestigatorWizard.SkillSpendArchetypePoints": "Puntos de arquetipo {count} de {total} disponibles {remaining}",
   "CoC7.InvestigatorWizard.CreateInstructions": "Haga clic para crear al personaje. Su Guardian debe estar conectado para crear el personaje",
   "CoC7.InvestigatorWizard.CreatingInvestigator": "Por favor, espere mientras el Guardián crea el investigador",
+  "CoC7.InvestigatorWizard.PersonalDescription": "Descripción personal",
 
   "CoC7.CoCIDFlag.id": "ID",
   "CoC7.CoCIDFlag.title": "Editar ID de sistema (CoC ID)",
