@@ -1,15 +1,13 @@
 {
   "title": "Translation: Spanish [Call of Cthulhu 7th]",
   "description": "Traducción del sistema Call of Cthulhu 7th (Miskatonic-Investigative-Society/CoC7-FoundryVTT) al español -  Call of Cthulhu 7th spanish translation",
-  "version": "7.15.1",
-  "languages": [
-    {
+  "version": "7.16.1",
+  "languages": [{
       "lang": "es",
       "name": "Español",
       "path": "lang/es.json",
       "flags": {}
-    },
-	{
+    }, {
       "lang": "es",
       "name": "Español",
       "path": "lang/es-keys.json",
@@ -20,12 +18,10 @@
   "manifest": "https://raw.githubusercontent.com/lozanoje/fvtt-module-CoC7-es/master/module.json",
   "download": "https://github.com/lozanoje/fvtt-module-CoC7-es/archive/master.zip",
   "id": "fvtt-module-CoC7-es",
-  "authors": [
-    {
+  "authors": [{
       "name": "José E. Lozano (@Viriato139ac#0342)",
       "flags": {}
-    },
-    {
+    }, {
       "name": "Geike",
       "flags": {}
     }
@@ -34,15 +30,13 @@
     "fvtt-module-CoC7-es.js"
   ],
   "relationships": {
-    "systems": [
-      {
+    "systems": [{
         "id": "CoC7",
         "type": "system",
-        "compatibility": "7.15"
+        "compatibility": "7.16"
       }
     ],
-	"requires": [
-      {
+    "requires": [{
         "id": "foundryvtt-es",
         "type": "module",
         "compatibility": {}
@@ -54,16 +48,14 @@
     "verified": "12.343",
     "maximum": "13"
   },
-  "packFolders": [
-  {
-    "name": "Call of Cthulhu 7th | es",
-    "sorting": "a",
-    "color": "#b95050",
-    "packs": ["armas-reglasinicio", "creacion-pj", "habilidades", "ocupaciones-reglasinicio", "resumenes-de-reglas", "escenas"]
-  }
+  "packFolders": [{
+      "name": "Call of Cthulhu 7th | es",
+      "sorting": "a",
+      "color": "#b95050",
+      "packs": ["armas-reglasinicio", "creacion-pj", "habilidades", "ocupaciones-reglasinicio", "resumenes-de-reglas", "escenas"]
+    }
   ],
-  "packs": [
-    {
+  "packs": [{
       "name": "habilidades",
       "label": "Habilidades",
       "path": "packs/habilidades.db",
@@ -71,8 +63,7 @@
       "type": "Item",
       "system": "CoC7",
       "flags": {}
-    },
-    {
+    }, {
       "name": "creacion-pj",
       "label": "Creación PJ",
       "path": "packs/creacion-pj.db",
@@ -80,8 +71,7 @@
       "type": "Item",
       "system": "CoC7",
       "flags": {}
-    },
-    {
+    }, {
       "name": "ocupaciones-reglasinicio",
       "label": "Ocupaciones (Reglas inicio)",
       "path": "packs/ocupaciones-reglasinicio.db",
@@ -89,8 +79,7 @@
       "type": "Item",
       "system": "CoC7",
       "flags": {}
-    },
-    {
+    }, {
       "name": "armas-reglasinicio",
       "label": "Armas (Reglas inicio)",
       "path": "packs/armas-reglasinicio.db",
@@ -98,8 +87,7 @@
       "type": "Item",
       "system": "CoC7",
       "flags": {}
-    },
-    {
+    }, {
       "name": "resumenes-de-reglas",
       "label": "Resúmenes de reglas",
       "path": "packs/resumenes-de-reglas.db",
@@ -107,8 +95,7 @@
       "type": "JournalEntry",
       "system": "CoC7",
       "flags": {}
-    },
-	{
+    }, {
       "name": "escenas",
       "label": "Escenas",
       "path": "packs/escenas",
