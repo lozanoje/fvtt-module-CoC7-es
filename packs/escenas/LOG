@@ -1,15 +1,15 @@
-2025/06/05-09:30:28.220726 ec2d1489f040 Recovering log #146
-2025/06/05-09:30:28.226796 ec2d1489f040 Delete type=0 #146
-2025/06/05-09:30:28.226821 ec2d1489f040 Delete type=3 #144
-2025/06/05-09:39:35.771383 ec2cfd3ff040 Level-0 table #152: started
-2025/06/05-09:39:35.775466 ec2cfd3ff040 Level-0 table #152: 1848 bytes OK
-2025/06/05-09:39:35.777576 ec2cfd3ff040 Delete type=0 #150
-2025/06/05-09:39:35.788390 ec2cfd3ff040 Manual compaction at level-0 from '!scenes!Vkykyj1SpetVHnZD' @ 72057594037927935 : 1 .. '!scenes!Vkykyj1SpetVHnZD' @ 0 : 0; will stop at (end)
-2025/06/05-09:39:35.794104 ec2cfd3ff040 Manual compaction at level-1 from '!scenes!Vkykyj1SpetVHnZD' @ 72057594037927935 : 1 .. '!scenes!Vkykyj1SpetVHnZD' @ 0 : 0; will stop at '!scenes!Vkykyj1SpetVHnZD' @ 9 : 1
-2025/06/05-09:39:35.794113 ec2cfd3ff040 Compacting 1@1 + 1@2 files
-2025/06/05-09:39:35.796576 ec2cfd3ff040 Generated table #153@1: 1 keys, 1848 bytes
-2025/06/05-09:39:35.796594 ec2cfd3ff040 Compacted 1@1 + 1@2 files => 1848 bytes
-2025/06/05-09:39:35.799176 ec2cfd3ff040 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/06/05-09:39:35.799238 ec2cfd3ff040 Delete type=2 #152
-2025/06/05-09:39:35.799374 ec2cfd3ff040 Delete type=2 #148
-2025/06/05-09:39:35.807045 ec2cfd3ff040 Manual compaction at level-1 from '!scenes!Vkykyj1SpetVHnZD' @ 9 : 1 .. '!scenes!Vkykyj1SpetVHnZD' @ 0 : 0; will stop at (end)
+2025/06/12-16:33:09.360952 ec2cfefdf040 Recovering log #151
+2025/06/12-16:33:09.367221 ec2cfefdf040 Delete type=0 #151
+2025/06/12-16:33:09.367244 ec2cfefdf040 Delete type=3 #149
+2025/06/12-20:18:02.273787 ec2cfd3ff040 Level-0 table #157: started
+2025/06/12-20:18:02.276394 ec2cfd3ff040 Level-0 table #157: 1848 bytes OK
+2025/06/12-20:18:02.278501 ec2cfd3ff040 Delete type=0 #155
+2025/06/12-20:18:02.287100 ec2cfd3ff040 Manual compaction at level-0 from '!scenes!Vkykyj1SpetVHnZD' @ 72057594037927935 : 1 .. '!scenes!Vkykyj1SpetVHnZD' @ 0 : 0; will stop at (end)
+2025/06/12-20:18:02.292018 ec2cfd3ff040 Manual compaction at level-1 from '!scenes!Vkykyj1SpetVHnZD' @ 72057594037927935 : 1 .. '!scenes!Vkykyj1SpetVHnZD' @ 0 : 0; will stop at '!scenes!Vkykyj1SpetVHnZD' @ 10 : 1
+2025/06/12-20:18:02.292029 ec2cfd3ff040 Compacting 1@1 + 1@2 files
+2025/06/12-20:18:02.294678 ec2cfd3ff040 Generated table #158@1: 1 keys, 1848 bytes
+2025/06/12-20:18:02.294698 ec2cfd3ff040 Compacted 1@1 + 1@2 files => 1848 bytes
+2025/06/12-20:18:02.296830 ec2cfd3ff040 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/06/12-20:18:02.296894 ec2cfd3ff040 Delete type=2 #157
+2025/06/12-20:18:02.296950 ec2cfd3ff040 Delete type=2 #153
+2025/06/12-20:18:02.301860 ec2cfd3ff040 Manual compaction at level-1 from '!scenes!Vkykyj1SpetVHnZD' @ 10 : 1 .. '!scenes!Vkykyj1SpetVHnZD' @ 0 : 0; will stop at (end)

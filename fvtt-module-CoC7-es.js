@@ -1,13 +1,15 @@
-Hooks.once('init', () => {
-
+Hooks.once("ready", async function () {
+  if (game.user.isGM) {
+    let ficherosjs = await FilePicker.browse(
+      "data",
+      "/modules/fvtt-module-CoC7-es/scripts"
+    ).then((picker) => picker.files);
+    for (var i = 0; i < ficherosjs.length; i++) {
+      if (ficherosjs[i].search(/\.js/) > -1) updateMacro(ficherosjs[i]);
+    }
+  }
 });
 
-Hooks.once("ready", async function () {
-	console.log("language:" + game.settings.get("core", "language"))
-    if (game.user.isGM && game.settings.get("core", "language") === "es") {
-	  document.getElementById("logo").src="/modules/fvtt-module-CoC7-es/imagenes/fvtt-coc-es.webp";
-  }
-	
   function updateMacro(macroFile) {
     fetch(macroFile)
       .then((res) => res.text())
@@ -114,14 +116,3 @@ Hooks.once("ready", async function () {
         }
       });
   }
-
-  if (game.user.isGM) {
-    let ficherosjs = await FilePicker.browse(
-      "data",
-      "/modules/fvtt-module-CoC7-es/scripts"
-    ).then((picker) => picker.files);
-    for (var i = 0; i < ficherosjs.length; i++) {
-      if (ficherosjs[i].search(/\.js/) > -1) updateMacro(ficherosjs[i]);
-    }
-  }
-});

@@ -1,14 +1,14 @@
-2025/06/03-06:09:36.680327 ec2cfffff040 Recovering log #1427
-2025/06/03-06:09:36.686603 ec2cfffff040 Delete type=3 #1425
-2025/06/03-06:09:36.686632 ec2cfffff040 Delete type=0 #1427
-2025/06/03-06:23:51.801253 ec2cfd3ff040 Level-0 table #1433: started
-2025/06/03-06:23:51.804828 ec2cfd3ff040 Level-0 table #1433: 8742 bytes OK
-2025/06/03-06:23:51.806994 ec2cfd3ff040 Delete type=0 #1431
-2025/06/03-06:23:51.823853 ec2cfd3ff040 Manual compaction at level-0 from '!items!2HlLMQ2MuuGWIPYR' @ 72057594037927935 : 1 .. '!items!wscfhXHK545iYXoX' @ 0 : 0; will stop at '!items!wscfhXHK545iYXoX' @ 1313 : 1
-2025/06/03-06:23:51.823866 ec2cfd3ff040 Compacting 1@0 + 1@1 files
-2025/06/03-06:23:51.826525 ec2cfd3ff040 Generated table #1434@0: 13 keys, 8742 bytes
-2025/06/03-06:23:51.826544 ec2cfd3ff040 Compacted 1@0 + 1@1 files => 8742 bytes
-2025/06/03-06:23:51.828974 ec2cfd3ff040 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/06/03-06:23:51.829053 ec2cfd3ff040 Delete type=2 #1429
-2025/06/03-06:23:51.829135 ec2cfd3ff040 Delete type=2 #1433
-2025/06/03-06:23:51.838214 ec2cfd3ff040 Manual compaction at level-0 from '!items!wscfhXHK545iYXoX' @ 1313 : 1 .. '!items!wscfhXHK545iYXoX' @ 0 : 0; will stop at (end)
+2025/06/05-09:30:28.202389 ec2cff7ef040 Recovering log #1432
+2025/06/05-09:30:28.208321 ec2cff7ef040 Delete type=0 #1432
+2025/06/05-09:30:28.208347 ec2cff7ef040 Delete type=3 #1430
+2025/06/05-09:39:35.783257 ec2cfd3ff040 Level-0 table #1438: started
+2025/06/05-09:39:35.786038 ec2cfd3ff040 Level-0 table #1438: 8719 bytes OK
+2025/06/05-09:39:35.788314 ec2cfd3ff040 Delete type=0 #1436
+2025/06/05-09:39:35.788416 ec2cfd3ff040 Manual compaction at level-0 from '!items!2HlLMQ2MuuGWIPYR' @ 72057594037927935 : 1 .. '!items!wscfhXHK545iYXoX' @ 0 : 0; will stop at '!items!wscfhXHK545iYXoX' @ 1326 : 1
+2025/06/05-09:39:35.788808 ec2cfd3ff040 Compacting 1@0 + 1@1 files
+2025/06/05-09:39:35.791898 ec2cfd3ff040 Generated table #1439@0: 13 keys, 8719 bytes
+2025/06/05-09:39:35.791918 ec2cfd3ff040 Compacted 1@0 + 1@1 files => 8719 bytes
+2025/06/05-09:39:35.793921 ec2cfd3ff040 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/06/05-09:39:35.793992 ec2cfd3ff040 Delete type=2 #1434
+2025/06/05-09:39:35.794060 ec2cfd3ff040 Delete type=2 #1438
+2025/06/05-09:39:35.807028 ec2cfd3ff040 Manual compaction at level-0 from '!items!wscfhXHK545iYXoX' @ 1326 : 1 .. '!items!wscfhXHK545iYXoX' @ 0 : 0; will stop at (end)
