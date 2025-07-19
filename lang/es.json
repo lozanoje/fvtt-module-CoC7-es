@@ -447,7 +447,7 @@
   "CoC7.AnySpecName": "Genérica",
   "CoC7.BoutOfMadnessName": "Episodio de Locura",
   "CoC7.InsanityName": "Locura",
-  
+
   "CoC7.SkillNameHandgun": "Arma corta",
   "CoC7.SkillNameRifle": "Fusil",
   "CoC7.SkillNameShotgun": "Escopeta",
@@ -1047,7 +1047,7 @@
   "CoC7.Migrate.ErrorActor": "Migración de sistema CoC7 para el actor {name} fallida: {message}",
 
   "CoC7.System.Documentation": "Manual del sistema CoC7",
-  
+
   "CoC7.Settings.CoreRules.Title": "Reglas opcionales del Manual del Guardián",
   "CoC7.Settings.Rules.Name": "Variantes/reglas opcionales",
   "CoC7.Settings.Rules.Label": "Variantes/reglas opcionales",
@@ -1251,7 +1251,7 @@
 
   "CoC7.EffectNew": "Nuevo efecto",
   "CoC7.EffectAppliedCantOverride": "Efecto activo aplicado. No puede modificar [{name}]. Desactive el correspondiente efecto para cambiar este valor",
- 
+
   "CoC7.InvestigatorWizard.Title": "Crear investigador",
   "CoC7.InvestigatorWizard.TitleKeeperConfiguration": "Configuración para el Guardián",
   "CoC7.InvestigatorWizard.TitleSelectSetup": "Ajustes del investigador",
