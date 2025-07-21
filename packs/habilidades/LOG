@@ -1,14 +1,14 @@
-2025/06/12-16:33:09.318413 ec2d1489f040 Recovering log #1455
-2025/06/12-16:33:09.325517 ec2d1489f040 Delete type=3 #1453
-2025/06/12-16:33:09.325575 ec2d1489f040 Delete type=0 #1455
-2025/06/12-20:18:02.240623 ec2cfd3ff040 Level-0 table #1461: started
-2025/06/12-20:18:02.243621 ec2cfd3ff040 Level-0 table #1461: 47685 bytes OK
-2025/06/12-20:18:02.245546 ec2cfd3ff040 Delete type=0 #1459
-2025/06/12-20:18:02.259398 ec2cfd3ff040 Manual compaction at level-0 from '!items!0QrrChjaMg7W5p0v' @ 72057594037927935 : 1 .. '!items!yoLI9YnIZYEEVKB6' @ 0 : 0; will stop at '!items!yoLI9YnIZYEEVKB6' @ 13768 : 1
-2025/06/12-20:18:02.259415 ec2cfd3ff040 Compacting 1@0 + 1@1 files
-2025/06/12-20:18:02.262681 ec2cfd3ff040 Generated table #1462@0: 135 keys, 47685 bytes
-2025/06/12-20:18:02.262698 ec2cfd3ff040 Compacted 1@0 + 1@1 files => 47685 bytes
-2025/06/12-20:18:02.264781 ec2cfd3ff040 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/06/12-20:18:02.264843 ec2cfd3ff040 Delete type=2 #1461
-2025/06/12-20:18:02.264911 ec2cfd3ff040 Delete type=2 #1457
-2025/06/12-20:18:02.273673 ec2cfd3ff040 Manual compaction at level-0 from '!items!yoLI9YnIZYEEVKB6' @ 13768 : 1 .. '!items!yoLI9YnIZYEEVKB6' @ 0 : 0; will stop at (end)
+2025/07/21-17:41:56.879 4f34 Recovering log #1465
+2025/07/21-17:41:56.889 4f34 Delete type=0 #1465
+2025/07/21-17:41:56.890 4f34 Delete type=3 #1463
+2025/07/21-17:45:37.753 564 Level-0 table #1471: started
+2025/07/21-17:45:37.760 564 Level-0 table #1471: 48164 bytes OK
+2025/07/21-17:45:37.764 564 Delete type=0 #1469
+2025/07/21-17:45:37.794 564 Manual compaction at level-0 from '!items!0QrrChjaMg7W5p0v' @ 72057594037927935 : 1 .. '!items!yoLI9YnIZYEEVKB6' @ 0 : 0; will stop at '!items!yoLI9YnIZYEEVKB6' @ 14173 : 1
+2025/07/21-17:45:37.794 564 Compacting 1@0 + 1@1 files
+2025/07/21-17:45:37.799 564 Generated table #1472@0: 135 keys, 48164 bytes
+2025/07/21-17:45:37.799 564 Compacted 1@0 + 1@1 files => 48164 bytes
+2025/07/21-17:45:37.804 564 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/07/21-17:45:37.804 564 Delete type=2 #1467
+2025/07/21-17:45:37.804 564 Delete type=2 #1471
+2025/07/21-17:45:37.834 564 Manual compaction at level-0 from '!items!yoLI9YnIZYEEVKB6' @ 14173 : 1 .. '!items!yoLI9YnIZYEEVKB6' @ 0 : 0; will stop at (end)

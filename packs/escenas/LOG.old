@@ -1,15 +1,15 @@
-2025/06/05-09:30:28.220726 ec2d1489f040 Recovering log #146
-2025/06/05-09:30:28.226796 ec2d1489f040 Delete type=0 #146
-2025/06/05-09:30:28.226821 ec2d1489f040 Delete type=3 #144
-2025/06/05-09:39:35.771383 ec2cfd3ff040 Level-0 table #152: started
-2025/06/05-09:39:35.775466 ec2cfd3ff040 Level-0 table #152: 1848 bytes OK
-2025/06/05-09:39:35.777576 ec2cfd3ff040 Delete type=0 #150
-2025/06/05-09:39:35.788390 ec2cfd3ff040 Manual compaction at level-0 from '!scenes!Vkykyj1SpetVHnZD' @ 72057594037927935 : 1 .. '!scenes!Vkykyj1SpetVHnZD' @ 0 : 0; will stop at (end)
-2025/06/05-09:39:35.794104 ec2cfd3ff040 Manual compaction at level-1 from '!scenes!Vkykyj1SpetVHnZD' @ 72057594037927935 : 1 .. '!scenes!Vkykyj1SpetVHnZD' @ 0 : 0; will stop at '!scenes!Vkykyj1SpetVHnZD' @ 9 : 1
-2025/06/05-09:39:35.794113 ec2cfd3ff040 Compacting 1@1 + 1@2 files
-2025/06/05-09:39:35.796576 ec2cfd3ff040 Generated table #153@1: 1 keys, 1848 bytes
-2025/06/05-09:39:35.796594 ec2cfd3ff040 Compacted 1@1 + 1@2 files => 1848 bytes
-2025/06/05-09:39:35.799176 ec2cfd3ff040 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/06/05-09:39:35.799238 ec2cfd3ff040 Delete type=2 #152
-2025/06/05-09:39:35.799374 ec2cfd3ff040 Delete type=2 #148
-2025/06/05-09:39:35.807045 ec2cfd3ff040 Manual compaction at level-1 from '!scenes!Vkykyj1SpetVHnZD' @ 9 : 1 .. '!scenes!Vkykyj1SpetVHnZD' @ 0 : 0; will stop at (end)
+2025/07/20-23:32:41.342 49d4 Recovering log #156
+2025/07/20-23:32:41.481 49d4 Delete type=0 #156
+2025/07/20-23:32:41.482 49d4 Delete type=3 #154
+2025/07/20-23:38:10.016 1d14 Level-0 table #162: started
+2025/07/20-23:38:10.060 1d14 Level-0 table #162: 2089 bytes OK
+2025/07/20-23:38:10.171 1d14 Delete type=0 #160
+2025/07/20-23:38:10.329 1d14 Manual compaction at level-0 from '!scenes!Vkykyj1SpetVHnZD' @ 72057594037927935 : 1 .. '!scenes!Vkykyj1SpetVHnZD' @ 0 : 0; will stop at (end)
+2025/07/20-23:38:10.472 1d14 Manual compaction at level-1 from '!scenes!Vkykyj1SpetVHnZD' @ 72057594037927935 : 1 .. '!scenes!Vkykyj1SpetVHnZD' @ 0 : 0; will stop at '!scenes!Vkykyj1SpetVHnZD' @ 11 : 1
+2025/07/20-23:38:10.472 1d14 Compacting 1@1 + 1@2 files
+2025/07/20-23:38:10.537 1d14 Generated table #163@1: 1 keys, 1862 bytes
+2025/07/20-23:38:10.537 1d14 Compacted 1@1 + 1@2 files => 1862 bytes
+2025/07/20-23:38:10.581 1d14 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/20-23:38:10.582 1d14 Delete type=2 #158
+2025/07/20-23:38:10.582 1d14 Delete type=2 #162
+2025/07/20-23:38:10.628 1d14 Manual compaction at level-1 from '!scenes!Vkykyj1SpetVHnZD' @ 11 : 1 .. '!scenes!Vkykyj1SpetVHnZD' @ 0 : 0; will stop at (end)
