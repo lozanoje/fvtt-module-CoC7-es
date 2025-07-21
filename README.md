@@ -38,6 +38,7 @@ Traducción del sistema Call of Cthulhu 7th edition (github.com/Miskatonic-Inves
 ## Créditos  
 
 * La traducción es obra de *José E. Lozano* (Viriato139ac) y *Gerbek*.
+* Se ha incorporado la revisión que realizó *Zeedif* en el repositorio del sistema.
 * Se ha usado como plantilla la traducción de *Dungeon World* de *patoarayas*.
 * Los resúmenes de reglas son de *Luis Gimeno*, publicadas en [lospergaminosdelfenix](https://www.lospergaminosdelfenix.com/2020/04/recurso-ficha-autocalculable-y.html) y de *JandriRisas*, publicadas en los [foros de edge entertainment](http://www.edgeent.com/tema/217425-hoja_de_referencia_rapida).
 * Las ayudas de combate han sido creadas por *José E. Lozano* (Viriato139ac)
