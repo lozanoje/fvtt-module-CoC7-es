@@ -1,14 +1,14 @@
-2025/07/21-17:41:56.894 4ce4 Recovering log #1468
-2025/07/21-17:41:56.905 4ce4 Delete type=0 #1468
-2025/07/21-17:41:56.905 4ce4 Delete type=3 #1466
-2025/07/21-17:45:37.784 564 Level-0 table #1474: started
-2025/07/21-17:45:37.788 564 Level-0 table #1474: 7085 bytes OK
-2025/07/21-17:45:37.793 564 Delete type=0 #1472
-2025/07/21-17:45:37.824 564 Manual compaction at level-0 from '!items!8lMckRzG3dqp4mm3' @ 72057594037927935 : 1 .. '!items!gQIQqbbwm6b8mYih' @ 0 : 0; will stop at '!items!gQIQqbbwm6b8mYih' @ 642 : 1
-2025/07/21-17:45:37.824 564 Compacting 1@0 + 1@1 files
-2025/07/21-17:45:37.829 564 Generated table #1475@0: 6 keys, 7085 bytes
-2025/07/21-17:45:37.829 564 Compacted 1@0 + 1@1 files => 7085 bytes
-2025/07/21-17:45:37.834 564 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/07/21-17:45:37.834 564 Delete type=2 #1470
-2025/07/21-17:45:37.834 564 Delete type=2 #1474
-2025/07/21-17:45:37.834 564 Manual compaction at level-0 from '!items!gQIQqbbwm6b8mYih' @ 642 : 1 .. '!items!gQIQqbbwm6b8mYih' @ 0 : 0; will stop at (end)
+2025/07/26-23:21:29.247 29e0 Recovering log #1483
+2025/07/26-23:21:29.343 29e0 Delete type=0 #1483
+2025/07/26-23:21:29.344 29e0 Delete type=3 #1481
+2025/07/26-23:27:43.514 47c Level-0 table #1489: started
+2025/07/26-23:27:43.580 47c Level-0 table #1489: 7087 bytes OK
+2025/07/26-23:27:43.624 47c Delete type=0 #1487
+2025/07/26-23:27:43.759 47c Manual compaction at level-0 from '!items!8lMckRzG3dqp4mm3' @ 72057594037927935 : 1 .. '!items!gQIQqbbwm6b8mYih' @ 0 : 0; will stop at '!items!gQIQqbbwm6b8mYih' @ 660 : 1
+2025/07/26-23:27:43.759 47c Compacting 1@0 + 1@1 files
+2025/07/26-23:27:43.804 47c Generated table #1490@0: 6 keys, 7087 bytes
+2025/07/26-23:27:43.804 47c Compacted 1@0 + 1@1 files => 7087 bytes
+2025/07/26-23:27:43.848 47c compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/07/26-23:27:43.848 47c Delete type=2 #1485
+2025/07/26-23:27:43.848 47c Delete type=2 #1489
+2025/07/26-23:27:44.059 47c Manual compaction at level-0 from '!items!gQIQqbbwm6b8mYih' @ 660 : 1 .. '!items!gQIQqbbwm6b8mYih' @ 0 : 0; will stop at (end)
