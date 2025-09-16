@@ -1107,6 +1107,7 @@
   "CoC7.ToolTipSkillFlagToggle": "<label>{status}</label><ol><li><strong>Doble clic</strong> Marcar/desmarcar</li>",
   "CoC7.ToolTipSkillFlagged": "Marcada para desarrollo",
   "CoC7.ToolTipSkillUnflagged": "No marcada para desarrollo",
+  "CoC7.ToolTipSeeNotes": "Ver notas",
 
   "SETTINGS.TitleRules": "Reglas",
   "SETTINGS.TitleInitiative": "Ajustes de iniciativa",

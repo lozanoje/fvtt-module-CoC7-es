@@ -1,15 +1,15 @@
-2025/07/22-09:22:31.119 4630 Recovering log #171
-2025/07/22-09:22:31.130 4630 Delete type=0 #171
-2025/07/22-09:22:31.131 4630 Delete type=3 #169
-2025/07/22-09:48:47.299 49e8 Level-0 table #177: started
-2025/07/22-09:48:47.304 49e8 Level-0 table #177: 1864 bytes OK
-2025/07/22-09:48:47.308 49e8 Delete type=0 #175
-2025/07/22-09:48:47.308 49e8 Manual compaction at level-0 from '!scenes!Vkykyj1SpetVHnZD' @ 72057594037927935 : 1 .. '!scenes!Vkykyj1SpetVHnZD' @ 0 : 0; will stop at (end)
-2025/07/22-09:48:47.309 49e8 Manual compaction at level-1 from '!scenes!Vkykyj1SpetVHnZD' @ 72057594037927935 : 1 .. '!scenes!Vkykyj1SpetVHnZD' @ 0 : 0; will stop at '!scenes!Vkykyj1SpetVHnZD' @ 15 : 1
-2025/07/22-09:48:47.309 49e8 Compacting 1@1 + 1@2 files
-2025/07/22-09:48:47.317 49e8 Generated table #178@1: 1 keys, 1864 bytes
-2025/07/22-09:48:47.317 49e8 Compacted 1@1 + 1@2 files => 1864 bytes
-2025/07/22-09:48:47.322 49e8 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/07/22-09:48:47.322 49e8 Delete type=2 #173
-2025/07/22-09:48:47.322 49e8 Delete type=2 #177
-2025/07/22-09:48:47.340 49e8 Manual compaction at level-1 from '!scenes!Vkykyj1SpetVHnZD' @ 15 : 1 .. '!scenes!Vkykyj1SpetVHnZD' @ 0 : 0; will stop at (end)
+2025/09/04-07:54:40.765 1c80 Recovering log #181
+2025/09/04-07:54:40.777 1c80 Delete type=0 #181
+2025/09/04-07:54:40.777 1c80 Delete type=3 #179
+2025/09/04-08:03:58.617 4f3c Level-0 table #187: started
+2025/09/04-08:03:58.622 4f3c Level-0 table #187: 2061 bytes OK
+2025/09/04-08:03:58.626 4f3c Delete type=0 #185
+2025/09/04-08:03:58.648 4f3c Manual compaction at level-0 from '!scenes!Vkykyj1SpetVHnZD' @ 72057594037927935 : 1 .. '!scenes!Vkykyj1SpetVHnZD' @ 0 : 0; will stop at (end)
+2025/09/04-08:03:58.659 4f3c Manual compaction at level-1 from '!scenes!Vkykyj1SpetVHnZD' @ 72057594037927935 : 1 .. '!scenes!Vkykyj1SpetVHnZD' @ 0 : 0; will stop at '!scenes!Vkykyj1SpetVHnZD' @ 17 : 1
+2025/09/04-08:03:58.659 4f3c Compacting 1@1 + 1@2 files
+2025/09/04-08:03:58.666 4f3c Generated table #188@1: 1 keys, 1864 bytes
+2025/09/04-08:03:58.666 4f3c Compacted 1@1 + 1@2 files => 1864 bytes
+2025/09/04-08:03:58.670 4f3c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/09/04-08:03:58.670 4f3c Delete type=2 #183
+2025/09/04-08:03:58.671 4f3c Delete type=2 #187
+2025/09/04-08:03:58.702 4f3c Manual compaction at level-1 from '!scenes!Vkykyj1SpetVHnZD' @ 17 : 1 .. '!scenes!Vkykyj1SpetVHnZD' @ 0 : 0; will stop at (end)
