@@ -1,23 +1,23 @@
 {
+  "id": "fvtt-module-CoC7-es",
   "title": "Translation: Spanish [Call of Cthulhu 7th]",
   "description": "Traducción del sistema Call of Cthulhu 7th (Miskatonic-Investigative-Society/CoC7-FoundryVTT) al español -  Call of Cthulhu 7th spanish translation",
-  "version": "7.24.1",
+  "version": "8.1.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13.351",
+    "maximum": "14"
+  },
   "languages": [{
       "lang": "es",
       "name": "Español",
       "path": "lang/es.json",
-      "flags": {}
-    }, {
-      "lang": "es",
-      "name": "Español",
-      "path": "lang/es-keys.json",
       "flags": {}
     }
   ],
   "url": "https://github.com/lozanoje/fvtt-module-CoC7-es",
   "manifest": "https://raw.githubusercontent.com/lozanoje/fvtt-module-CoC7-es/master/module.json",
   "download": "https://github.com/lozanoje/fvtt-module-CoC7-es/archive/master.zip",
-  "id": "fvtt-module-CoC7-es",
   "authors": [{
       "name": "José E. Lozano (@Viriato139ac#0342)",
       "flags": {}
@@ -33,7 +33,7 @@
     "systems": [{
         "id": "CoC7",
         "type": "system",
-        "compatibility": "7.24"
+        "compatibility": "8.1"
       }
     ],
     "requires": [{
@@ -42,11 +42,6 @@
         "compatibility": {}
       }
     ]
-  },
-  "compatibility": {
-    "minimum": "12",
-    "verified": "13.350",
-    "maximum": "13"
   },
   "packFolders": [{
       "name": "Call of Cthulhu 7th | es",
