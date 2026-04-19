@@ -987,6 +987,8 @@
   "CoC7.Settings.Rules.Label": "Épocas y reglas opcionales",
   "CoC7.Settings.Rules.Hint": "Configurar épocas y reglas opcionales como Pulp Cthulhu",
   "CoC7.Settings.HouseRules.Title": "Reglas caseras comunes",
+  "CoC7.Settings.HouseRules.Label": "Configurar reglas caseras",
+  "CoC7.Settings.HouseRules.Hint": "Configura reglas casers comunes y reorganiza características",
   "CoC7.Settings.PulpRules.DoubleMaxHealth.Name": "Duplicar Puntos de Vida máximos",
   "CoC7.Settings.PulpRules.DoubleMaxHealth.Hint": "Los Puntos de Vida máximos serán (CON + TAM) / 5",
   "CoC7.Settings.PulpRules.DevelopmentRollLuck.Name": "Aumentar Suerte por tiradas de desarrollo",
@@ -1014,6 +1016,8 @@
   "CoC7.Settings.ShowWorldEra.Hint": "Muestra la época del mundo en la lista de jugadores",
   "CoC7.Settings.AllowPushFumbles.Name": "Permitir forzar las pifias",
   "CoC7.Settings.AllowPushFumbles.Hint": "Si una tirada se puede forzar y el resultado ha sido una pifia, permitir forzar la tirada tras aplicar las consecuencias de la pifia.",
+  "CoC7.Settings.CharacteristicsOrder.Name": "Orden de características",
+  "CoC7.Settings.CharacteristicsOrder.Hint": "Hay muchos cambios menores al orden de las características. Arrastralos al orden de este mundo.",
 
   "CoC7.Settings.DropCoCID.Name": "Usar ID de CoC al soltar objetos",
   "CoC7.Settings.DropCoCID.Hint": "Al soltar objetos con ID de CoC, preguntar si se almacena el ID de CoC en lugar del UUID.",
