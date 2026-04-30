@@ -768,7 +768,8 @@
   "CoC7.SpellSuccessfullyLearned": "¡El hechizo '{spell}' ha sido aprendido con éxito!",
   "CoC7.SpellAlreadyLearned": "El hechizo ('{spell}') ya fue aprendido.",
 
-  "CoC7.BookHasNothingMoreToTeach": "{book} no tiene nada más que enseñar. La habilidad de Mitos de Cthulhu de {actor} es mayor que la puntuación de Mitos de este tomo.",
+  "CoC7.BookAlterProgress": "Cantidad de progreso del estudio",
+  "CoC7.BookProgressValue": "Número que altera el progreso en (1 - {max})",
   "CoC7.BookType": "Tipo de libro",
   "CoC7.Content": "Contenido",
   "CoC7.CthulhuMythosFinal": "Mitos de Cthulhu completo",
@@ -781,6 +782,8 @@
   "CoC7.GainsForReading": "Aumentos de habilidad por leer <i>{book}</i>.",
   "CoC7.InitialReading": "Lectura inicial",
   "CoC7.InitialReadingNeeded": "{actor} necesita realizar una Lectura inicial de <i>{book}</i> para poder avanzar en el progreso del Estudio completo.",
+  "CoC7.ReferenceTome": "Tomo de referencia",
+  "CoC7.ReferenceTomeFlavor": "Citar {book} durante {hours} horas {flavor}",
   "CoC7.LearnSpellAttempt": "Intento de aprender el hechizo {spell} del libro <i>{book}</i>.",
   "CoC7.MarkedForDevelopment": "Marcado para desarrollo",
   "CoC7.Mythos": "Mitos",
