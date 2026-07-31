@@ -1575,6 +1575,7 @@
   "CoC7.Config.FixedHeadingCSS": "Arreglado CSS de título de la aventura",
   "CoC7.Config.AdventureSubheading": "Arreglado subtítulo de la aventura",
   "CoC7.Config.AdventureChangeHint": "Necesitarás cerrar y abrir el documento para aplicar los cambios",
+  "CoC7.Config.JournalCSS": "Diario de clase CSS",
   "CoC7.ModifiedByActiveEffect": "Está siendo modificado por un efecto activo y no se puede editar directamente",
 
   "CoC7.CoC7ModelsActorContainerSheetV2": "Hoja CoC7 de contenedor",
