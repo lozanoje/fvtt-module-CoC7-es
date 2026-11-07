@@ -1,14 +1,7 @@
-2026/06/13-07:01:47.347155 ffff8d7eb010 Recovering log #541
-2026/06/13-07:01:47.352891 ffff8d7eb010 Delete type=3 #539
-2026/06/13-07:01:47.352938 ffff8d7eb010 Delete type=0 #541
-2026/06/13-07:03:04.185266 ffff8cfea010 Level-0 table #546: started
-2026/06/13-07:03:04.187561 ffff8cfea010 Level-0 table #546: 2072 bytes OK
-2026/06/13-07:03:04.189542 ffff8cfea010 Delete type=0 #544
-2026/06/13-07:03:04.195365 ffff8cfea010 Manual compaction at level-0 from '!scenes!Vkykyj1SpetVHnZD' @ 72057594037927935 : 1 .. '!scenes.levels!Vkykyj1SpetVHnZD.defaultLevel0000' @ 0 : 0; will stop at '!scenes.levels!Vkykyj1SpetVHnZD.defaultLevel0000' @ 30 : 1
-2026/06/13-07:03:04.195376 ffff8cfea010 Compacting 1@0 + 1@1 files
-2026/06/13-07:03:04.197687 ffff8cfea010 Generated table #547@0: 2 keys, 2072 bytes
-2026/06/13-07:03:04.197709 ffff8cfea010 Compacted 1@0 + 1@1 files => 2072 bytes
-2026/06/13-07:03:04.199449 ffff8cfea010 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/06/13-07:03:04.199517 ffff8cfea010 Delete type=2 #546
-2026/06/13-07:03:04.199575 ffff8cfea010 Delete type=2 #522
-2026/06/13-07:03:04.204341 ffff8cfea010 Manual compaction at level-0 from '!scenes.levels!Vkykyj1SpetVHnZD.defaultLevel0000' @ 30 : 1 .. '!scenes.levels!Vkykyj1SpetVHnZD.defaultLevel0000' @ 0 : 0; will stop at (end)
+2026/09/20-06:42:50.480158 ffff567fc010 Recovering log #554
+2026/09/20-06:42:50.485487 ffff567fc010 Delete type=3 #552
+2026/09/20-06:42:50.485532 ffff567fc010 Delete type=0 #554
+2026/09/20-06:45:12.933359 ffff54e4d010 Level-0 table #559: started
+2026/09/20-06:45:12.933480 ffff54e4d010 Level-0 table #559: 0 bytes OK
+2026/09/20-06:45:12.935486 ffff54e4d010 Delete type=0 #557
+2026/09/20-06:45:12.951621 ffff54e4d010 Manual compaction at level-0 from '!scenes!Vkykyj1SpetVHnZD' @ 72057594037927935 : 1 .. '!scenes.levels!Vkykyj1SpetVHnZD.defaultLevel0000' @ 0 : 0; will stop at (end)
